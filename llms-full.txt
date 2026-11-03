@@ -1,0 +1,71 @@
+# SunoMP3 — полный AI-паспорт
+
+> SunoMP3 — сервис для выгрузки музыки из Suno. Пришли ссылку на трек в
+> Telegram-бота @sunoMP3bot — получи MP3 320 с обложкой и тегами, WAV без сжатия,
+> текст песни, вертикальный ролик 1080×1920 для Shorts/Reels или пачку треков
+> одним ZIP.
+
+## Сайт
+
+https://admin154tut.github.io/
+
+## Страницы
+
+- Главная: https://admin154tut.github.io/
+- Рилсы: https://admin154tut.github.io/reels.html
+- WAV: https://admin154tut.github.io/wav.html
+- Плейлисты: https://admin154tut.github.io/playlist.html
+- Промпты: https://admin154tut.github.io/prompts.html
+- Теги: https://admin154tut.github.io/tagi.html
+- С телефона: https://admin154tut.github.io/telefon.html
+- Статьи: https://admin154tut.github.io/blog.html
+
+## Бот
+
+Telegram: https://t.me/sunoMP3bot
+Бесплатно — 3 трека в день; PRO — 50 в день и видео 1080p.
+Языки: русский, английский.
+
+## Расширение Chrome
+
+Кнопка «Скачать в Telegram» на странице трека suno.com.
+ID: hmffkpdaiolldlogjifagdbffcaajbdg
+https://chromewebstore.google.com/detail/hmffkpdaiolldlogjifagdbffcaajbdg
+
+## Все статьи (35)
+
+1. Suno: все статьи — выгрузка, звук, видео, релиз — https://telegra.ph/Suno-vse-stati--vygruzka-trekov-video-i-zvuk-11-02
+2. Как скачать трек из Suno AI: MP3, WAV и что делать, если кнопка не работает — https://telegra.ph/Kak-skachat-trek-iz-Suno-AI-MP3-WAV-i-chto-delat-esli-knopka-ne-rabotaet-11-02
+3. Как сделать видео из трека Suno для Reels, Shorts и TikTok — https://telegra.ph/Kak-sdelat-video-iz-treka-Suno-dlya-Reels-Shorts-i-TikTok-11-02
+4. Почему трек из Suno звучит тихо и как это исправить — https://telegra.ph/Pochemu-trek-iz-Suno-zvuchit-tiho-i-kak-ehto-ispravit-11-02
+5. Suno не даёт скачать трек: 7 причин и что делать — https://telegra.ph/Suno-ne-dayot-skachat-trek-7-prichin-i-chto-delat-11-02
+6. Как получить WAV из Suno и зачем он вообще нужен — https://telegra.ph/Kak-poluchit-WAV-iz-Suno-i-zachem-on-voobshche-nuzhen-11-02
+7. Suno или Udio: что выбрать для генерации музыки — https://telegra.ph/Suno-ili-Udio-chto-vybrat-dlya-generacii-muzyki-11-02
+8. Как выложить трек из Suno на стриминг: пошагово — https://telegra.ph/Kak-vylozhit-trek-iz-Suno-na-striming-poshagovo-11-02
+9. Как сделать обложку для трека из Suno: требования и ошибки — https://telegra.ph/Kak-sdelat-oblozhku-dlya-treka-iz-Suno-trebovaniya-i-oshibki-11-02
+10. ID3-теги: почему твой трек теряет название и обложку — https://telegra.ph/ID3-tegi-pochemu-tvoj-trek-teryaet-nazvanie-i-oblozhku-11-02
+11. Как перенести трек в CapCut и не потерять качество — https://telegra.ph/Kak-perenesti-trek-v-CapCut-i-ne-poteryat-kachestvo-11-02
+12. How to Download a Suno Song: MP3, WAV, and What to Do If the Button Is Greyed Out — https://telegra.ph/How-to-Download-a-Suno-Song-MP3-WAV-and-What-to-Do-If-the-Button-Is-Greyed-Out-11-02
+13. Suno Download Not Working: 7 Reasons and How to Fix Each One — https://telegra.ph/Suno-Download-Not-Working-7-Reasons-and-How-to-Fix-Each-One-11-02
+14. Suno to MP3: Formats, Quality, and How to Get a Clean File — https://telegra.ph/Suno-to-MP3-Formats-Quality-and-How-to-Get-a-Clean-File-11-02
+15. Как улучшить трек из Suno: 7 приёмов, которые слышно — https://telegra.ph/Kak-uluchshit-trek-iz-Suno-7-priyomov-kotorye-slyshno-11-02
+16. Как не потерять свои треки из Suno: система хранения — https://telegra.ph/Kak-ne-poteryat-svoi-treki-iz-Suno-sistema-hraneniya-11-02
+17. Как скачать трек из Suno на iPhone — https://telegra.ph/Kak-skachat-trek-iz-Suno-na-iPhone-11-02
+18. Как скачать трек из Suno на Android — https://telegra.ph/Kak-skachat-trek-iz-Suno-na-Android-11-02
+19. Suno WAV бесплатно: как получить и когда не получится — https://telegra.ph/Suno-WAV-besplatno-kak-poluchit-i-kogda-ne-poluchitsya-11-02
+20. Как переслать трек из Suno другу: 3 способа — https://telegra.ph/Kak-pereslat-trek-iz-Suno-drugu-3-sposoba-11-02
+21. Suno не работает: 7 причин и что делать — https://telegra.ph/Suno-ne-rabotaet-7-prichin-i-chto-delat-11-03
+22. Suno на компьютере: как пользоваться с ПК — https://telegra.ph/Suno-na-kompyutere-kak-polzovatsya-s-PK-11-03
+23. Suno текст песни: как достать и сохранить — https://telegra.ph/Suno-tekst-pesni-kak-dostat-i-sohranit-11-03
+24. Suno промпты: как писать, чтобы получалось — https://telegra.ph/Suno-prompty-kak-pisat-chtoby-poluchalos-11-03
+25. Suno тарифы: что бесплатно, что в Pro — https://telegra.ph/Suno-tarify-chto-besplatno-chto-v-Pro-11-03
+26. Suno: как удалить трек — https://telegra.ph/Suno-kak-udalit-trek-11-03
+27. Suno: как отменить подписку — https://telegra.ph/Suno-kak-otmenit-podpisku-11-03
+28. Suno: 7 готовых промптов для жанров — https://telegra.ph/Suno-7-gotovyh-promptov-dlya-zhanrov-11-03
+29. Suno: как сделать инструментал — https://telegra.ph/Suno-kak-sdelat-instrumental-11-03
+30. Suno: как скачать несколько треков сразу — https://telegra.ph/Suno-kak-skachat-neskolko-trekov-srazu-11-03
+31. Suno: как написать текст песни — https://telegra.ph/Suno-kak-napisat-tekst-pesni-11-03
+32. Suno: как сделать бит — https://telegra.ph/Suno-kak-sdelat-bit-11-03
+33. Suno: как монетизировать музыку — https://telegra.ph/Suno-kak-monetizirovat-muzyku-11-03
+34. Suno: музыка для видео и подкастов — https://telegra.ph/Suno-muzyka-dlya-video-i-podkastov-11-03
+35. Suno: как выбрать жанр и темп — https://telegra.ph/Suno-kak-vybrat-zhanr-i-temp-11-03
