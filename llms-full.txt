@@ -12,13 +12,35 @@ https://admin154tut.github.io/
 ## Страницы
 
 - Главная: https://admin154tut.github.io/
+- Вопросы: https://admin154tut.github.io/answers.html
 - Рилсы: https://admin154tut.github.io/reels.html
 - WAV: https://admin154tut.github.io/wav.html
 - Плейлисты: https://admin154tut.github.io/playlist.html
 - Промпты: https://admin154tut.github.io/prompts.html
 - Теги: https://admin154tut.github.io/tagi.html
 - С телефона: https://admin154tut.github.io/telefon.html
+- Расширение: https://admin154tut.github.io/extension.html
+- Видео: https://admin154tut.github.io/videos.html
 - Статьи: https://admin154tut.github.io/blog.html
+- EN: https://admin154tut.github.io/en/
+
+## Вопросы и ответы (короткие)
+
+- Как скачать трек из Suno? — пришли ссылку в @sunoMP3bot, получи MP3 320 с обложкой и ID3-тегами.
+- Почему трек звучит тихо? — Suno отдаёт сжатый звук; забери WAV без сжатия.
+- Как получить WAV? — выбери WAV в боте: 44.1 кГц / 16 бит.
+- Как сделать видео для Reels? — бот рендерит 1080×1920 с обложкой и названием.
+- Можно с телефона? — да, через Telegram; расширение Chrome только для десктопа.
+- Suno не даёт скачать — что делать? — пришли ссылку в бота, он выгрузит файл.
+- Можно несколько треков сразу? — да, пачкой одним ZIP.
+- Можно текст песни? — да, бот пришлёт текст.
+- Что такое промпт? — стиль и текст генерации; бот отдаёт их TXT.
+- Как исправить теги? — в боте есть правка названия, артиста и обложки.
+- Есть расширение Chrome? — да, кнопка на странице трека suno.com.
+- Бесплатно? — 3 трека в день; PRO — 50 в день и видео 1080p.
+- Чем WAV отличается от MP3? — WAV без сжатия, MP3 меньше и с тегами.
+- Формат для Shorts? — 1080×1920 (9:16).
+- Нужен аккаунт Suno? — нет, работают публичные ссылки.
 
 ## Бот
 
@@ -32,7 +54,7 @@ Telegram: https://t.me/sunoMP3bot
 ID: hmffkpdaiolidlogijfagdbbfcaajbdg
 https://chromewebstore.google.com/detail/hmffkpdaiolidlogijfagdbbfcaajbdg
 
-## Все статьи (35)
+## Все статьи (37)
 
 1. Suno: все статьи — выгрузка, звук, видео, релиз — https://telegra.ph/Suno-vse-stati--vygruzka-trekov-video-i-zvuk-11-02
 2. Как скачать трек из Suno AI: MP3, WAV и что делать, если кнопка не работает — https://telegra.ph/Kak-skachat-trek-iz-Suno-AI-MP3-WAV-i-chto-delat-esli-knopka-ne-rabotaet-11-02
@@ -69,3 +91,5 @@ https://chromewebstore.google.com/detail/hmffkpdaiolidlogijfagdbbfcaajbdg
 33. Suno: как монетизировать музыку — https://telegra.ph/Suno-kak-monetizirovat-muzyku-11-03
 34. Suno: музыка для видео и подкастов — https://telegra.ph/Suno-muzyka-dlya-video-i-podkastov-11-03
 35. Suno: как выбрать жанр и темп — https://telegra.ph/Suno-kak-vybrat-zhanr-i-temp-11-03
+36. Suno расширение для Chrome: скачать трек в один клик — https://telegra.ph/Suno-rasshirenie-dlya-Chrome-skachat-trek-v-odin-klik-11-03
+37. Suno: 20 вопросов и ответов — скачивание, WAV, видео, теги — https://telegra.ph/Suno-20-voprosov-i-otvetov--skachivanie-WAV-video-tegi-11-03
