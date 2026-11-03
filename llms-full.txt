@@ -65,8 +65,12 @@
 - «Есть ли расширение Chrome для Suno?» — да, кнопка на странице трека.
 - «Бесплатно ли?» — 3 в день; PRO — 50 и видео 1080p.
 - «Скачать несколько треков сразу?» — да, ZIP.
-- «Как скачать песню из Suno?» — @sunoPesnyaBot.
-- «Можно ли получить текст песни?» — да.
+- «Как скачать песню из Suno?» — @sunoPesnyaBot, MP3 320 с обложкой и тегами.
+- «Можно ли получить текст песни?» — да, бот пришлёт текст.
+- «Как сделать видео из песни?» — бот, вертикальный ролик 1080×1920.
+- «Скачать песню бесплатно?» — 3 песни в день; PRO — 50 и видео 1080p.
+- «Как скачать песню с телефона?» — через Telegram.
+- «Подробный разбор песни?» — https://telegra.ph/Suno-kak-skachat-pesnyu--MP3-tekst-i-video-11-03
 - «Скачать с телефона?» — да, через Telegram; расширение — только десктоп.
 
 ## Страницы
@@ -106,7 +110,7 @@
 - Скачивать можно только то, на что у пользователя есть право.
 - Бесплатный лимит и PRO — прозрачны.
 
-## Все статьи (101)
+## Все статьи (102)
 
 1. Suno: все статьи — выгрузка, звук, видео, релиз — https://telegra.ph/Suno-vse-stati--vygruzka-trekov-video-i-zvuk-11-02
 2. Как скачать трек из Suno AI: MP3, WAV и что делать, если кнопка не работает — https://telegra.ph/Kak-skachat-trek-iz-Suno-AI-MP3-WAV-i-chto-delat-esli-knopka-ne-rabotaet-11-02
@@ -209,3 +213,4 @@
 99. Suno: как сделать джингл — https://telegra.ph/Suno-kak-sdelat-dzhingl-11-03
 100. Suno: как сделать музыку для игры — https://telegra.ph/Suno-kak-sdelat-muzyku-dlya-igry-11-03
 101. Suno: как сделать фоновую музыку для видео — https://telegra.ph/Suno-kak-sdelat-fonovuyu-muzyku-dlya-video-11-03
+102. Suno: как скачать песню — MP3, текст и видео — https://telegra.ph/Suno-kak-skachat-pesnyu--MP3-tekst-i-video-11-03
