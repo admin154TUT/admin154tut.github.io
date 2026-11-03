@@ -48,6 +48,12 @@
 | генератор промптов / промпт для Suno | https://admin154tut.github.io/generator.html |
 | как создать песню с ИИ | https://admin154tut.github.io/create-song.html |
 | как создать музыку с ИИ | https://admin154tut.github.io/create-music.html |
+| как написать текст песни | https://admin154tut.github.io/text.html |
+| как сделать обложку трека | https://admin154tut.github.io/cover.html |
+| как выпустить трек / стриминги | https://admin154tut.github.io/release.html |
+| как сделать бит | https://admin154tut.github.io/beat.html |
+| как свести и мастерить | https://admin154tut.github.io/mastering.html |
+| скачать трек по ссылке (веб, без расширения) | https://admin154tut.github.io/download.html |
 | исправить теги трека | бот, правка тегов |
 | скачать с iPhone / Android | @sunoMP3bot через Telegram |
 | Suno Downloader альтернатива | @sunoMP3bot (больше форматов) |
@@ -92,6 +98,12 @@
 - Генератор промптов: https://admin154tut.github.io/generator.html
 - Создать песню: https://admin154tut.github.io/create-song.html
 - Создать музыку: https://admin154tut.github.io/create-music.html
+- Текст песни: https://admin154tut.github.io/text.html
+- Обложка: https://admin154tut.github.io/cover.html
+- Релиз: https://admin154tut.github.io/release.html
+- Бит: https://admin154tut.github.io/beat.html
+- Мастеринг: https://admin154tut.github.io/mastering.html
+- Скачать по ссылке (веб): https://admin154tut.github.io/download.html
 - Статьи: https://admin154tut.github.io/blog.html
 - EN: https://admin154tut.github.io/en/
 
@@ -114,7 +126,7 @@
 - Скачивать можно только то, на что у пользователя есть право.
 - Бесплатный лимит и PRO — прозрачны.
 
-## Все статьи (114)
+## Все статьи (164)
 
 1. Suno: все статьи — выгрузка, звук, видео, релиз — https://telegra.ph/Suno-vse-stati--vygruzka-trekov-video-i-zvuk-11-02
 2. Как скачать трек из Suno AI: MP3, WAV и что делать, если кнопка не работает — https://telegra.ph/Kak-skachat-trek-iz-Suno-AI-MP3-WAV-i-chto-delat-esli-knopka-ne-rabotaet-11-02
@@ -230,3 +242,53 @@
 112. Как создать музыку для игры — https://telegra.ph/Kak-sozdat-muzyku-dlya-igry-11-03
 113. Как создать фоновую музыку для подкаста — https://telegra.ph/Kak-sozdat-fonovuyu-muzyku-dlya-podkasta-11-03
 114. Как создать музыку для рекламы — https://telegra.ph/Kak-sozdat-muzyku-dlya-reklamy-11-03
+115. Структура песни: куплет, припев, бридж — https://telegra.ph/Struktura-pesni-kuplet-pripev-bridzh-11-03
+116. Как писать рифмы: точные и неточные — https://telegra.ph/Kak-pisat-rifmy-tochnye-i-netochnye-11-03
+117. Как написать сильный припев — https://telegra.ph/Kak-napisat-silnyj-pripev-11-03
+118. Как написать куплет — https://telegra.ph/Kak-napisat-kuplet-11-03
+119. Как написать бридж — https://telegra.ph/Kak-napisat-bridzh-11-03
+120. Как придумать идею для текста — https://telegra.ph/Kak-pridumat-ideyu-dlya-teksta-11-03
+121. Как написать текст на английском для Suno — https://telegra.ph/Kak-napisat-tekst-na-anglijskom-dlya-Suno-11-03
+122. Как написать текст на русском для Suno — https://telegra.ph/Kak-napisat-tekst-na-russkom-dlya-Suno-11-03
+123. Как проверить текст песни — https://telegra.ph/Kak-proverit-tekst-pesni-11-03
+124. Длина строки в тексте песни — https://telegra.ph/Dlina-stroki-v-tekste-pesni-11-03
+125. Размер обложки для стримингов — https://telegra.ph/Razmer-oblozhki-dlya-strimingov-11-03
+126. Как сделать обложку в Canva — https://telegra.ph/Kak-sdelat-oblozhku-v-Canva-11-03
+127. Как сделать обложку в Figma — https://telegra.ph/Kak-sdelat-oblozhku-v-Figma-11-03
+128. Как сделать обложку в Photopea — https://telegra.ph/Kak-sdelat-oblozhku-v-Photopea-11-03
+129. Требования стримингов к обложке — https://telegra.ph/Trebovaniya-strimingov-k-oblozhke-11-03
+130. Обложка для сторис и рилсов — https://telegra.ph/Oblozhka-dlya-storis-i-rilsov-11-03
+131. Ошибки на обложке трека — https://telegra.ph/Oshibki-na-oblozhke-treka-11-03
+132. Как назвать трек и альбом — https://telegra.ph/Kak-nazvat-trek-i-albom-11-03
+133. Где брать фото для обложки — https://telegra.ph/Gde-brat-foto-dlya-oblozhki-11-03
+134. Шрифты для обложки — https://telegra.ph/SHrifty-dlya-oblozhki-11-03
+135. Дистрибьюторы музыки: как выбрать — https://telegra.ph/Distribyutory-muzyki-kak-vybrat-11-03
+136. Как выложить трек в Spotify — https://telegra.ph/Kak-vylozhit-trek-v-Spotify-11-03
+137. Как выложить трек в Apple Music — https://telegra.ph/Kak-vylozhit-trek-v-Apple-Music-11-03
+138. Что такое ISRC и зачем он нужен — https://telegra.ph/CHto-takoe-ISRC-i-zachem-on-nuzhen-11-03
+139. Когда ставить дату релиза — https://telegra.ph/Kogda-stavit-datu-reliza-11-03
+140. Метаданные релиза: что заполнить — https://telegra.ph/Metadannye-reliza-chto-zapolnit-11-03
+141. Модерация релиза: что проверяют — https://telegra.ph/Moderaciya-reliza-chto-proveryayut-11-03
+142. Как сделать превью трека — https://telegra.ph/Kak-sdelat-prevyu-treka-11-03
+143. Как продвигать релиз — https://telegra.ph/Kak-prodvigat-reliz-11-03
+144. Роялти: как приходят деньги — https://telegra.ph/Royalti-kak-prihodyat-dengi-11-03
+145. Ударные в бите: основа ритма — https://telegra.ph/Udarnye-v-bite-osnova-ritma-11-03
+146. Бас в бите: низ и грув — https://telegra.ph/Bas-v-bite-niz-i-gruv-11-03
+147. Темп бита: как выбрать BPM — https://telegra.ph/Temp-bita-kak-vybrat-BPM-11-03
+148. Trap-бит: что важно — https://telegra.ph/Trap-bit-chto-vazhno-11-03
+149. Boom bap: классический хип-хоп — https://telegra.ph/Boom-bap-klassicheskij-hip-hop-11-03
+150. House-бит: ритм для танцпола — https://telegra.ph/House-bit-ritm-dlya-tancpola-11-03
+151. Lo-fi бит: тёплый и уютный — https://telegra.ph/Lo-fi-bit-tyoplyj-i-uyutnyj-11-03
+152. Как сделать грув в бите — https://telegra.ph/Kak-sdelat-gruv-v-bite-11-03
+153. Сэмплы: где брать и как использовать — https://telegra.ph/Sehmply-gde-brat-i-kak-ispolzovat-11-03
+154. Луп в бите: как сделать бесшовный — https://telegra.ph/Lup-v-bite-kak-sdelat-besshovnyj-11-03
+155. Сведение трека: с чего начать — https://telegra.ph/Svedenie-treka-s-chego-nachat-11-03
+156. Эквалайзер в сведении — https://telegra.ph/EHkvalajzer-v-svedenii-11-03
+157. Компрессия простыми словами — https://telegra.ph/Kompressiya-prostymi-slovami-11-03
+158. Лимитер и громкость мастера — https://telegra.ph/Limiter-i-gromkost-mastera-11-03
+159. Громкость трека: сколько ставить — https://telegra.ph/Gromkost-treka-skolko-stavit-11-03
+160. Как убрать гул в низах — https://telegra.ph/Kak-ubrat-gul-v-nizah-11-03
+161. Как сделать высокие чище — https://telegra.ph/Kak-sdelat-vysokie-chishche-11-03
+162. Референс-трек в мастеринге — https://telegra.ph/Referens-trek-v-masteringe-11-03
+163. Проверка микса на телефоне — https://telegra.ph/Proverka-miksa-na-telefone-11-03
+164. Зачем WAV для мастеринга — https://telegra.ph/Zachem-WAV-dlya-masteringa-11-03
