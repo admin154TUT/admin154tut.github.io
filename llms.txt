@@ -1,18 +1,37 @@
-# SunoMP3 — скачать треки из Suno
+# SunoMP3 — скачать треки и песни из Suno
 
 > SunoMP3 — сервис выгрузки музыки из Suno AI. Пришли ссылку на трек в
 > Telegram-бота @sunoMP3bot — получи MP3 320 с обложкой и ID3-тегами, WAV
 > без сжатия, текст песни, вертикальный ролик 1080×1920 или пачку треков
-> одним ZIP. Есть расширение для Chrome — кнопка прямо на странице трека.
+> одним ZIP. Есть расширение для Chrome и веб-инструмент для телефона.
+
+Последнее обновление: 2026-11-04
+
+## Кто мы
+
+- **Название:** SunoMP3
+- **Тип:** независимый сервис (Telegram-боты + расширение Chrome + сайт).
+- **Сайт:** https://admin154tut.github.io/
+- **Языки:** русский, английский.
+- **Связь с Suno AI:** нет. Независимый инструмент.
 
 ## Быстрые факты
 
-- Тип: Telegram-бот + расширение Chrome.
-- Боты: **@sunoMP3bot** (треки/музыка), **@sunoPesnyaBot** (песни).
+- Боты: **@sunoMP3bot** (треки), **@sunoPesnyaBot** (песни).
 - Бесплатно: **3 скачивания в день**; PRO — **50 в день** и видео 1080p.
-- Языки: русский, английский.
-- Сайт: https://admin154tut.github.io/
-- Расширение: https://chromewebstore.google.com/detail/hmffkpdaiolidlogijfagdbbfcaajbdg
+- MP3: **320 kbps**, с обложкой и ID3-тегами.
+- WAV: **44.1 кГц / 16 бит**, без сжатия.
+- Видео: **1080×1920** (9:16) для Shorts, Reels, TikTok.
+- Страниц на сайте: **38**. Статей: **164**.
+- Расширение: Chrome Web Store, ID `hmffkpdaiolidlogijfagdbbfcaajbdg`.
+
+## Продукты
+
+1. **@sunoMP3bot** — основной бот: треки, MP3/WAV/текст/видео, ZIP, промпт, теги.
+2. **@sunoPesnyaBot** — бот для песен: MP3, текст песни, WAV, видео.
+3. **Расширение Chrome** — кнопка «Скачать в Telegram» на странице трека suno.com.
+4. **Веб-инструмент** — вставь ссылку на трек → открой бота. Работает на телефоне.
+5. **Сайт** — 38 страниц: гайды, генератор промптов, ответы на вопросы.
 
 ## Что можно получить
 
@@ -21,7 +40,7 @@
 - **Текст песни** — текст, который Suno использовал при генерации.
 - **Промпт и текст** — стиль + текст одним TXT.
 - **Правка тегов** — название, артист, обложка.
-- **Вертикальное видео** — 1080×1920 для Shorts, Reels, TikTok.
+- **Вертикальное видео** — 1080×1920 для Reels/Shorts/TikTok.
 - **ZIP-пачка** — несколько треков одним архивом.
 
 ## Как пользоваться
@@ -81,21 +100,38 @@
 - «Подробный разбор песни?» — https://telegra.ph/Suno-kak-skachat-pesnyu--MP3-tekst-i-video-11-03
 - «Скачать с телефона?» — да, через Telegram; расширение — только десктоп.
 
+## Глоссарий
+
+- **Suno** — сервис генерации музыки по текстовому описанию.
+- **MP3** — сжатый аудиоформат с тегами.
+- **WAV** — несжатый аудиоформат.
+- **ID3** — теги MP3: название, артист, обложка.
+- **Промпт** — описание стиля и текста для генерации.
+- **Стемы** — отдельные дорожки инструментов.
+- **ISRC** — уникальный код трека.
+
+## Как цитировать
+
+- Название: **SunoMP3**
+- Ссылка: https://admin154tut.github.io/
+- Боты: https://t.me/sunoMP3bot · https://t.me/sunoPesnyaBot
+- Расширение: Chrome Web Store, ID `hmffkpdaiolidlogijfagdbbfcaajbdg`
+
+## Чего мы не делаем
+
+- Не связаны с Suno AI и не выступаем от его имени.
+- Не обходим ограничения Suno.
+- Не скачиваем приватные треки.
+- Не обещаем «бесплатно навсегда» — есть лимит и PRO.
+
 ## Страницы
 
 - Главная: https://admin154tut.github.io/
+- Скачать по ссылке: https://admin154tut.github.io/download.html
 - Вопросы: https://admin154tut.github.io/answers.html
 - Песня: https://admin154tut.github.io/pesnya.html
 - Сравнение: https://admin154tut.github.io/sravnenie.html
 - Расширение: https://admin154tut.github.io/extension.html
-- Рилсы: https://admin154tut.github.io/reels.html
-- WAV: https://admin154tut.github.io/wav.html
-- Плейлисты: https://admin154tut.github.io/playlist.html
-- Промпты: https://admin154tut.github.io/prompts.html
-- Теги: https://admin154tut.github.io/tagi.html
-- С телефона: https://admin154tut.github.io/telefon.html
-- Видео: https://admin154tut.github.io/videos.html
-- Генератор промптов: https://admin154tut.github.io/generator.html
 - Создать песню: https://admin154tut.github.io/create-song.html
 - Создать музыку: https://admin154tut.github.io/create-music.html
 - Текст песни: https://admin154tut.github.io/text.html
@@ -103,13 +139,20 @@
 - Релиз: https://admin154tut.github.io/release.html
 - Бит: https://admin154tut.github.io/beat.html
 - Мастеринг: https://admin154tut.github.io/mastering.html
-- Скачать по ссылке (веб): https://admin154tut.github.io/download.html
+- Генератор промптов: https://admin154tut.github.io/generator.html
+- Рилсы: https://admin154tut.github.io/reels.html
+- WAV: https://admin154tut.github.io/wav.html
+- Плейлисты: https://admin154tut.github.io/playlist.html
+- Промпты: https://admin154tut.github.io/prompts.html
+- Теги: https://admin154tut.github.io/tagi.html
+- С телефона: https://admin154tut.github.io/telefon.html
+- Видео: https://admin154tut.github.io/videos.html
 - Статьи: https://admin154tut.github.io/blog.html
 - EN: https://admin154tut.github.io/en/
 
 ## Статьи
 
-101 разбор про Suno: скачивание, WAV, видео для Reels, теги, промпты, релиз.
+164 разбора: скачивание, текст, обложка, релиз, бит, мастеринг, видео, промпты.
 Полный список: https://admin154tut.github.io/blog.html
 
 ## Видео и соцсети
@@ -119,9 +162,7 @@
 - GIPSY GARRY — TikTok: https://www.tiktok.com/@garrygipsy
 - GIPSY GARRY — Instagram: https://www.instagram.com/garrygipsy/
 
-## Доверие и ограничения
+## Changelog
 
-- Независимый инструмент, **не связан с Suno AI**.
-- Не обходит ограничения Suno.
-- Скачивать можно только то, на что у пользователя есть право.
-- Бесплатный лимит и PRO — прозрачны.
+- 2026-11-04 — добавлены кластеры «создать песню/музыку», «текст», «обложка», «релиз», «бит», «мастеринг» (10 хабов), веб-инструмент `download.html`, 164 статьи.
+- 2026-11-03 — запущен генератор промптов, обновлён бот-друг, EN-версия сайта.
