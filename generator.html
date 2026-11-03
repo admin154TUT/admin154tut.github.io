@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Генератор промптов для Suno — собери стиль за 10 секунд</title>
+<meta name="description" content="Бесплатный генератор промптов для Suno: выбери жанр, настроение, инструменты и темп — получи готовый промпт на русском и английском. Скопируй и вставь в Suno.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Генератор промптов для Suno">
+<meta property="og:description" content="Собери промпт для Suno за 10 секунд: жанр, настроение, инструменты, темп.">
+<meta property="og:url" content="https://admin154tut.github.io/generator.html">
+<meta property="og:image" content="https://admin154tut.github.io/promo-large-1400x560.jpg">
+<meta property="og:site_name" content="SunoMP3">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="canonical" href="https://admin154tut.github.io/generator.html">
+<link rel="alternate" hreflang="ru" href="https://admin154tut.github.io/generator.html">
+<link rel="alternate" hreflang="en" href="https://admin154tut.github.io/en/generator.html">
+<link rel="icon" type="image/png" href="/favicon.png">
+<style>
+  :root{--bg:#0e1016;--fg:#f0f1f5;--muted:#9aa0b0;--acc:#7c5cff}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
+  .wrap{max-width:760px;margin:0 auto;padding:56px 20px 96px}
+  h1{font-size:clamp(28px,5vw,42px);line-height:1.15;margin:0 0 14px}
+  h2{font-size:20px;margin:40px 0 10px}
+  p{color:#d3d6df}
+  .lead{font-size:18px;color:var(--muted)}
+  .cta{display:inline-block;margin:22px 0 6px;padding:14px 26px;border-radius:12px;background:var(--acc);color:#fff;text-decoration:none;font-weight:600}
+  .row{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:12px 0}
+  label{display:block;font-size:13px;color:var(--muted);margin-bottom:4px}
+  select,textarea,button{width:100%;padding:10px;border-radius:10px;border:1px solid #2a2e3a;background:#141824;color:var(--fg);font-size:14px}
+  textarea{min-height:90px;resize:vertical}
+  button{cursor:pointer;background:var(--acc);border:0;font-weight:600;margin-top:8px}
+  .btn2{background:#232838}
+  ul,ol{padding-left:20px}li{margin:9px 0}a{color:#b9a8ff}
+  nav{margin-bottom:34px;font-size:15px}
+  nav a{margin-right:16px}
+  footer{margin-top:56px;color:#5b6070;font-size:13px}
+  @media (max-width:560px){.row{grid-template-columns:1fr}}
+</style>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Генератор промптов для Suno","applicationCategory":"MultimediaApplication","operatingSystem":"Any","offers":{"@type":"Offer","price":"0","priceCurrency":"RUB"},"url":"https://admin154tut.github.io/generator.html"}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+{"@type":"Question","name":"Как пользоваться генератором промптов?","acceptedAnswer":{"@type":"Answer","text":"Выбери жанр, настроение, инструменты и темп, нажми «Сгенерировать» и скопируй промпт в Suno."}},
+{"@type":"Question","name":"Генератор бесплатный?","acceptedAnswer":{"@type":"Answer","text":"Да, полностью бесплатный, без регистрации."}},
+{"@type":"Question","name":"На каком языке писать промпт?","acceptedAnswer":{"@type":"Answer","text":"Suno лучше понимает английский, но и русский работает. Генератор даёт оба варианта."}}
+]}</script>
+</head>
+<body>
+<main class="wrap">
+<nav><a href="index.html">Главная</a><a href="answers.html">Вопросы</a><a href="generator.html">Генератор</a><a href="extension.html">Расширение</a><a href="blog.html">Статьи</a></nav>
+<h1>Генератор промптов для Suno</h1>
+<p class="lead">Выбери жанр, настроение и инструменты — получи готовый промпт за 10 секунд. Бесплатно, без регистрации.</p>
+
+<div class="row">
+  <div><label>Жанр</label>
+    <select id="genre">
+      <option value="lo-fi hip-hop">lo-fi hip-hop</option>
+      <option value="jazz">jazz</option>
+      <option value="rock">rock</option>
+      <option value="rap">rap</option>
+      <option value="pop">pop</option>
+      <option value="electronic">electronic</option>
+      <option value="ambient">ambient</option>
+      <option value="cinematic">cinematic</option>
+      <option value="rnb">r&b</option>
+      <option value="country">country</option>
+    </select>
+  </div>
+  <div><label>Настроение</label>
+    <select id="mood">
+      <option value="calm and warm">спокойное и тёплое</option>
+      <option value="sad and nostalgic">грустное и ностальгическое</option>
+      <option value="energetic">энергичное</option>
+      <option value="dark and moody">тёмное</option>
+      <option value="uplifting">воодушевляющее</option>
+    </select>
+  </div>
+</div>
+<div class="row">
+  <div><label>Темп</label>
+    <select id="tempo">
+      <option value="slow">медленный (60–80 BPM)</option>
+      <option value="medium" selected>средний (90–110 BPM)</option>
+      <option value="fast">быстрый (120–140 BPM)</option>
+    </select>
+  </div>
+  <div><label>Вокал</label>
+    <select id="vocals">
+      <option value="male vocals">мужской</option>
+      <option value="female vocals">женский</option>
+      <option value="instrumental">без вокала</option>
+      <option value="duet">дуэт</option>
+    </select>
+  </div>
+</div>
+<div class="row">
+  <div><label>Инструменты</label>
+    <select id="inst">
+      <option value="piano, upright bass, brushed drums">пианино, контрабас, барабаны</option>
+      <option value="electric guitar, bass, drums">электрогитара, бас, барабаны</option>
+      <option value="synth, pads, drum machine">синтезатор, пэды, драм-машина</option>
+      <option value="strings, choir, piano">струнные, хор, пианино</option>
+      <option value="acoustic guitar, banjo, fiddle">акустика, банджо, скрипка</option>
+    </select>
+  </div>
+  <div><label>Язык промпта</label>
+    <select id="lang">
+      <option value="en">English (Suno любит больше)</option>
+      <option value="ru">Русский</option>
+    </select>
+  </div>
+</div>
+
+<button onclick="generate()">Сгенерировать промпт</button>
+<textarea id="out" readonly placeholder="Здесь появится готовый промпт…"></textarea>
+<div class="row">
+  <button class="btn2" onclick="copyPrompt()">Копировать</button>
+  <a class="cta" style="margin:8px 0 0;text-align:center" href="https://t.me/sunoMP3bot?start=s_site_generator">Скачать трек в боте →</a>
+</div>
+
+<h2>Как пользоваться</h2>
+<ol>
+<li>Выбери жанр, настроение, темп, вокал и инструменты.</li>
+<li>Нажми «Сгенерировать».</li>
+<li>Скопируй промпт и вставь его в Suno.</li>
+<li>Готовый трек забери в боте — MP3 с обложкой и тегами, WAV, текст или видео.</li>
+</ol>
+
+<h2>Частые вопросы</h2>
+<p><b>Бесплатно?</b> Да, без регистрации.</p>
+<p><b>На каком языке писать?</b> Suno лучше понимает английский, но и русский работает. Генератор даёт оба варианта.</p>
+<p><b>А если промпт не сработал?</b> Попробуй убрать лишние инструменты и оставить 2–3 ключевых слова.</p>
+
+<footer>SunoMP3 — независимый инструмент, не связан с Suno AI.</footer>
+</main>
+<script>
+function generate() {
+  const genre = document.getElementById("genre").value;
+  const mood = document.getElementById("mood").value;
+  const tempo = document.getElementById("tempo").value;
+  const vocals = document.getElementById("vocals").value;
+  const inst = document.getElementById("inst").value;
+  const lang = document.getElementById("lang").value;
+  const bpm = tempo === "slow" ? "70 BPM" : tempo === "fast" ? "130 BPM" : "100 BPM";
+  const prompt = lang === "en"
+    ? [genre, mood, inst, bpm, vocals].filter(Boolean).join(", ")
+    : [genre, mood, inst, bpm, vocals].filter(Boolean).join(", ");
+  document.getElementById("out").value = prompt;
+}
+function copyPrompt() {
+  const out = document.getElementById("out");
+  out.select();
+  document.execCommand("copy");
+}
+generate();
+</script>
+</body>
+</html>
