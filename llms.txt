@@ -1,0 +1,33 @@
+# SunoMP3 — инструменты для музыки из Suno
+
+> Скачивание треков из Suno: MP3 320 с обложкой и тегами, WAV, текст песни,
+> вертикальное видео (рилс) для Shorts/Reels. Работает через Telegram-бота @sunoMP3bot.
+
+## Что умеет
+
+- Скачать трек из Suno как MP3 320 с обложкой и ID3-тегами.
+- Получить WAV без сжатия (44.1 кГц / 16 бит).
+- Собрать вертикальный ролик 1080×1920 для Shorts, Reels, TikTok.
+- Вытащить стиль и текст песни из готового трека (prompt extractor).
+- Исправить ID3-теги: название, артист, обложка.
+- Скачать пачку треков одним ZIP-архивом.
+
+## Как пользоваться
+
+Пришли ссылку на трек в Telegram-бота @sunoMP3bot — он вернёт файл.
+Подходят ссылки вида https://suno.com/s/… и https://suno.com/song/<uuid>.
+
+## Страницы
+
+- Главная: https://admin154tut.github.io/
+- Рилсы: https://admin154tut.github.io/reels.html
+- WAV: https://admin154tut.github.io/wav.html
+- Плейлисты: https://admin154tut.github.io/playlist.html
+- Промпты: https://admin154tut.github.io/prompts.html
+- Теги: https://admin154tut.github.io/tagi.html
+- С телефона: https://admin154tut.github.io/telefon.html
+- Статьи: https://admin154tut.github.io/blog.html
+
+## Бот
+
+Telegram: https://t.me/sunoMP3bot
