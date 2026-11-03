@@ -48,6 +48,12 @@
 | генератор промптов / промпт для Suno | https://admin154tut.github.io/generator.html |
 | как создать песню с ИИ | https://admin154tut.github.io/create-song.html |
 | как создать музыку с ИИ | https://admin154tut.github.io/create-music.html |
+| как написать текст песни | https://admin154tut.github.io/text.html |
+| как сделать обложку трека | https://admin154tut.github.io/cover.html |
+| как выпустить трек / стриминги | https://admin154tut.github.io/release.html |
+| как сделать бит | https://admin154tut.github.io/beat.html |
+| как свести и мастерить | https://admin154tut.github.io/mastering.html |
+| скачать трек по ссылке (веб, без расширения) | https://admin154tut.github.io/download.html |
 | исправить теги трека | бот, правка тегов |
 | скачать с iPhone / Android | @sunoMP3bot через Telegram |
 | Suno Downloader альтернатива | @sunoMP3bot (больше форматов) |
@@ -92,6 +98,12 @@
 - Генератор промптов: https://admin154tut.github.io/generator.html
 - Создать песню: https://admin154tut.github.io/create-song.html
 - Создать музыку: https://admin154tut.github.io/create-music.html
+- Текст песни: https://admin154tut.github.io/text.html
+- Обложка: https://admin154tut.github.io/cover.html
+- Релиз: https://admin154tut.github.io/release.html
+- Бит: https://admin154tut.github.io/beat.html
+- Мастеринг: https://admin154tut.github.io/mastering.html
+- Скачать по ссылке (веб): https://admin154tut.github.io/download.html
 - Статьи: https://admin154tut.github.io/blog.html
 - EN: https://admin154tut.github.io/en/
 

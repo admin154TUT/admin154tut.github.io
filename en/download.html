@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Download a Suno track by link — online, no extension</title>
+<meta name="description" content="Paste a Suno track link and get the file in Telegram. Works on phone and desktop, no extensions. MP3 with cover and tags, WAV, lyrics and video.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Download a Suno track by link — online">
+<meta property="og:description" content="Paste a link — get the file in Telegram. Works on mobile.">
+<meta property="og:url" content="https://admin154tut.github.io/en/download.html">
+<meta property="og:image" content="https://admin154tut.github.io/promo-large-1400x560.jpg">
+<meta property="og:site_name" content="SunoMP3">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="canonical" href="https://admin154tut.github.io/en/download.html">
+<link rel="alternate" hreflang="ru" href="https://admin154tut.github.io/download.html">
+<link rel="alternate" hreflang="en" href="https://admin154tut.github.io/en/download.html">
+<link rel="icon" type="image/png" href="/favicon.png">
+<style>
+  :root{--bg:#0e1016;--fg:#f0f1f5;--muted:#9aa0b0;--acc:#7c5cff}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
+  .wrap{max-width:760px;margin:0 auto;padding:56px 20px 96px}
+  h1{font-size:clamp(28px,5vw,42px);line-height:1.15;margin:0 0 14px}
+  h2{font-size:20px;margin:40px 0 10px}
+  h3{font-size:17px;margin:26px 0 6px}
+  p{color:#d3d6df}
+  .lead{font-size:18px;color:var(--muted)}
+  .cta{display:inline-block;margin:22px 0 6px;padding:14px 26px;border-radius:12px;background:var(--acc);color:#fff;text-decoration:none;font-weight:600}
+  input,button{width:100%;padding:12px;border-radius:10px;border:1px solid #2a2e3a;background:#141824;color:var(--fg);font-size:15px}
+  button{cursor:pointer;background:var(--acc);border:0;font-weight:600;margin-top:8px}
+  #out{margin-top:14px}
+  #out a{display:inline-block;padding:12px 20px;border-radius:10px;background:#2b8a3e;color:#fff;text-decoration:none;font-weight:600}
+  ul,ol{padding-left:20px}li{margin:9px 0}a{color:#b9a8ff}
+  nav{margin-bottom:34px;font-size:15px}
+  nav a{margin-right:16px}
+  footer{margin-top:56px;color:#5b6070;font-size:13px}
+</style>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Download a Suno track by link","applicationCategory":"MultimediaApplication","operatingSystem":"Any","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"url":"https://admin154tut.github.io/en/download.html"}</script>
+</head>
+<body>
+<main class="wrap">
+<nav><a href="/en/">Home</a><a href="/en/download.html">Download</a><a href="/en/create-song.html">Create a song</a><a href="/en/answers.html">FAQ</a><a href="/en/extension.html">Extension</a><a href="/">Русский</a></nav>
+<h1>Download a Suno track by link</h1>
+<p class="lead">Paste a track link and get the file in Telegram. Works on phone and desktop, no extensions.</p>
+
+<label for="link">Suno track link</label>
+<input id="link" type="url" placeholder="https://suno.com/song/… or https://suno.com/s/…" autocomplete="off">
+<button onclick="parseLink()">Check the link</button>
+<div id="out"></div>
+
+<h2>How it works</h2>
+<ol>
+<li>Open the track in Suno → Share → copy the link.</li>
+<li>Paste it here and press “Check”.</li>
+<li>Press “Download in the bot” — the file arrives in Telegram.</li>
+</ol>
+
+<h2>What you get</h2>
+<ul>
+<li>MP3 320 with cover and tags.</li>
+<li>Uncompressed WAV.</li>
+<li>Lyrics.</li>
+<li>Vertical video 1080×1920.</li>
+</ul>
+
+<h2>FAQ</h2>
+<section>
+<h3>How do I download a Suno track by link?</h3>
+<p>Paste the track link, press “Check”, then open the bot — the file arrives in Telegram.</p>
+<h3>Does it work on mobile?</h3>
+<p>Yes — it’s a web tool: no extension needed, works in any browser.</p>
+<h3>What if the link is short?</h3>
+<p>Open the track in Suno, press Share → Copy link and paste it here — it will contain the track id.</p>
+</section>
+
+<footer>SunoMP3 — an independent tool, not affiliated with Suno AI.</footer>
+</main>
+<script>
+function parseLink() {
+  const raw = document.getElementById("link").value.trim();
+  const out = document.getElementById("out");
+  const m = raw.match(/\/song\/([0-9a-fA-F-]{36})/);
+  if (m) {
+    const id = m[1].toLowerCase();
+    out.innerHTML = 'Track found. <a href="https://t.me/sunoMP3bot?start=clip_' + id + '" target="_blank" rel="noopener">Download in the bot →</a>';
+    return;
+  }
+  if (/suno\.com\/s\//.test(raw)) {
+    out.innerHTML = 'This is a short link. Open the track in Suno, press Share → Copy link and paste it here again — it will contain the track id.';
+    return;
+  }
+  out.innerHTML = 'This doesn’t look like a Suno link. Expected <b>suno.com/song/…</b> or <b>suno.com/s/…</b>.';
+}
+</script>
+</body>
+</html>
