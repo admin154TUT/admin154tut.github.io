@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://admin154tut.github.io/videos.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://admin154tut.github.io/videos/armageddon.jpg</video:thumbnail_loc>
+      <video:title>GIPSY GARRY — NAS ZHDYOT ARMAGEDDON</video:title>
+      <video:description>Вертикальный ролик 1080×1920 из трека Suno: 50 секунд, обложка, волна, подпись.</video:description>
+      <video:content_loc>https://admin154tut.github.io/videos/armageddon.mp4</video:content_loc>
+      <video:duration>50</video:duration>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://admin154tut.github.io/videos/coal-dust.jpg</video:thumbnail_loc>
+      <video:title>GIPSY GARRY — COAL DUST COLD BLOOD</video:title>
+      <video:description>Вертикальный ролик 1080×1920 из трека Suno: 50 секунд, обложка, волна, подпись.</video:description>
+      <video:content_loc>https://admin154tut.github.io/videos/coal-dust.mp4</video:content_loc>
+      <video:duration>50</video:duration>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://admin154tut.github.io/videos/nine-oclock.jpg</video:thumbnail_loc>
+      <video:title>GIPSY GARRY — NINE O'CLOCK</video:title>
+      <video:description>Вертикальный ролик 1080×1920 из трека Suno: 50 секунд, обложка, волна, подпись.</video:description>
+      <video:content_loc>https://admin154tut.github.io/videos/nine-oclock.mp4</video:content_loc>
+      <video:duration>50</video:duration>
+    </video:video>
+  </url>
+</urlset>
