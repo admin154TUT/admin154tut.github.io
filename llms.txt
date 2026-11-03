@@ -51,6 +51,21 @@
 ID в Chrome Web Store: `hmffkpdaiolidlogijfagdbbfcaajbdg`
 Ссылка: https://chromewebstore.google.com/detail/hmffkpdaiolidlogijfagdbbfcaajbdg
 
+## Боты
+
+- **@sunoMP3bot** — треки: MP3 320, WAV, текст, видео, промпт, теги, ZIP.
+  https://t.me/sunoMP3bot
+- **@sunoPesnyaBot** — песни: MP3 320, текст песни, WAV, видео.
+  https://t.me/sunoPesnyaBot
+  Страница: https://admin154tut.github.io/pesnya.html
+
+## Вопросы про песни (Suno)
+
+- «Как скачать песню из Suno?» — пришли ссылку в @sunoPesnyaBot, получи MP3 320 с обложкой.
+- «Можно ли получить текст песни?» — да, бот пришлёт текст, который Suno использовал.
+- «Как сделать видео из песни?» — бот собирает 1080×1920 с обложкой и названием.
+- «Скачать песню из Suno бесплатно?» — 3 песни в день; PRO — 50 в день и видео 1080p.
+
 ## Статьи
 
 34 разбора про Suno: скачивание, WAV, видео для Reels, теги, промпты, релиз.
