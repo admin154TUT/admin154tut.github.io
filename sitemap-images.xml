@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://admin154tut.github.io/</loc>
+    <image:image>
+      <image:loc>https://admin154tut.github.io/promo-large-1400x560.jpg</image:loc>
+      <image:title>SunoMP3 — скачать трек из Suno</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://admin154tut.github.io/extension.html</loc>
+    <image:image>
+      <image:loc>https://admin154tut.github.io/promo-small-440x280.jpg</image:loc>
+      <image:title>Расширение Suno для Chrome</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://admin154tut.github.io/videos.html</loc>
+    <image:image>
+      <image:loc>https://admin154tut.github.io/videos/armageddon.jpg</image:loc>
+      <image:title>GIPSY GARRY — NAS ZHDYOT ARMAGEDDON</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://admin154tut.github.io/videos/coal-dust.jpg</image:loc>
+      <image:title>GIPSY GARRY — COAL DUST COLD BLOOD</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://admin154tut.github.io/videos/nine-oclock.jpg</image:loc>
+      <image:title>GIPSY GARRY — NINE O'CLOCK</image:title>
+    </image:image>
+  </url>
+</urlset>

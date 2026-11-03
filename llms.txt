@@ -50,6 +50,13 @@ ID в Chrome Web Store: `hmffkpdaiolidlogijfagdbbfcaajbdg`
 
 Русский и английский (интерфейс бота).
 
+## Видео и соцсети
+
+- Примеры роликов: https://admin154tut.github.io/videos.html
+- GIPSY GARRY — YouTube: https://www.youtube.com/@LOWRELAXMUSIC
+- GIPSY GARRY — TikTok: https://www.tiktok.com/@garrygipsy
+- GIPSY GARRY — Instagram: https://www.instagram.com/garrygipsy/
+
 ## Ограничения
 
 Скачивать можно только треки, на которые у аккаунт имеет право. Сервис не обходит

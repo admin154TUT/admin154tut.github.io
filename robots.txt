@@ -18,3 +18,5 @@ User-Agent: *
 Allow: /
 
 Sitemap: https://admin154tut.github.io/sitemap.xml
+Sitemap: https://admin154tut.github.io/video-sitemap.xml
+Sitemap: https://admin154tut.github.io/sitemap-images.xml
