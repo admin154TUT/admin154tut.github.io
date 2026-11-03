@@ -29,8 +29,8 @@ Telegram: https://t.me/sunoMP3bot
 ## Расширение Chrome
 
 Кнопка «Скачать в Telegram» на странице трека suno.com.
-ID: hmffkpdaiolldlogjifagdbffcaajbdg
-https://chromewebstore.google.com/detail/hmffkpdaiolldlogjifagdbffcaajbdg
+ID: hmffkpdaiolidlogijfagdbbfcaajbdg
+https://chromewebstore.google.com/detail/hmffkpdaiolidlogijfagdbbfcaajbdg
 
 ## Все статьи (35)
 

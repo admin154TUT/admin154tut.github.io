@@ -38,8 +38,8 @@
 ## Расширение Chrome
 
 Кнопка «Скачать в Telegram» на странице трека `suno.com`.
-ID в Chrome Web Store: `hmffkpdaiolldlogjifagdbffcaajbdg`
-Ссылка: https://chromewebstore.google.com/detail/hmffkpdaiolldlogjifagdbffcaajbdg
+ID в Chrome Web Store: `hmffkpdaiolidlogijfagdbbfcaajbdg`
+Ссылка: https://chromewebstore.google.com/detail/hmffkpdaiolidlogijfagdbbfcaajbdg
 
 ## Статьи
 
