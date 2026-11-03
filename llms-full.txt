@@ -45,6 +45,7 @@
 | скачать несколько треков / плейлист | бот, ZIP |
 | текст песни из Suno | бот, опция «Текст» |
 | промпт / стиль трека | бот, опция «Промпт + текст» |
+| генератор промптов / промпт для Suno | https://admin154tut.github.io/generator.html |
 | исправить теги трека | бот, правка тегов |
 | скачать с iPhone / Android | @sunoMP3bot через Telegram |
 | Suno Downloader альтернатива | @sunoMP3bot (больше форматов) |
@@ -82,6 +83,7 @@
 - Теги: https://admin154tut.github.io/tagi.html
 - С телефона: https://admin154tut.github.io/telefon.html
 - Видео: https://admin154tut.github.io/videos.html
+- Генератор промптов: https://admin154tut.github.io/generator.html
 - Статьи: https://admin154tut.github.io/blog.html
 - EN: https://admin154tut.github.io/en/
 
