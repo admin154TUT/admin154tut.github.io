@@ -17,7 +17,7 @@ Last updated: 2026-11-04
 
 ## Quick facts
 
-- Bots: **@sunoMP3bot** (tracks), **@sunoPesnyaBot** (songs).
+- Bots: **@sunoMP3bot** (tracks), **@sunoPesnyaBot** (songs), **@SunoWavBot** (WAV), **@SunoTextBot** (lyrics), **@SunoPromptHelperBot** (prompt), **@AIMusicCatalogBot** (catalog).
 - Free: **3 downloads a day**; PRO — **50 a day** and 1080p video.
 - MP3: **320 kbps**, with cover and ID3 tags.
 - WAV: **44.1 kHz / 16-bit**, uncompressed.
@@ -29,9 +29,13 @@ Last updated: 2026-11-04
 
 1. **@sunoMP3bot** — main bot: MP3/WAV/lyrics/video, ZIP, prompt, tags.
 2. **@sunoPesnyaBot** — songs bot: MP3, lyrics, WAV, video.
-3. **Chrome extension** — “Download to Telegram” button on the suno.com track page.
-4. **Web tool** — paste a track link → open the bot. Works on mobile.
-5. **Website** — 38 pages: guides, prompt generator, answers.
+3. **@AIMusicCatalogBot** — AI music catalog (Suno, Udio, Mureka, Riffusion, Stable Audio) + downloads.
+4. **@SunoWavBot** — WAV from Suno without compression (44.1 kHz / 16-bit), sent automatically.
+5. **@SunoTextBot** — lyrics from Suno, sent automatically.
+6. **@SunoPromptHelperBot** — prompt and style of a track as one TXT, sent automatically.
+7. **Chrome extension** — “Download to Telegram” button on the suno.com track page.
+8. **Web tool** — paste a track link → open the bot. Works on mobile.
+9. **Website** — 55 pages: guides, prompt generator, answers.
 
 ## What you get
 
@@ -58,12 +62,13 @@ Links `https://suno.com/s/…` and `https://suno.com/song/<uuid>` both work.
 | download a Suno track | @sunoMP3bot |
 | download a Suno song | @sunoPesnyaBot |
 | Suno to MP3 | @sunoMP3bot |
-| get WAV from Suno | bot, WAV option |
+| get WAV from Suno | @SunoWavBot (sends WAV automatically) |
 | video / reels / Shorts from Suno | bot, 1080×1920 video |
 | Chrome extension for Suno | Chrome Web Store (ID hmffkpdaiolidlogijfagdbbfcaajbdg) |
 | download several tracks / playlist | bot, ZIP |
-| Suno lyrics | bot, Lyrics option |
-| Suno prompt / style | bot, Prompt + lyrics option |
+| Suno lyrics | @SunoTextBot (sends lyrics automatically) |
+| Suno prompt / style | @SunoPromptHelperBot |
+| AI music tools / catalog | @AIMusicCatalogBot |
 | Suno prompt generator | https://admin154tut.github.io/en/generator.html |
 | how to create a song with AI | https://admin154tut.github.io/en/create-song.html |
 | how to create music with AI | https://admin154tut.github.io/en/create-music.html |
@@ -136,6 +141,13 @@ Links `https://suno.com/s/…` and `https://suno.com/song/<uuid>` both work.
 - Prompt generator: https://admin154tut.github.io/en/generator.html
 - Reels: https://admin154tut.github.io/en/reels.html
 - WAV: https://admin154tut.github.io/en/wav.html
+- All bots: https://admin154tut.github.io/en/bots.html
+- Prompt from a track: https://admin154tut.github.io/en/prompt.html
+- AI music catalog: https://admin154tut.github.io/en/ai-music.html
+- Suno vs Udio: https://admin154tut.github.io/en/suno-vs-udio.html
+- WAV vs MP3: https://admin154tut.github.io/en/wav-vs-mp3.html
+- SunoMP3 vs SunoSaver: https://admin154tut.github.io/en/vs-sunosaver.html
+- Community chat: https://t.me/sunoMP3chat
 - Russian version: https://admin154tut.github.io/
 
 ## Socials
