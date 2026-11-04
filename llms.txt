@@ -166,6 +166,7 @@
 - Все боты: https://admin154tut.github.io/bots.html
 - Suno vs Udio: https://admin154tut.github.io/suno-vs-udio.html
 - WAV vs MP3: https://admin154tut.github.io/wav-vs-mp3.html
+- SunoMP3 vs SunoSaver: https://admin154tut.github.io/vs-sunosaver.html
 - EN: https://admin154tut.github.io/en/
 
 ## Статьи
