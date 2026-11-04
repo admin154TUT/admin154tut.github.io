@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Счётчик слогов в тексте песни — проверь ритм строк</title>
+<meta name="description" content="Бесплатный счётчик слогов: вставь текст песни и узнай слоги в каждой строке, среднюю длину и где ритм ломается.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Счётчик слогов в тексте песни">
+<meta property="og:description" content="Вставь текст — увидишь слоги по строкам и сбои ритма.">
+<meta property="og:url" content="https://admin154tut.github.io/syllables.html">
+<meta property="og:image" content="https://admin154tut.github.io/promo-large-1400x560.jpg">
+<meta property="og:site_name" content="SunoMP3">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="canonical" href="https://admin154tut.github.io/syllables.html">
+<link rel="alternate" hreflang="ru" href="https://admin154tut.github.io/syllables.html">
+<link rel="alternate" hreflang="en" href="https://admin154tut.github.io/en/syllables.html">
+<link rel="icon" type="image/png" href="/favicon.png">
+<style>
+  :root{--bg:#0e1016;--fg:#f0f1f5;--muted:#9aa0b0;--acc:#7c5cff}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
+  .wrap{max-width:760px;margin:0 auto;padding:56px 20px 96px}
+  h1{font-size:clamp(28px,5vw,42px);line-height:1.15;margin:0 0 14px}
+  h2{font-size:20px;margin:40px 0 10px}
+  p{color:#d3d6df}
+  .lead{font-size:18px;color:var(--muted)}
+  .cta{display:inline-block;margin:22px 0 6px;padding:14px 26px;border-radius:12px;background:var(--acc);color:#fff;text-decoration:none;font-weight:600}
+  textarea{width:100%;min-height:140px;padding:12px;border-radius:10px;border:1px solid #2a2e3a;background:#141824;color:var(--fg);font:15px/1.5 inherit;resize:vertical}
+  #res{margin-top:14px;font-size:14px}
+  #res div{padding:6px 0;border-bottom:1px solid #23262f}
+  .bad{color:#ff7b7b}
+  .good{color:#7bd88f}
+  ul,ol{padding-left:20px}li{margin:9px 0}a{color:#b9a8ff}
+  nav{margin-bottom:34px;font-size:15px}
+  nav a{margin-right:16px}
+  footer{margin-top:56px;color:#5b6070;font-size:13px}
+</style>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Счётчик слогов в тексте","applicationCategory":"MultimediaApplication","operatingSystem":"Any","offers":{"@type":"Offer","price":"0","priceCurrency":"RUB"},"url":"https://admin154tut.github.io/syllables.html"}</script>
+</head>
+<body>
+<main class="wrap">
+<nav><a href="index.html">Главная</a><a href="syllables.html">Слоги</a><a href="text.html">Текст песни</a><a href="bpm.html">BPM</a><a href="blog.html">Статьи</a></nav>
+<h1>Счётчик слогов в тексте песни</h1>
+<p class="lead">Вставь текст — увидишь слоги в каждой строке и где ритм ломается.</p>
+
+<textarea id="txt" placeholder="Вставь текст песни, по строке на каждую строку…">Я иду по улице
+И считаю фонари
+Ветер в спину дует
+И не гаснет до зари</textarea>
+
+<div id="res"></div>
+
+<h2>Как это помогает</h2>
+<ul>
+<li>Слоги = ритм. Ровные строки звучат чище.</li>
+<li>6–10 слогов — комфортная длина для вокала.</li>
+<li>Сильно разные строки ломают мелодию.</li>
+</ul>
+
+<h2>Советы</h2>
+<ol>
+<li>Выровняй строки в куплете.</li>
+<li>Припев может быть короче.</li>
+<li>Прочитай вслух — сбои слышны.</li>
+</ol>
+
+<footer>SunoMP3 — независимый инструмент, не связан с Suno AI.</footer>
+</main>
+<script>
+const VOWELS = "аеёиоуыэюяaeiouy";
+function syllables(line) {
+  let n = 0;
+  for (const ch of line.toLowerCase()) {
+    if (VOWELS.includes(ch)) n++;
+  }
+  return n;
+}
+function analyze() {
+  const raw = document.getElementById("txt").value;
+  const lines = raw.split("\n").map(l => l.trim()).filter(Boolean);
+  const out = document.getElementById("res");
+  if (!lines.length) { out.innerHTML = ""; return; }
+  const counts = lines.map(syllables);
+  const avg = counts.reduce((a, b) => a + b, 0) / counts.length;
+  let html = "";
+  lines.forEach((l, i) => {
+    const n = counts[i];
+    const ok = n >= 6 && n <= 10;
+    html += '<div class="' + (ok ? "good" : "bad") + '">' + (i + 1) + ". " + n + " слог. — " + l.replace(/[<>&]/g, "") + "</div>";
+  });
+  html += '<div style="margin-top:10px;color:#9aa0b0">Строк: ' + lines.length + ' · среднее: ' + avg.toFixed(1) + ' слог.</div>';
+  out.innerHTML = html;
+}
+document.getElementById("txt").addEventListener("input", analyze);
+analyze();
+</script>
+</body>
+</html>

@@ -73,6 +73,12 @@
 | как сделать бит | https://admin154tut.github.io/beat.html |
 | как свести и мастерить | https://admin154tut.github.io/mastering.html |
 | скачать трек по ссылке (веб, без расширения) | https://admin154tut.github.io/download.html |
+| BPM / темп трека | https://admin154tut.github.io/bpm.html |
+| слоги в тексте песни | https://admin154tut.github.io/syllables.html |
+| AI музыка / нейросети для музыки | https://admin154tut.github.io/ai-music.html |
+| музыка для видео / YouTube | https://admin154tut.github.io/video-music.html |
+| караоке / убрать вокал | https://admin154tut.github.io/karaoke.html |
+| как сделать вокал чище | https://admin154tut.github.io/vocals.html |
 | исправить теги трека | бот, правка тегов |
 | скачать с iPhone / Android | @sunoMP3bot через Telegram |
 | Suno Downloader альтернатива | @sunoMP3bot (больше форматов) |
