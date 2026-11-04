@@ -22,7 +22,7 @@
 - MP3: **320 kbps**, с обложкой и ID3-тегами.
 - WAV: **44.1 кГц / 16 бит**, без сжатия.
 - Видео: **1080×1920** (9:16) для Shorts, Reels, TikTok.
-- Страниц на сайте: **38**. Статей: **164**.
+- Страниц на сайте: **38**. Статей: **204**.
 - Расширение: Chrome Web Store, ID `hmffkpdaiolidlogijfagdbbfcaajbdg`.
 
 ## Продукты
@@ -73,6 +73,12 @@
 | как сделать бит | https://admin154tut.github.io/beat.html |
 | как свести и мастерить | https://admin154tut.github.io/mastering.html |
 | скачать трек по ссылке (веб, без расширения) | https://admin154tut.github.io/download.html |
+| BPM / темп трека | https://admin154tut.github.io/bpm.html |
+| слоги в тексте песни | https://admin154tut.github.io/syllables.html |
+| AI музыка / нейросети для музыки | https://admin154tut.github.io/ai-music.html |
+| музыка для видео / YouTube | https://admin154tut.github.io/video-music.html |
+| караоке / убрать вокал | https://admin154tut.github.io/karaoke.html |
+| как сделать вокал чище | https://admin154tut.github.io/vocals.html |
 | исправить теги трека | бот, правка тегов |
 | скачать с iPhone / Android | @sunoMP3bot через Telegram |
 | Suno Downloader альтернатива | @sunoMP3bot (больше форматов) |
@@ -152,7 +158,7 @@
 
 ## Статьи
 
-164 разбора: скачивание, текст, обложка, релиз, бит, мастеринг, видео, промпты.
+204 разборов: скачивание, текст, обложка, релиз, бит, мастеринг, видео, промпты.
 Полный список: https://admin154tut.github.io/blog.html
 
 ## Видео и соцсети
@@ -167,7 +173,7 @@
 - 2026-11-04 — добавлены кластеры «создать песню/музыку», «текст», «обложка», «релиз», «бит», «мастеринг» (10 хабов), веб-инструмент `download.html`, 164 статьи.
 - 2026-11-03 — запущен генератор промптов, обновлён бот-друг, EN-версия сайта.
 
-## Все статьи (164)
+## Все статьи (204)
 
 1. Suno: все статьи — выгрузка, звук, видео, релиз — https://telegra.ph/Suno-vse-stati--vygruzka-trekov-video-i-zvuk-11-02
 2. Как скачать трек из Suno AI: MP3, WAV и что делать, если кнопка не работает — https://telegra.ph/Kak-skachat-trek-iz-Suno-AI-MP3-WAV-i-chto-delat-esli-knopka-ne-rabotaet-11-02
@@ -333,3 +339,43 @@
 162. Референс-трек в мастеринге — https://telegra.ph/Referens-trek-v-masteringe-11-03
 163. Проверка микса на телефоне — https://telegra.ph/Proverka-miksa-na-telefone-11-03
 164. Зачем WAV для мастеринга — https://telegra.ph/Zachem-WAV-dlya-masteringa-11-03
+165. Что такое AI музыка — https://telegra.ph/CHto-takoe-AI-muzyka-11-04
+166. Как работает генерация музыки ИИ — https://telegra.ph/Kak-rabotaet-generaciya-muzyki-II-11-04
+167. Лучшие нейросети для музыки — https://telegra.ph/Luchshie-nejroseti-dlya-muzyki-11-04
+168. Suno или Udio: что выбрать — https://telegra.ph/Suno-ili-Udio-chto-vybrat-11-04
+169. AI музыка бесплатно — https://telegra.ph/AI-muzyka-besplatno-11-04
+170. AI музыка для бизнеса — https://telegra.ph/AI-muzyka-dlya-biznesa-11-04
+171. AI музыка и авторские права — https://telegra.ph/AI-muzyka-i-avtorskie-prava-11-04
+172. AI музыка в рекламе — https://telegra.ph/AI-muzyka-v-reklame-11-04
+173. AI музыка для игр — https://telegra.ph/AI-muzyka-dlya-igr-11-04
+174. Будущее AI музыки — https://telegra.ph/Budushchee-AI-muzyki-11-04
+175. Музыка для YouTube — https://telegra.ph/Muzyka-dlya-YouTube-11-04
+176. Музыка для TikTok — https://telegra.ph/Muzyka-dlya-TikTok-11-04
+177. Музыка для Reels — https://telegra.ph/Muzyka-dlya-Reels-11-04
+178. Фон для подкаста — https://telegra.ph/Fon-dlya-podkasta-11-04
+179. Музыка для рекламы — https://telegra.ph/Muzyka-dlya-reklamy-11-04
+180. Музыка для презентации — https://telegra.ph/Muzyka-dlya-prezentacii-11-04
+181. Музыка для свадьбы — https://telegra.ph/Muzyka-dlya-svadby-11-04
+182. Музыка для спорта — https://telegra.ph/Muzyka-dlya-sporta-11-04
+183. Музыка для обучения — https://telegra.ph/Muzyka-dlya-obucheniya-11-04
+184. Музыка для стрима — https://telegra.ph/Muzyka-dlya-strima-11-04
+185. Как убрать вокал из трека — https://telegra.ph/Kak-ubrat-vokal-iz-treka-11-04
+186. Как сделать минус — https://telegra.ph/Kak-sdelat-minus-11-04
+187. Караоке из трека — https://telegra.ph/Karaoke-iz-treka-11-04
+188. Разделение стемов — https://telegra.ph/Razdelenie-stemov-11-04
+189. Как записать вокал — https://telegra.ph/Kak-zapisat-vokal-11-04
+190. Как подобрать тональность — https://telegra.ph/Kak-podobrat-tonalnost-11-04
+191. Караоке для телефона — https://telegra.ph/Karaoke-dlya-telefona-11-04
+192. Караоке для вечеринки — https://telegra.ph/Karaoke-dlya-vecherinki-11-04
+193. Минус без потери качества — https://telegra.ph/Minus-bez-poteri-kachestva-11-04
+194. Караоке и права — https://telegra.ph/Karaoke-i-prava-11-04
+195. Как сделать вокал чище — https://telegra.ph/Kak-sdelat-vokal-chishche-11-04
+196. Как убрать шипение в вокале — https://telegra.ph/Kak-ubrat-shipenie-v-vokale-11-04
+197. Как выровнять вокал — https://telegra.ph/Kak-vyrovnyat-vokal-11-04
+198. Как добавить реверб на вокал — https://telegra.ph/Kak-dobavit-reverb-na-vokal-11-04
+199. Как сделать дабл вокала — https://telegra.ph/Kak-sdelat-dabl-vokala-11-04
+200. Как сделать бэк-вокал — https://telegra.ph/Kak-sdelat-behk-vokal-11-04
+201. Как петь в тональность — https://telegra.ph/Kak-pet-v-tonalnost-11-04
+202. Как записать вокал дома — https://telegra.ph/Kak-zapisat-vokal-doma-11-04
+203. Как свести вокал с битом — https://telegra.ph/Kak-svesti-vokal-s-bitom-11-04
+204. Как сделать вокал громче — https://telegra.ph/Kak-sdelat-vokal-gromche-11-04
