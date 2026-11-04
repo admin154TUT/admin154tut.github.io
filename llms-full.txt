@@ -22,7 +22,7 @@
 - MP3: **320 kbps**, с обложкой и ID3-тегами.
 - WAV: **44.1 кГц / 16 бит**, без сжатия.
 - Видео: **1080×1920** (9:16) для Shorts, Reels, TikTok.
-- Страниц на сайте: **38**. Статей: **204**.
+- Страниц на сайте: **38**. Статей: **264**.
 - Расширение: Chrome Web Store, ID `hmffkpdaiolidlogijfagdbbfcaajbdg`.
 
 ## Продукты
@@ -158,7 +158,7 @@
 
 ## Статьи
 
-204 разборов: скачивание, текст, обложка, релиз, бит, мастеринг, видео, промпты.
+264 разборов: скачивание, текст, обложка, релиз, бит, мастеринг, видео, промпты.
 Полный список: https://admin154tut.github.io/blog.html
 
 ## Видео и соцсети
@@ -173,7 +173,7 @@
 - 2026-11-04 — добавлены кластеры «создать песню/музыку», «текст», «обложка», «релиз», «бит», «мастеринг» (10 хабов), веб-инструмент `download.html`, 164 статьи.
 - 2026-11-03 — запущен генератор промптов, обновлён бот-друг, EN-версия сайта.
 
-## Все статьи (204)
+## Все статьи (264)
 
 1. Suno: все статьи — выгрузка, звук, видео, релиз — https://telegra.ph/Suno-vse-stati--vygruzka-trekov-video-i-zvuk-11-02
 2. Как скачать трек из Suno AI: MP3, WAV и что делать, если кнопка не работает — https://telegra.ph/Kak-skachat-trek-iz-Suno-AI-MP3-WAV-i-chto-delat-esli-knopka-ne-rabotaet-11-02
@@ -379,3 +379,63 @@
 202. Как записать вокал дома — https://telegra.ph/Kak-zapisat-vokal-doma-11-04
 203. Как свести вокал с битом — https://telegra.ph/Kak-svesti-vokal-s-bitom-11-04
 204. Как сделать вокал громче — https://telegra.ph/Kak-sdelat-vokal-gromche-11-04
+205. Как скачать трек из Suno на компьютер — https://telegra.ph/Kak-skachat-trek-iz-Suno-na-kompyuter-11-04
+206. Suno: как скачать в 320 kbps — https://telegra.ph/Suno-kak-skachat-v-320-kbps-11-04
+207. Suno: почему MP3 звучит хуже WAV — https://telegra.ph/Suno-pochemu-MP3-zvuchit-huzhe-WAV-11-04
+208. Suno: как проверить качество файла — https://telegra.ph/Suno-kak-proverit-kachestvo-fajla-11-04
+209. Suno: как скачать трек в хорошем качестве — https://telegra.ph/Suno-kak-skachat-trek-v-horoshem-kachestve-11-04
+210. Suno: как скачать обложку отдельно — https://telegra.ph/Suno-kak-skachat-oblozhku-otdelno-11-04
+211. Suno: как скачать текст отдельным файлом — https://telegra.ph/Suno-kak-skachat-tekst-otdelnym-fajlom-11-04
+212. Suno: как скачать инструментал — https://telegra.ph/Suno-kak-skachat-instrumental-11-04
+213. Suno: как скачать вокал отдельно — https://telegra.ph/Suno-kak-skachat-vokal-otdelno-11-04
+214. Suno: как скачать несколько версий трека — https://telegra.ph/Suno-kak-skachat-neskolko-versij-treka-11-04
+215. Suno: как сохранить трек в iCloud — https://telegra.ph/Suno-kak-sohranit-trek-v-iCloud-11-04
+216. Suno: как перенести трек на телефон — https://telegra.ph/Suno-kak-perenesti-trek-na-telefon-11-04
+217. Suno: как отправить трек в WhatsApp — https://telegra.ph/Suno-kak-otpravit-trek-v-WhatsApp-11-04
+218. Suno: как отправить трек другу — https://telegra.ph/Suno-kak-otpravit-trek-drugu-11-04
+219. Suno: как скачать трек в Telegram — https://telegra.ph/Suno-kak-skachat-trek-v-Telegram-11-04
+220. Suno: как скачать трек в MP3 на iPhone — https://telegra.ph/Suno-kak-skachat-trek-v-MP3-na-iPhone-11-04
+221. Suno: как скачать трек на Android в MP3 — https://telegra.ph/Suno-kak-skachat-trek-na-Android-v-MP3-11-04
+222. Suno: как скачать трек в исходном качестве — https://telegra.ph/Suno-kak-skachat-trek-v-ishodnom-kachestve-11-04
+223. Suno: как скачать трек с обложкой и тегами — https://telegra.ph/Suno-kak-skachat-trek-s-oblozhkoj-i-tegami-11-04
+224. Suno: что делать, если файл не открывается — https://telegra.ph/Suno-chto-delat-esli-fajl-ne-otkryvaetsya-11-04
+225. Suno: что делать, если скачивание зависло — https://telegra.ph/Suno-chto-delat-esli-skachivanie-zavislo-11-04
+226. Suno: что делать, если бот не отвечает — https://telegra.ph/Suno-chto-delat-esli-bot-ne-otvechaet-11-04
+227. Suno: что делать, если «Ссылка не найдена» — https://telegra.ph/Suno-chto-delat-esli-Ssylka-ne-najdena-11-04
+228. Suno: что делать, если трек удалён — https://telegra.ph/Suno-chto-delat-esli-trek-udalyon-11-04
+229. Suno: как скачать приватный трек — https://telegra.ph/Suno-kak-skachat-privatnyj-trek-11-04
+230. Suno: как скачать трек после удаления — https://telegra.ph/Suno-kak-skachat-trek-posle-udaleniya-11-04
+231. Suno: как скачать трек через браузер — https://telegra.ph/Suno-kak-skachat-trek-cherez-brauzer-11-04
+232. Suno: как скачать трек через Telegram Web — https://telegra.ph/Suno-kak-skachat-trek-cherez-Telegram-Web-11-04
+233. Suno: как переслать файл из Telegram — https://telegra.ph/Suno-kak-pereslat-fajl-iz-Telegram-11-04
+234. Suno: как открыть MP3 на компьютере — https://telegra.ph/Suno-kak-otkryt-MP3-na-kompyutere-11-04
+235. Suno: как открыть WAV на телефоне — https://telegra.ph/Suno-kak-otkryt-WAV-na-telefone-11-04
+236. Suno: какие форматы поддерживает Suno — https://telegra.ph/Suno-kakie-formaty-podderzhivaet-Suno-11-04
+237. Suno: что такое 320 kbps — https://telegra.ph/Suno-chto-takoe-320-kbps-11-04
+238. Suno: что такое 44.1 кГц — https://telegra.ph/Suno-chto-takoe-441-kGc-11-04
+239. Suno: как уменьшить размер файла — https://telegra.ph/Suno-kak-umenshit-razmer-fajla-11-04
+240. Suno: как сжать MP3 без потери качества — https://telegra.ph/Suno-kak-szhat-MP3-bez-poteri-kachestva-11-04
+241. Suno: как конвертировать WAV в MP3 — https://telegra.ph/Suno-kak-konvertirovat-WAV-v-MP3-11-04
+242. Suno: как сделать хит — https://telegra.ph/Suno-kak-sdelat-hit-11-04
+243. Suno: как сделать припев запоминающимся — https://telegra.ph/Suno-kak-sdelat-pripev-zapominayushchimsya-11-04
+244. Suno: как сделать трек в стиле 80-х — https://telegra.ph/Suno-kak-sdelat-trek-v-stile-80-h-11-04
+245. Suno: как сделать трек в стиле 90-х — https://telegra.ph/Suno-kak-sdelat-trek-v-stile-90-h-11-04
+246. Suno: как сделать трек в стиле 2000-х — https://telegra.ph/Suno-kak-sdelat-trek-v-stile-2000-h-11-04
+247. Suno: как сделать фонк — https://telegra.ph/Suno-kak-sdelat-fonk-11-04
+248. Suno: как сделать дрилл — https://telegra.ph/Suno-kak-sdelat-drill-11-04
+249. Suno: как сделать ambient — https://telegra.ph/Suno-kak-sdelat-ambient-11-04
+250. Suno: как сделать synthwave — https://telegra.ph/Suno-kak-sdelat-synthwave-11-04
+251. Suno: как сделать phonk — https://telegra.ph/Suno-kak-sdelat-phonk-11-04
+252. Suno: как сделать хип-хоп — https://telegra.ph/Suno-kak-sdelat-hip-hop-11-04
+253. Suno: как сделать R&B — https://telegra.ph/Suno-kak-sdelat-RB-11-04
+254. Suno: как сделать регги — https://telegra.ph/Suno-kak-sdelat-reggi-11-04
+255. Suno: как сделать латину — https://telegra.ph/Suno-kak-sdelat-latinu-11-04
+256. Suno: как сделать афробит — https://telegra.ph/Suno-kak-sdelat-afrobit-11-04
+257. Suno: как сделать K-pop — https://telegra.ph/Suno-kak-sdelat-K-pop-11-04
+258. Suno: как сделать рок-балладу — https://telegra.ph/Suno-kak-sdelat-rok-balladu-11-04
+259. Suno: как сделать панк — https://telegra.ph/Suno-kak-sdelat-pank-11-04
+260. Suno: как сделать блюз — https://telegra.ph/Suno-kak-sdelat-blyuz-11-04
+261. Suno: как сделать соул — https://telegra.ph/Suno-kak-sdelat-soul-11-04
+262. Suno: как сделать фолк — https://telegra.ph/Suno-kak-sdelat-folk-11-04
+263. Suno: как сделать шансон — https://telegra.ph/Suno-kak-sdelat-shanson-11-04
+264. Suno: как сделать русский рок — https://telegra.ph/Suno-kak-sdelat-russkij-rok-11-04
