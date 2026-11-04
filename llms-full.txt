@@ -22,7 +22,7 @@
 - MP3: **320 kbps**, с обложкой и ID3-тегами.
 - WAV: **44.1 кГц / 16 бит**, без сжатия.
 - Видео: **1080×1920** (9:16) для Shorts, Reels, TikTok.
-- Страниц на сайте: **38**. Статей: **336**.
+- Страниц на сайте: **38**. Статей: **359**.
 - Расширение: Chrome Web Store, ID `hmffkpdaiolidlogijfagdbbfcaajbdg`.
 
 ## Продукты
@@ -34,6 +34,9 @@
 4. **@SunoWavBot** — WAV из Suno без сжатия (44.1 кГц / 16 бит) — присылает сам.
 5. **@SunoTextBot** — текст песни из Suno — присылает сам.
 6. **@SunoPromptHelperBot** — промпт и стиль трека (стиль + текст TXT) — присылает сам.
+
+**Сообщество:**
+- Telegram-чат: https://t.me/sunoMP3chat — живое обсуждение Suno, треки, лайфхаки.
 
 **Другое:**
 - **Расширение Chrome** — кнопка «Скачать в Telegram» на странице трека suno.com.
@@ -166,11 +169,12 @@
 - Все боты: https://admin154tut.github.io/bots.html
 - Suno vs Udio: https://admin154tut.github.io/suno-vs-udio.html
 - WAV vs MP3: https://admin154tut.github.io/wav-vs-mp3.html
+- SunoMP3 vs SunoSaver: https://admin154tut.github.io/vs-sunosaver.html
 - EN: https://admin154tut.github.io/en/
 
 ## Статьи
 
-336 разборов: скачивание, текст, обложка, релиз, бит, мастеринг, видео, промпты.
+359 разборов: скачивание, текст, обложка, релиз, бит, мастеринг, видео, промпты.
 Полный список: https://admin154tut.github.io/blog.html
 
 ## Видео и соцсети
@@ -185,7 +189,7 @@
 - 2026-11-04 — добавлены кластеры «создать песню/музыку», «текст», «обложка», «релиз», «бит», «мастеринг» (10 хабов), веб-инструмент `download.html`, 164 статьи.
 - 2026-11-03 — запущен генератор промптов, обновлён бот-друг, EN-версия сайта.
 
-## Все статьи (336)
+## Все статьи (359)
 
 1. Suno: все статьи — выгрузка, звук, видео, релиз — https://telegra.ph/Suno-vse-stati--vygruzka-trekov-video-i-zvuk-11-02
 2. Как скачать трек из Suno AI: MP3, WAV и что делать, если кнопка не работает — https://telegra.ph/Kak-skachat-trek-iz-Suno-AI-MP3-WAV-i-chto-delat-esli-knopka-ne-rabotaet-11-02
@@ -523,3 +527,26 @@
 334. Suno: как сделать трек длиннее — https://telegra.ph/Suno-kak-sdelat-trek-dlinnee-11-04
 335. Suno: как сделать трек короче — https://telegra.ph/Suno-kak-sdelat-trek-koroche-11-04
 336. Suno: как сделать трек без вокала — https://telegra.ph/Suno-kak-sdelat-trek-bez-vokala-11-04
+337. WAV из Suno: как получить без сжатия — https://telegra.ph/WAV-iz-Suno-kak-poluchit-bez-szhatiya-11-04
+338. WAV или MP3: что лучше для мастеринга — https://telegra.ph/WAV-ili-MP3-chto-luchshe-dlya-masteringa-11-04
+339. Почему WAV весит больше — https://telegra.ph/Pochemu-WAV-vesit-bolshe-11-04
+340. Как открыть WAV на телефоне — https://telegra.ph/Kak-otkryt-WAV-na-telefone-11-04
+341. WAV для видео: зачем нужен — https://telegra.ph/WAV-dlya-video-zachem-nuzhen-11-04
+342. Как проверить качество WAV — https://telegra.ph/Kak-proverit-kachestvo-WAV-11-04
+343. Как достать текст песни из Suno — https://telegra.ph/Kak-dostat-tekst-pesni-iz-Suno-11-04
+344. Текст песни из Suno: копировать или скачать — https://telegra.ph/Tekst-pesni-iz-Suno-kopirovat-ili-skachat-11-04
+345. Как сохранить текст, чтобы не потерять — https://telegra.ph/Kak-sohranit-tekst-chtoby-ne-poteryat-11-04
+346. Текст для караоке из Suno — https://telegra.ph/Tekst-dlya-karaoke-iz-Suno-11-04
+347. Как исправить текст в Suno — https://telegra.ph/Kak-ispravit-tekst-v-Suno-11-04
+348. Текст песни: 8-14 слогов в строке — https://telegra.ph/Tekst-pesni-8-14-slogov-v-stroke-11-04
+349. Как достать промпт из трека Suno — https://telegra.ph/Kak-dostat-prompt-iz-treka-Suno-11-04
+350. Промпт и стиль: в чём разница — https://telegra.ph/Prompt-i-stil-v-chyom-raznica-11-04
+351. Как повторить стиль трека — https://telegra.ph/Kak-povtorit-stil-treka-11-04
+352. Промпт для нового трека: формула — https://telegra.ph/Prompt-dlya-novogo-treka-formula-11-04
+353. Теги вместо промпта — https://telegra.ph/Tegi-vmesto-prompta-11-04
+354. Как перенести стиль в другую нейросеть — https://telegra.ph/Kak-perenesti-stil-v-druguyu-nejroset-11-04
+355. Suno vs Udio: что выбрать — https://telegra.ph/Suno-vs-Udio-chto-vybrat-11-04
+356. Mureka: обзор — https://telegra.ph/Mureka-obzor-11-04
+357. Riffusion: для чего — https://telegra.ph/Riffusion-dlya-chego-11-04
+358. Stable Audio: фоны — https://telegra.ph/Stable-Audio-fony-11-04
+359. Как выбрать нейросеть под задачу — https://telegra.ph/Kak-vybrat-nejroset-pod-zadachu-11-04
