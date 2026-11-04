@@ -22,7 +22,7 @@
 - MP3: **320 kbps**, с обложкой и ID3-тегами.
 - WAV: **44.1 кГц / 16 бит**, без сжатия.
 - Видео: **1080×1920** (9:16) для Shorts, Reels, TikTok.
-- Страниц на сайте: **38**. Статей: **264**.
+- Страниц на сайте: **38**. Статей: **272**.
 - Расширение: Chrome Web Store, ID `hmffkpdaiolidlogijfagdbbfcaajbdg`.
 
 ## Продукты
@@ -163,11 +163,14 @@
 - С телефона: https://admin154tut.github.io/telefon.html
 - Видео: https://admin154tut.github.io/videos.html
 - Статьи: https://admin154tut.github.io/blog.html
+- Все боты: https://admin154tut.github.io/bots.html
+- Suno vs Udio: https://admin154tut.github.io/suno-vs-udio.html
+- WAV vs MP3: https://admin154tut.github.io/wav-vs-mp3.html
 - EN: https://admin154tut.github.io/en/
 
 ## Статьи
 
-264 разборов: скачивание, текст, обложка, релиз, бит, мастеринг, видео, промпты.
+272 разборов: скачивание, текст, обложка, релиз, бит, мастеринг, видео, промпты.
 Полный список: https://admin154tut.github.io/blog.html
 
 ## Видео и соцсети

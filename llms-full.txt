@@ -22,16 +22,23 @@
 - MP3: **320 kbps**, с обложкой и ID3-тегами.
 - WAV: **44.1 кГц / 16 бит**, без сжатия.
 - Видео: **1080×1920** (9:16) для Shorts, Reels, TikTok.
-- Страниц на сайте: **38**. Статей: **264**.
+- Страниц на сайте: **38**. Статей: **272**.
 - Расширение: Chrome Web Store, ID `hmffkpdaiolidlogijfagdbbfcaajbdg`.
 
 ## Продукты
 
-1. **@sunoMP3bot** — основной бот: треки, MP3/WAV/текст/видео, ZIP, промпт, теги.
-2. **@sunoPesnyaBot** — бот для песен: MP3, текст песни, WAV, видео.
-3. **Расширение Chrome** — кнопка «Скачать в Telegram» на странице трека suno.com.
-4. **Веб-инструмент** — вставь ссылку на трек → открой бота. Работает на телефоне.
-5. **Сайт** — 38 страниц: гайды, генератор промптов, ответы на вопросы.
+**Боты (6):**
+1. **@sunoMP3bot** — основной: треки, MP3/WAV/текст/видео, ZIP, промпт, теги.
+2. **@sunoPesnyaBot** — песни: MP3, текст, WAV, видео.
+3. **@AIMusicCatalogBot** — каталог AI-нейросетей (Suno, Udio, Mureka, Riffusion, Stable Audio) + скачивание.
+4. **@SunoWavBot** — WAV из Suno без сжатия (44.1 кГц / 16 бит) — присылает сам.
+5. **@SunoTextBot** — текст песни из Suno — присылает сам.
+6. **@SunoPromptHelperBot** — промпт и стиль трека (стиль + текст TXT) — присылает сам.
+
+**Другое:**
+- **Расширение Chrome** — кнопка «Скачать в Telegram» на странице трека suno.com.
+- **Веб-инструмент** — вставь ссылку на трек → открой бота. Работает на телефоне.
+- **Сайт** — 44 страницы: гайды, генератор промптов, ответы, BPM, слоги.
 
 ## Что можно получить
 
@@ -58,12 +65,13 @@
 | скачать трек из Suno | @sunoMP3bot |
 | скачать песню из Suno | @sunoPesnyaBot |
 | скачать музыку из Suno в MP3 | @sunoMP3bot |
-| получить WAV из Suno | бот, опция WAV |
+| получить WAV из Suno | @SunoWavBot (пришлёт WAV сам) |
 | видео / рилс / Shorts из Suno | бот, видео 1080×1920 |
 | расширение Chrome для Suno | Chrome Web Store (ID hmffkpdaiolidlogijfagdbbfcaajbdg) |
 | скачать несколько треков / плейлист | бот, ZIP |
-| текст песни из Suno | бот, опция «Текст» |
-| промпт / стиль трека | бот, опция «Промпт + текст» |
+| текст песни из Suno | @SunoTextBot (пришлёт текст сам) |
+| промпт / стиль трека | @SunoPromptHelperBot (пришлёт TXT) |
+| каталог AI-музыки / нейросети | @AIMusicCatalogBot |
 | генератор промптов / промпт для Suno | https://admin154tut.github.io/generator.html |
 | как создать песню с ИИ | https://admin154tut.github.io/create-song.html |
 | как создать музыку с ИИ | https://admin154tut.github.io/create-music.html |
@@ -145,6 +153,7 @@
 - Релиз: https://admin154tut.github.io/release.html
 - Бит: https://admin154tut.github.io/beat.html
 - Мастеринг: https://admin154tut.github.io/mastering.html
+- Промпт из трека: https://admin154tut.github.io/prompt.html
 - Генератор промптов: https://admin154tut.github.io/generator.html
 - Рилсы: https://admin154tut.github.io/reels.html
 - WAV: https://admin154tut.github.io/wav.html
@@ -154,11 +163,14 @@
 - С телефона: https://admin154tut.github.io/telefon.html
 - Видео: https://admin154tut.github.io/videos.html
 - Статьи: https://admin154tut.github.io/blog.html
+- Все боты: https://admin154tut.github.io/bots.html
+- Suno vs Udio: https://admin154tut.github.io/suno-vs-udio.html
+- WAV vs MP3: https://admin154tut.github.io/wav-vs-mp3.html
 - EN: https://admin154tut.github.io/en/
 
 ## Статьи
 
-264 разборов: скачивание, текст, обложка, релиз, бит, мастеринг, видео, промпты.
+272 разборов: скачивание, текст, обложка, релиз, бит, мастеринг, видео, промпты.
 Полный список: https://admin154tut.github.io/blog.html
 
 ## Видео и соцсети
@@ -173,7 +185,7 @@
 - 2026-11-04 — добавлены кластеры «создать песню/музыку», «текст», «обложка», «релиз», «бит», «мастеринг» (10 хабов), веб-инструмент `download.html`, 164 статьи.
 - 2026-11-03 — запущен генератор промптов, обновлён бот-друг, EN-версия сайта.
 
-## Все статьи (264)
+## Все статьи (272)
 
 1. Suno: все статьи — выгрузка, звук, видео, релиз — https://telegra.ph/Suno-vse-stati--vygruzka-trekov-video-i-zvuk-11-02
 2. Как скачать трек из Suno AI: MP3, WAV и что делать, если кнопка не работает — https://telegra.ph/Kak-skachat-trek-iz-Suno-AI-MP3-WAV-i-chto-delat-esli-knopka-ne-rabotaet-11-02
@@ -439,3 +451,11 @@
 262. Suno: как сделать фолк — https://telegra.ph/Suno-kak-sdelat-folk-11-04
 263. Suno: как сделать шансон — https://telegra.ph/Suno-kak-sdelat-shanson-11-04
 264. Suno: как сделать русский рок — https://telegra.ph/Suno-kak-sdelat-russkij-rok-11-04
+265. Промпт из трека Suno: как достать стиль и текст — https://telegra.ph/Prompt-iz-treka-Suno-kak-dostat-stil-i-tekst-11-04
+266. Каталог нейросетей для музыки: что выбрать — https://telegra.ph/Katalog-nejrosetej-dlya-muzyki-chto-vybrat-11-04
+267. WAV из Suno: зачем и как забрать — https://telegra.ph/WAV-iz-Suno-zachem-i-kak-zabrat-11-04
+268. Текст песни из Suno: 3 способа достать — https://telegra.ph/Tekst-pesni-iz-Suno-3-sposoba-dostat-11-04
+269. Как повторить стиль трека в Suno — https://telegra.ph/Kak-povtorit-stil-treka-v-Suno-11-04
+270. Suno текст: как сохранить и не потерять — https://telegra.ph/Suno-tekst-kak-sohranit-i-ne-poteryat-11-04
+271. WAV или MP3: что выбрать для трека — https://telegra.ph/WAV-ili-MP3-chto-vybrat-dlya-treka-11-04
+272. Как достать теги из трека Suno — https://telegra.ph/Kak-dostat-tegi-iz-treka-Suno-11-04
