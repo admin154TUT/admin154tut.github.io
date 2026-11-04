@@ -22,7 +22,7 @@
 - MP3: **320 kbps**, с обложкой и ID3-тегами.
 - WAV: **44.1 кГц / 16 бит**, без сжатия.
 - Видео: **1080×1920** (9:16) для Shorts, Reels, TikTok.
-- Страниц на сайте: **38**. Статей: **272**.
+- Страниц на сайте: **38**. Статей: **336**.
 - Расширение: Chrome Web Store, ID `hmffkpdaiolidlogijfagdbbfcaajbdg`.
 
 ## Продукты
@@ -170,7 +170,7 @@
 
 ## Статьи
 
-272 разборов: скачивание, текст, обложка, релиз, бит, мастеринг, видео, промпты.
+336 разборов: скачивание, текст, обложка, релиз, бит, мастеринг, видео, промпты.
 Полный список: https://admin154tut.github.io/blog.html
 
 ## Видео и соцсети
@@ -185,7 +185,7 @@
 - 2026-11-04 — добавлены кластеры «создать песню/музыку», «текст», «обложка», «релиз», «бит», «мастеринг» (10 хабов), веб-инструмент `download.html`, 164 статьи.
 - 2026-11-03 — запущен генератор промптов, обновлён бот-друг, EN-версия сайта.
 
-## Все статьи (272)
+## Все статьи (336)
 
 1. Suno: все статьи — выгрузка, звук, видео, релиз — https://telegra.ph/Suno-vse-stati--vygruzka-trekov-video-i-zvuk-11-02
 2. Как скачать трек из Suno AI: MP3, WAV и что делать, если кнопка не работает — https://telegra.ph/Kak-skachat-trek-iz-Suno-AI-MP3-WAV-i-chto-delat-esli-knopka-ne-rabotaet-11-02
@@ -459,3 +459,67 @@
 270. Suno текст: как сохранить и не потерять — https://telegra.ph/Suno-tekst-kak-sohranit-i-ne-poteryat-11-04
 271. WAV или MP3: что выбрать для трека — https://telegra.ph/WAV-ili-MP3-chto-vybrat-dlya-treka-11-04
 272. Как достать теги из трека Suno — https://telegra.ph/Kak-dostat-tegi-iz-treka-Suno-11-04
+273. Suno: как сделать детскую песню — https://telegra.ph/Suno-kak-sdelat-detskuyu-pesnyu-11-04
+274. Suno: как сделать новогоднюю песню — https://telegra.ph/Suno-kak-sdelat-novogodnyuyu-pesnyu-11-04
+275. Suno: как сделать трек для TikTok — https://telegra.ph/Suno-kak-sdelat-trek-dlya-TikTok-11-04
+276. Suno: как сделать трек для Shorts — https://telegra.ph/Suno-kak-sdelat-trek-dlya-Shorts-11-04
+277. Suno: как сделать трек для рекламы — https://telegra.ph/Suno-kak-sdelat-trek-dlya-reklamy-11-04
+278. Suno: как сделать трек для подкаста — https://telegra.ph/Suno-kak-sdelat-trek-dlya-podkasta-11-04
+279. Suno: как сделать трек для игры — https://telegra.ph/Suno-kak-sdelat-trek-dlya-igry-11-04
+280. Suno: как сделать трек для свадьбы — https://telegra.ph/Suno-kak-sdelat-trek-dlya-svadby-11-04
+281. Suno: как сделать трек для дня рождения — https://telegra.ph/Suno-kak-sdelat-trek-dlya-dnya-rozhdeniya-11-04
+282. Suno: как сделать трек для выпускного — https://telegra.ph/Suno-kak-sdelat-trek-dlya-vypusknogo-11-04
+283. Suno: как сделать трек для спорта — https://telegra.ph/Suno-kak-sdelat-trek-dlya-sporta-11-04
+284. Suno: как сделать трек для учёбы — https://telegra.ph/Suno-kak-sdelat-trek-dlya-uchyoby-11-04
+285. Suno: как сделать трек для медитации — https://telegra.ph/Suno-kak-sdelat-trek-dlya-meditacii-11-04
+286. Suno: как сделать трек для сна — https://telegra.ph/Suno-kak-sdelat-trek-dlya-sna-11-04
+287. Suno: как сделать трек для тренировки — https://telegra.ph/Suno-kak-sdelat-trek-dlya-trenirovki-11-04
+288. Suno: как сделать трек для машины — https://telegra.ph/Suno-kak-sdelat-trek-dlya-mashiny-11-04
+289. Suno: как сделать трек для вечеринки — https://telegra.ph/Suno-kak-sdelat-trek-dlya-vecherinki-11-04
+290. Suno: как сделать трек для дороги — https://telegra.ph/Suno-kak-sdelat-trek-dlya-dorogi-11-04
+291. Suno: как продвигать трек — https://telegra.ph/Suno-kak-prodvigat-trek-11-04
+292. Suno: как найти слушателей — https://telegra.ph/Suno-kak-najti-slushatelej-11-04
+293. Suno: как попасть в плейлист — https://telegra.ph/Suno-kak-popast-v-plejlist-11-04
+294. Suno: как работать с блогерами — https://telegra.ph/Suno-kak-rabotat-s-blogerami-11-04
+295. Suno: как сделать превью для соцсетей — https://telegra.ph/Suno-kak-sdelat-prevyu-dlya-socsetej-11-04
+296. Suno: как оформить профиль — https://telegra.ph/Suno-kak-oformit-profil-11-04
+297. Suno: как вести соцсети музыканту — https://telegra.ph/Suno-kak-vesti-socseti-muzykantu-11-04
+298. Suno: как сделать сайт музыканту — https://telegra.ph/Suno-kak-sdelat-sajt-muzykantu-11-04
+299. Suno: как продать бит — https://telegra.ph/Suno-kak-prodat-bit-11-04
+300. Suno: как продать трек — https://telegra.ph/Suno-kak-prodat-trek-11-04
+301. Suno: как получить заказ — https://telegra.ph/Suno-kak-poluchit-zakaz-11-04
+302. Suno: как работать с клиентами — https://telegra.ph/Suno-kak-rabotat-s-klientami-11-04
+303. Suno: как назвать проект — https://telegra.ph/Suno-kak-nazvat-proekt-11-04
+304. Suno: как сделать логотип — https://telegra.ph/Suno-kak-sdelat-logotip-11-04
+305. Suno: как оформить пресс-кит — https://telegra.ph/Suno-kak-oformit-press-kit-11-04
+306. Suno: как сделать bio — https://telegra.ph/Suno-kak-sdelat-bio-11-04
+307. Suno: как вести Telegram-канал — https://telegra.ph/Suno-kak-vesti-Telegram-kanal-11-04
+308. Suno: как вести YouTube — https://telegra.ph/Suno-kak-vesti-YouTube-11-04
+309. Suno: как вести TikTok — https://telegra.ph/Suno-kak-vesti-TikTok-11-04
+310. Suno: как вести Reels — https://telegra.ph/Suno-kak-vesti-Reels-11-04
+311. Suno: как делать Shorts — https://telegra.ph/Suno-kak-delat-Shorts-11-04
+312. Suno: как работать с хэштегами — https://telegra.ph/Suno-kak-rabotat-s-hehshtegami-11-04
+313. Suno: как анализировать статистику — https://telegra.ph/Suno-kak-analizirovat-statistiku-11-04
+314. Suno: как тестировать треки — https://telegra.ph/Suno-kak-testirovat-treki-11-04
+315. Suno: как собрать аудиторию — https://telegra.ph/Suno-kak-sobrat-auditoriyu-11-04
+316. Suno: как удержать слушателей — https://telegra.ph/Suno-kak-uderzhat-slushatelej-11-04
+317. Suno: как сделать релиз-план — https://telegra.ph/Suno-kak-sdelat-reliz-plan-11-04
+318. Suno: как выбрать дату релиза — https://telegra.ph/Suno-kak-vybrat-datu-reliza-11-04
+319. Suno: как сделать промо-кампанию — https://telegra.ph/Suno-kak-sdelat-promo-kampaniyu-11-04
+320. Suno: как работать с дистрибьютором — https://telegra.ph/Suno-kak-rabotat-s-distribyutorom-11-04
+321. Suno: как получить роялти — https://telegra.ph/Suno-kak-poluchit-royalti-11-04
+322. Suno: как вести учёт треков — https://telegra.ph/Suno-kak-vesti-uchyot-trekov-11-04
+323. Suno: как защитить проект — https://telegra.ph/Suno-kak-zashchitit-proekt-11-04
+324. Suno: как работать с командой — https://telegra.ph/Suno-kak-rabotat-s-komandoj-11-04
+325. Suno: как сделать мерч — https://telegra.ph/Suno-kak-sdelat-merch-11-04
+326. Suno: как организовать концерт — https://telegra.ph/Suno-kak-organizovat-koncert-11-04
+327. Suno: как записать живой звук — https://telegra.ph/Suno-kak-zapisat-zhivoj-zvuk-11-04
+328. Suno: как сделать ремикс на заказ — https://telegra.ph/Suno-kak-sdelat-remiks-na-zakaz-11-04
+329. Suno: как работать с лейблом — https://telegra.ph/Suno-kak-rabotat-s-lejblom-11-04
+330. Suno: как масштабировать проект — https://telegra.ph/Suno-kak-masshtabirovat-proekt-11-04
+331. Suno: как автоматизировать продвижение — https://telegra.ph/Suno-kak-avtomatizirovat-prodvizhenie-11-04
+332. Suno: как считать деньги в музыке — https://telegra.ph/Suno-kak-schitat-dengi-v-muzyke-11-04
+333. Suno: как выбрать жанр для трека — https://telegra.ph/Suno-kak-vybrat-zhanr-dlya-treka-11-04
+334. Suno: как сделать трек длиннее — https://telegra.ph/Suno-kak-sdelat-trek-dlinnee-11-04
+335. Suno: как сделать трек короче — https://telegra.ph/Suno-kak-sdelat-trek-koroche-11-04
+336. Suno: как сделать трек без вокала — https://telegra.ph/Suno-kak-sdelat-trek-bez-vokala-11-04
