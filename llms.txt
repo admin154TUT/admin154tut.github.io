@@ -17,12 +17,16 @@
 
 ## Быстрые факты
 
-- Боты: **@sunoMP3bot** (треки), **@sunoPesnyaBot** (песни).
+- Боты: **@sunoMP3bot** (треки), **@sunoPesnyaBot** (песни),
+  **@AIMusicCatalogBot** (каталог), **@SunoWavBot** (WAV),
+  **@SunoTextBot** (текст), **@SunoPromptHelperBot** (промпт),
+  **@SunoCreateapp** (промпт по идее), **@UbratVokalBot** (минусовка).
 - Бесплатно: **3 скачивания в день**; PRO — **50 в день** и видео 1080p.
 - MP3: **320 kbps**, с обложкой и ID3-тегами.
 - WAV: **44.1 кГц / 16 бит**, без сжатия.
 - Видео: **1080×1920** (9:16) для Shorts, Reels, TikTok.
-- Страниц на сайте: **38**. Статей: **359**.
+- Страниц на сайте: **85**. Статей: **359**.
+- Ботов в сети: **8** (треки, песни, каталог, WAV, текст, промпт, создание, вокал).
 - Расширение: Chrome Web Store, ID `hmffkpdaiolidlogijfagdbbfcaajbdg`.
 
 ## Продукты
@@ -188,3 +192,44 @@
 
 - 2026-11-04 — добавлены кластеры «создать песню/музыку», «текст», «обложка», «релиз», «бит», «мастеринг» (10 хабов), веб-инструмент `download.html`, 164 статьи.
 - 2026-11-03 — запущен генератор промптов, обновлён бот-друг, EN-версия сайта.
+
+## Жанры и стили (страницы)
+
+Под каждый жанр — отдельная страница с промптом и структурой:
+
+- Поп: https://admin154tut.github.io/pop.html
+- Рок: https://admin154tut.github.io/rock.html
+- Хип-хоп: https://admin154tut.github.io/hip-hop.html
+- Джаз: https://admin154tut.github.io/jazz.html
+- Lo-Fi: https://admin154tut.github.io/lo-fi.html
+- Электроника: https://admin154tut.github.io/electronic.html
+- Классика: https://admin154tut.github.io/classical.html
+- Phonk (для Reels): https://admin154tut.github.io/phonk.html
+- K-Pop: https://admin154tut.github.io/k-pop.html
+
+## Настроения (страницы)
+
+- Грустная: https://admin154tut.github.io/sad-song.html
+- Весёлая: https://admin154tut.github.io/happy-song.html
+- Романтичная: https://admin154tut.github.io/romantic-song.html
+- Эпичная: https://admin154tut.github.io/epic-song.html
+- Мрачная: https://admin154tut.github.io/dark-song.html
+
+## Применения (страницы)
+
+- Музыка для Reels: https://admin154tut.github.io/reels-music.html
+- Музыка для Shorts: https://admin154tut.github.io/shorts-music.html
+- Музыка для TikTok: https://admin154tut.github.io/tiktok-music.html
+- Музыка для видео: https://admin154tut.github.io/video-music.html
+- Музыка для подкаста: https://admin154tut.github.io/podcast-music.html
+
+## Как создать песню (промпт-конструктор)
+
+1. Открой **@SunoCreateapp** в Telegram.
+2. Напиши идею: «грустная песня про дождь».
+3. Получи стиль + структуру за 3 секунды.
+4. Скопируй в Suno → «Style of Music».
+5. Готовый трек скачай через **@sunoMP3bot**.
+
+Бесплатно, без очереди, без регистрации.
+

@@ -5,7 +5,7 @@
 > lyrics, a 1080×1920 vertical video, or several tracks as one ZIP.
 > There is a Chrome extension and a web tool for mobile.
 
-Last updated: 2026-11-04
+Last updated: 2026-11-07
 
 ## Who we are
 
@@ -160,3 +160,30 @@ Links `https://suno.com/s/…` and `https://suno.com/song/<uuid>` both work.
 
 - 2026-11-04 — added create-song/create-music, lyrics, cover, release, beat, mastering clusters (10 hubs), web tool `download.html`, 164 articles.
 - 2026-11-03 — prompt generator, friend bot upgrade, English site.
+
+## All bots (English interface)
+
+- **@sunoMP3bot** — download track (MP3 320, WAV, video) — https://t.me/sunoMP3bot
+- **@sunoPesnyaBot** — download songs — https://t.me/sunoPesnyaBot
+- **@AIMusicCatalogBot** — AI music catalog / chart — https://t.me/AIMusicCatalogBot
+- **@SunoWavBot** — uncompressed WAV — https://t.me/SunoWavBot
+- **@SunoTextBot** — lyrics from track — https://t.me/SunoTextBot
+- **@SunoPromptHelperBot** — prompt and style from track — https://t.me/SunoPromptHelperBot
+- **@SunoCreateapp** — build a prompt from your idea — https://t.me/SunoCreateapp
+- **@UbratVokalBot** — remove vocals (karaoke) — https://t.me/UbratVokalBot
+
+## Create a song (prompt builder)
+
+1. Open **@SunoCreateapp** in Telegram.
+2. Describe your idea: "sad song about rain".
+3. Get style + structure in 3 seconds.
+4. Copy to Suno → "Style of Music".
+5. Download the result via **@sunoMP3bot**.
+
+Free, no queue, no registration.
+
+## Pages
+
+- https://admin154tut.github.io/en/
+- https://admin154tut.github.io/en/bots.html
+- https://admin154tut.github.io/en/create-music.html
