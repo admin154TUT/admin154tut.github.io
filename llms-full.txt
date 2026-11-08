@@ -32,7 +32,7 @@
 Источник: https://admin154tut.github.io/pop-sad.html
 
 ### How to make sad pop in Suno?
-Use the style “pop, sad” at 100 BPM. Instruments: синтезатор, бас, драм-машина. Pop is catchy melodies and a memorable chorus.
+Use the style “pop, sad” at 100 BPM. Instruments: synth, bass, drum machine. Pop is catchy melodies and a memorable chorus.
 Источник: https://admin154tut.github.io/en/pop-sad.html
 
 ### Как сделать весёлый поп в Suno?
@@ -40,7 +40,7 @@ Use the style “pop, sad” at 100 BPM. Instruments: синтезатор, ба
 Источник: https://admin154tut.github.io/pop-happy.html
 
 ### How to make happy pop in Suno?
-Use the style “pop, happy” at 100 BPM. Instruments: синтезатор, бас, драм-машина. Pop is catchy melodies and a memorable chorus.
+Use the style “pop, happy” at 100 BPM. Instruments: synth, bass, drum machine. Pop is catchy melodies and a memorable chorus.
 Источник: https://admin154tut.github.io/en/pop-happy.html
 
 ### Как сделать романтичный поп в Suno?
@@ -48,7 +48,7 @@ Use the style “pop, happy” at 100 BPM. Instruments: синтезатор, б
 Источник: https://admin154tut.github.io/pop-romantic.html
 
 ### How to make romantic pop in Suno?
-Use the style “pop, romantic” at 100 BPM. Instruments: синтезатор, бас, драм-машина. Pop is catchy melodies and a memorable chorus.
+Use the style “pop, romantic” at 100 BPM. Instruments: synth, bass, drum machine. Pop is catchy melodies and a memorable chorus.
 Источник: https://admin154tut.github.io/en/pop-romantic.html
 
 ### Как сделать эпичный поп в Suno?
@@ -56,7 +56,7 @@ Use the style “pop, romantic” at 100 BPM. Instruments: синтезатор,
 Источник: https://admin154tut.github.io/pop-epic.html
 
 ### How to make epic pop in Suno?
-Use the style “pop, epic” at 100 BPM. Instruments: синтезатор, бас, драм-машина. Pop is catchy melodies and a memorable chorus.
+Use the style “pop, epic” at 100 BPM. Instruments: synth, bass, drum machine. Pop is catchy melodies and a memorable chorus.
 Источник: https://admin154tut.github.io/en/pop-epic.html
 
 ### Как сделать мрачный поп в Suno?
@@ -64,7 +64,7 @@ Use the style “pop, epic” at 100 BPM. Instruments: синтезатор, б�
 Источник: https://admin154tut.github.io/pop-dark.html
 
 ### How to make dark pop in Suno?
-Use the style “pop, dark” at 100 BPM. Instruments: синтезатор, бас, драм-машина. Pop is catchy melodies and a memorable chorus.
+Use the style “pop, dark” at 100 BPM. Instruments: synth, bass, drum machine. Pop is catchy melodies and a memorable chorus.
 Источник: https://admin154tut.github.io/en/pop-dark.html
 
 ### Как сделать спокойный поп в Suno?
@@ -72,7 +72,7 @@ Use the style “pop, dark” at 100 BPM. Instruments: синтезатор, б�
 Источник: https://admin154tut.github.io/pop-calm.html
 
 ### How to make calm pop in Suno?
-Use the style “pop, calm” at 100 BPM. Instruments: синтезатор, бас, драм-машина. Pop is catchy melodies and a memorable chorus.
+Use the style “pop, calm” at 100 BPM. Instruments: synth, bass, drum machine. Pop is catchy melodies and a memorable chorus.
 Источник: https://admin154tut.github.io/en/pop-calm.html
 
 ### Где взять музыку в стиле поп для Reels?
@@ -128,7 +128,7 @@ In Suno with the “pop, 100 bpm” style. Pop fits: catchy melodies and a memor
 Источник: https://admin154tut.github.io/rock-sad.html
 
 ### How to make sad rock in Suno?
-Use the style “rock, sad” at 120 BPM. Instruments: электрогитара, бас, барабаны. Rock is guitars, live drums and a strong vocal.
+Use the style “rock, sad” at 120 BPM. Instruments: electric guitar, bass, drums. Rock is guitars, live drums and a strong vocal.
 Источник: https://admin154tut.github.io/en/rock-sad.html
 
 ### Как сделать весёлый рок в Suno?
@@ -136,7 +136,7 @@ Use the style “rock, sad” at 120 BPM. Instruments: электрогитар�
 Источник: https://admin154tut.github.io/rock-happy.html
 
 ### How to make happy rock in Suno?
-Use the style “rock, happy” at 120 BPM. Instruments: электрогитара, бас, барабаны. Rock is guitars, live drums and a strong vocal.
+Use the style “rock, happy” at 120 BPM. Instruments: electric guitar, bass, drums. Rock is guitars, live drums and a strong vocal.
 Источник: https://admin154tut.github.io/en/rock-happy.html
 
 ### Как сделать романтичный рок в Suno?
@@ -144,7 +144,7 @@ Use the style “rock, happy” at 120 BPM. Instruments: электрогита�
 Источник: https://admin154tut.github.io/rock-romantic.html
 
 ### How to make romantic rock in Suno?
-Use the style “rock, romantic” at 120 BPM. Instruments: электрогитара, бас, барабаны. Rock is guitars, live drums and a strong vocal.
+Use the style “rock, romantic” at 120 BPM. Instruments: electric guitar, bass, drums. Rock is guitars, live drums and a strong vocal.
 Источник: https://admin154tut.github.io/en/rock-romantic.html
 
 ### Как сделать эпичный рок в Suno?
@@ -152,7 +152,7 @@ Use the style “rock, romantic” at 120 BPM. Instruments: электрогит
 Источник: https://admin154tut.github.io/rock-epic.html
 
 ### How to make epic rock in Suno?
-Use the style “rock, epic” at 120 BPM. Instruments: электрогитара, бас, барабаны. Rock is guitars, live drums and a strong vocal.
+Use the style “rock, epic” at 120 BPM. Instruments: electric guitar, bass, drums. Rock is guitars, live drums and a strong vocal.
 Источник: https://admin154tut.github.io/en/rock-epic.html
 
 ### Как сделать мрачный рок в Suno?
@@ -160,7 +160,7 @@ Use the style “rock, epic” at 120 BPM. Instruments: электрогитар
 Источник: https://admin154tut.github.io/rock-dark.html
 
 ### How to make dark rock in Suno?
-Use the style “rock, dark” at 120 BPM. Instruments: электрогитара, бас, барабаны. Rock is guitars, live drums and a strong vocal.
+Use the style “rock, dark” at 120 BPM. Instruments: electric guitar, bass, drums. Rock is guitars, live drums and a strong vocal.
 Источник: https://admin154tut.github.io/en/rock-dark.html
 
 ### Как сделать спокойный рок в Suno?
@@ -168,7 +168,7 @@ Use the style “rock, dark” at 120 BPM. Instruments: электрогитар
 Источник: https://admin154tut.github.io/rock-calm.html
 
 ### How to make calm rock in Suno?
-Use the style “rock, calm” at 120 BPM. Instruments: электрогитара, бас, барабаны. Rock is guitars, live drums and a strong vocal.
+Use the style “rock, calm” at 120 BPM. Instruments: electric guitar, bass, drums. Rock is guitars, live drums and a strong vocal.
 Источник: https://admin154tut.github.io/en/rock-calm.html
 
 ### Где взять музыку в стиле рок для Reels?
@@ -224,7 +224,7 @@ In Suno with the “rock, 120 bpm” style. Rock fits: guitars, live drums and a
 Источник: https://admin154tut.github.io/hip-hop-sad.html
 
 ### How to make sad hip-hop in Suno?
-Use the style “hip-hop, sad” at 90 BPM. Instruments: 808, бас, сэмплы. Hip-hop is groove, punchy beat and rap flow.
+Use the style “hip-hop, sad” at 90 BPM. Instruments: 808, bass, samples. Hip-hop is groove, punchy beat and rap flow.
 Источник: https://admin154tut.github.io/en/hip-hop-sad.html
 
 ### Как сделать весёлый хип-хоп в Suno?
@@ -232,7 +232,7 @@ Use the style “hip-hop, sad” at 90 BPM. Instruments: 808, бас, сэмпл
 Источник: https://admin154tut.github.io/hip-hop-happy.html
 
 ### How to make happy hip-hop in Suno?
-Use the style “hip-hop, happy” at 90 BPM. Instruments: 808, бас, сэмплы. Hip-hop is groove, punchy beat and rap flow.
+Use the style “hip-hop, happy” at 90 BPM. Instruments: 808, bass, samples. Hip-hop is groove, punchy beat and rap flow.
 Источник: https://admin154tut.github.io/en/hip-hop-happy.html
 
 ### Как сделать романтичный хип-хоп в Suno?
@@ -240,7 +240,7 @@ Use the style “hip-hop, happy” at 90 BPM. Instruments: 808, бас, сэмп
 Источник: https://admin154tut.github.io/hip-hop-romantic.html
 
 ### How to make romantic hip-hop in Suno?
-Use the style “hip-hop, romantic” at 90 BPM. Instruments: 808, бас, сэмплы. Hip-hop is groove, punchy beat and rap flow.
+Use the style “hip-hop, romantic” at 90 BPM. Instruments: 808, bass, samples. Hip-hop is groove, punchy beat and rap flow.
 Источник: https://admin154tut.github.io/en/hip-hop-romantic.html
 
 ### Как сделать эпичный хип-хоп в Suno?
@@ -248,7 +248,7 @@ Use the style “hip-hop, romantic” at 90 BPM. Instruments: 808, бас, сэ�
 Источник: https://admin154tut.github.io/hip-hop-epic.html
 
 ### How to make epic hip-hop in Suno?
-Use the style “hip-hop, epic” at 90 BPM. Instruments: 808, бас, сэмплы. Hip-hop is groove, punchy beat and rap flow.
+Use the style “hip-hop, epic” at 90 BPM. Instruments: 808, bass, samples. Hip-hop is groove, punchy beat and rap flow.
 Источник: https://admin154tut.github.io/en/hip-hop-epic.html
 
 ### Как сделать мрачный хип-хоп в Suno?
@@ -256,7 +256,7 @@ Use the style “hip-hop, epic” at 90 BPM. Instruments: 808, бас, сэмп�
 Источник: https://admin154tut.github.io/hip-hop-dark.html
 
 ### How to make dark hip-hop in Suno?
-Use the style “hip-hop, dark” at 90 BPM. Instruments: 808, бас, сэмплы. Hip-hop is groove, punchy beat and rap flow.
+Use the style “hip-hop, dark” at 90 BPM. Instruments: 808, bass, samples. Hip-hop is groove, punchy beat and rap flow.
 Источник: https://admin154tut.github.io/en/hip-hop-dark.html
 
 ### Как сделать спокойный хип-хоп в Suno?
@@ -264,7 +264,7 @@ Use the style “hip-hop, dark” at 90 BPM. Instruments: 808, бас, сэмп�
 Источник: https://admin154tut.github.io/hip-hop-calm.html
 
 ### How to make calm hip-hop in Suno?
-Use the style “hip-hop, calm” at 90 BPM. Instruments: 808, бас, сэмплы. Hip-hop is groove, punchy beat and rap flow.
+Use the style “hip-hop, calm” at 90 BPM. Instruments: 808, bass, samples. Hip-hop is groove, punchy beat and rap flow.
 Источник: https://admin154tut.github.io/en/hip-hop-calm.html
 
 ### Где взять музыку в стиле хип-хоп для Reels?
@@ -320,7 +320,7 @@ In Suno with the “hip-hop, 90 bpm” style. Hip-hop fits: groove, punchy beat 
 Источник: https://admin154tut.github.io/jazz-sad.html
 
 ### How to make sad jazz in Suno?
-Use the style “jazz, sad” at 110 BPM. Instruments: фортепиано, контрабас, саксофон. Jazz is improvisation and rich harmony.
+Use the style “jazz, sad” at 110 BPM. Instruments: piano, double bass, sax. Jazz is improvisation and rich harmony.
 Источник: https://admin154tut.github.io/en/jazz-sad.html
 
 ### Как сделать весёлый джаз в Suno?
@@ -328,7 +328,7 @@ Use the style “jazz, sad” at 110 BPM. Instruments: фортепиано, к�
 Источник: https://admin154tut.github.io/jazz-happy.html
 
 ### How to make happy jazz in Suno?
-Use the style “jazz, happy” at 110 BPM. Instruments: фортепиано, контрабас, саксофон. Jazz is improvisation and rich harmony.
+Use the style “jazz, happy” at 110 BPM. Instruments: piano, double bass, sax. Jazz is improvisation and rich harmony.
 Источник: https://admin154tut.github.io/en/jazz-happy.html
 
 ### Как сделать романтичный джаз в Suno?
@@ -336,7 +336,7 @@ Use the style “jazz, happy” at 110 BPM. Instruments: фортепиано, �
 Источник: https://admin154tut.github.io/jazz-romantic.html
 
 ### How to make romantic jazz in Suno?
-Use the style “jazz, romantic” at 110 BPM. Instruments: фортепиано, контрабас, саксофон. Jazz is improvisation and rich harmony.
+Use the style “jazz, romantic” at 110 BPM. Instruments: piano, double bass, sax. Jazz is improvisation and rich harmony.
 Источник: https://admin154tut.github.io/en/jazz-romantic.html
 
 ### Как сделать эпичный джаз в Suno?
@@ -344,7 +344,7 @@ Use the style “jazz, romantic” at 110 BPM. Instruments: фортепиано
 Источник: https://admin154tut.github.io/jazz-epic.html
 
 ### How to make epic jazz in Suno?
-Use the style “jazz, epic” at 110 BPM. Instruments: фортепиано, контрабас, саксофон. Jazz is improvisation and rich harmony.
+Use the style “jazz, epic” at 110 BPM. Instruments: piano, double bass, sax. Jazz is improvisation and rich harmony.
 Источник: https://admin154tut.github.io/en/jazz-epic.html
 
 ### Как сделать мрачный джаз в Suno?
@@ -352,7 +352,7 @@ Use the style “jazz, epic” at 110 BPM. Instruments: фортепиано, к
 Источник: https://admin154tut.github.io/jazz-dark.html
 
 ### How to make dark jazz in Suno?
-Use the style “jazz, dark” at 110 BPM. Instruments: фортепиано, контрабас, саксофон. Jazz is improvisation and rich harmony.
+Use the style “jazz, dark” at 110 BPM. Instruments: piano, double bass, sax. Jazz is improvisation and rich harmony.
 Источник: https://admin154tut.github.io/en/jazz-dark.html
 
 ### Как сделать спокойный джаз в Suno?
@@ -360,7 +360,7 @@ Use the style “jazz, dark” at 110 BPM. Instruments: фортепиано, к
 Источник: https://admin154tut.github.io/jazz-calm.html
 
 ### How to make calm jazz in Suno?
-Use the style “jazz, calm” at 110 BPM. Instruments: фортепиано, контрабас, саксофон. Jazz is improvisation and rich harmony.
+Use the style “jazz, calm” at 110 BPM. Instruments: piano, double bass, sax. Jazz is improvisation and rich harmony.
 Источник: https://admin154tut.github.io/en/jazz-calm.html
 
 ### Где взять музыку в стиле джаз для Reels?
@@ -416,7 +416,7 @@ In Suno with the “jazz, 110 bpm” style. Jazz fits: improvisation and rich ha
 Источник: https://admin154tut.github.io/lo-fi-sad.html
 
 ### How to make sad lo-fi in Suno?
-Use the style “lo-fi, sad” at 75 BPM. Instruments: пианино, винил-шум, бас. Lo-fi is soft beat with vinyl noise.
+Use the style “lo-fi, sad” at 75 BPM. Instruments: piano, vinyl noise, bass. Lo-fi is soft beat with vinyl noise.
 Источник: https://admin154tut.github.io/en/lo-fi-sad.html
 
 ### Как сделать весёлый lo-fi в Suno?
@@ -424,7 +424,7 @@ Use the style “lo-fi, sad” at 75 BPM. Instruments: пианино, вини�
 Источник: https://admin154tut.github.io/lo-fi-happy.html
 
 ### How to make happy lo-fi in Suno?
-Use the style “lo-fi, happy” at 75 BPM. Instruments: пианино, винил-шум, бас. Lo-fi is soft beat with vinyl noise.
+Use the style “lo-fi, happy” at 75 BPM. Instruments: piano, vinyl noise, bass. Lo-fi is soft beat with vinyl noise.
 Источник: https://admin154tut.github.io/en/lo-fi-happy.html
 
 ### Как сделать романтичный lo-fi в Suno?
@@ -432,7 +432,7 @@ Use the style “lo-fi, happy” at 75 BPM. Instruments: пианино, вин�
 Источник: https://admin154tut.github.io/lo-fi-romantic.html
 
 ### How to make romantic lo-fi in Suno?
-Use the style “lo-fi, romantic” at 75 BPM. Instruments: пианино, винил-шум, бас. Lo-fi is soft beat with vinyl noise.
+Use the style “lo-fi, romantic” at 75 BPM. Instruments: piano, vinyl noise, bass. Lo-fi is soft beat with vinyl noise.
 Источник: https://admin154tut.github.io/en/lo-fi-romantic.html
 
 ### Как сделать эпичный lo-fi в Suno?
@@ -440,7 +440,7 @@ Use the style “lo-fi, romantic” at 75 BPM. Instruments: пианино, ви
 Источник: https://admin154tut.github.io/lo-fi-epic.html
 
 ### How to make epic lo-fi in Suno?
-Use the style “lo-fi, epic” at 75 BPM. Instruments: пианино, винил-шум, бас. Lo-fi is soft beat with vinyl noise.
+Use the style “lo-fi, epic” at 75 BPM. Instruments: piano, vinyl noise, bass. Lo-fi is soft beat with vinyl noise.
 Источник: https://admin154tut.github.io/en/lo-fi-epic.html
 
 ### Как сделать мрачный lo-fi в Suno?
@@ -448,7 +448,7 @@ Use the style “lo-fi, epic” at 75 BPM. Instruments: пианино, вини
 Источник: https://admin154tut.github.io/lo-fi-dark.html
 
 ### How to make dark lo-fi in Suno?
-Use the style “lo-fi, dark” at 75 BPM. Instruments: пианино, винил-шум, бас. Lo-fi is soft beat with vinyl noise.
+Use the style “lo-fi, dark” at 75 BPM. Instruments: piano, vinyl noise, bass. Lo-fi is soft beat with vinyl noise.
 Источник: https://admin154tut.github.io/en/lo-fi-dark.html
 
 ### Как сделать спокойный lo-fi в Suno?
@@ -456,7 +456,7 @@ Use the style “lo-fi, dark” at 75 BPM. Instruments: пианино, вини
 Источник: https://admin154tut.github.io/lo-fi-calm.html
 
 ### How to make calm lo-fi in Suno?
-Use the style “lo-fi, calm” at 75 BPM. Instruments: пианино, винил-шум, бас. Lo-fi is soft beat with vinyl noise.
+Use the style “lo-fi, calm” at 75 BPM. Instruments: piano, vinyl noise, bass. Lo-fi is soft beat with vinyl noise.
 Источник: https://admin154tut.github.io/en/lo-fi-calm.html
 
 ### Где взять музыку в стиле lo-fi для Reels?
@@ -512,7 +512,7 @@ In Suno with the “lo-fi, 75 bpm” style. Lo-fi fits: soft beat with vinyl noi
 Источник: https://admin154tut.github.io/electronic-sad.html
 
 ### How to make sad electronic in Suno?
-Use the style “electronic, sad” at 128 BPM. Instruments: синтезаторы, драм-машина, сэмплер. Electronic is synths and a dance rhythm.
+Use the style “electronic, sad” at 128 BPM. Instruments: synths, drum machine, sampler. Electronic is synths and a dance rhythm.
 Источник: https://admin154tut.github.io/en/electronic-sad.html
 
 ### Как сделать весёлый электроника в Suno?
@@ -520,7 +520,7 @@ Use the style “electronic, sad” at 128 BPM. Instruments: синтезато�
 Источник: https://admin154tut.github.io/electronic-happy.html
 
 ### How to make happy electronic in Suno?
-Use the style “electronic, happy” at 128 BPM. Instruments: синтезаторы, драм-машина, сэмплер. Electronic is synths and a dance rhythm.
+Use the style “electronic, happy” at 128 BPM. Instruments: synths, drum machine, sampler. Electronic is synths and a dance rhythm.
 Источник: https://admin154tut.github.io/en/electronic-happy.html
 
 ### Как сделать романтичный электроника в Suno?
@@ -528,7 +528,7 @@ Use the style “electronic, happy” at 128 BPM. Instruments: синтезат�
 Источник: https://admin154tut.github.io/electronic-romantic.html
 
 ### How to make romantic electronic in Suno?
-Use the style “electronic, romantic” at 128 BPM. Instruments: синтезаторы, драм-машина, сэмплер. Electronic is synths and a dance rhythm.
+Use the style “electronic, romantic” at 128 BPM. Instruments: synths, drum machine, sampler. Electronic is synths and a dance rhythm.
 Источник: https://admin154tut.github.io/en/electronic-romantic.html
 
 ### Как сделать эпичный электроника в Suno?
@@ -536,7 +536,7 @@ Use the style “electronic, romantic” at 128 BPM. Instruments: синтеза
 Источник: https://admin154tut.github.io/electronic-epic.html
 
 ### How to make epic electronic in Suno?
-Use the style “electronic, epic” at 128 BPM. Instruments: синтезаторы, драм-машина, сэмплер. Electronic is synths and a dance rhythm.
+Use the style “electronic, epic” at 128 BPM. Instruments: synths, drum machine, sampler. Electronic is synths and a dance rhythm.
 Источник: https://admin154tut.github.io/en/electronic-epic.html
 
 ### Как сделать мрачный электроника в Suno?
@@ -544,7 +544,7 @@ Use the style “electronic, epic” at 128 BPM. Instruments: синтезато
 Источник: https://admin154tut.github.io/electronic-dark.html
 
 ### How to make dark electronic in Suno?
-Use the style “electronic, dark” at 128 BPM. Instruments: синтезаторы, драм-машина, сэмплер. Electronic is synths and a dance rhythm.
+Use the style “electronic, dark” at 128 BPM. Instruments: synths, drum machine, sampler. Electronic is synths and a dance rhythm.
 Источник: https://admin154tut.github.io/en/electronic-dark.html
 
 ### Как сделать спокойный электроника в Suno?
@@ -552,7 +552,7 @@ Use the style “electronic, dark” at 128 BPM. Instruments: синтезато
 Источник: https://admin154tut.github.io/electronic-calm.html
 
 ### How to make calm electronic in Suno?
-Use the style “electronic, calm” at 128 BPM. Instruments: синтезаторы, драм-машина, сэмплер. Electronic is synths and a dance rhythm.
+Use the style “electronic, calm” at 128 BPM. Instruments: synths, drum machine, sampler. Electronic is synths and a dance rhythm.
 Источник: https://admin154tut.github.io/en/electronic-calm.html
 
 ### Где взять музыку в стиле электроника для Reels?
@@ -608,7 +608,7 @@ In Suno with the “electronic, 128 bpm” style. Electronic fits: synths and a 
 Источник: https://admin154tut.github.io/phonk-sad.html
 
 ### How to make sad phonk in Suno?
-Use the style “phonk, sad” at 140 BPM. Instruments: 808, ковбелл, вокальные сэмплы. Phonk is heavy bass and pitched vocals.
+Use the style “phonk, sad” at 140 BPM. Instruments: 808, cowbell, vocal chops. Phonk is heavy bass and pitched vocals.
 Источник: https://admin154tut.github.io/en/phonk-sad.html
 
 ### Как сделать весёлый фонк в Suno?
@@ -616,7 +616,7 @@ Use the style “phonk, sad” at 140 BPM. Instruments: 808, ковбелл, в�
 Источник: https://admin154tut.github.io/phonk-happy.html
 
 ### How to make happy phonk in Suno?
-Use the style “phonk, happy” at 140 BPM. Instruments: 808, ковбелл, вокальные сэмплы. Phonk is heavy bass and pitched vocals.
+Use the style “phonk, happy” at 140 BPM. Instruments: 808, cowbell, vocal chops. Phonk is heavy bass and pitched vocals.
 Источник: https://admin154tut.github.io/en/phonk-happy.html
 
 ### Как сделать романтичный фонк в Suno?
@@ -624,7 +624,7 @@ Use the style “phonk, happy” at 140 BPM. Instruments: 808, ковбелл, �
 Источник: https://admin154tut.github.io/phonk-romantic.html
 
 ### How to make romantic phonk in Suno?
-Use the style “phonk, romantic” at 140 BPM. Instruments: 808, ковбелл, вокальные сэмплы. Phonk is heavy bass and pitched vocals.
+Use the style “phonk, romantic” at 140 BPM. Instruments: 808, cowbell, vocal chops. Phonk is heavy bass and pitched vocals.
 Источник: https://admin154tut.github.io/en/phonk-romantic.html
 
 ### Как сделать эпичный фонк в Suno?
@@ -632,7 +632,7 @@ Use the style “phonk, romantic” at 140 BPM. Instruments: 808, ковбелл
 Источник: https://admin154tut.github.io/phonk-epic.html
 
 ### How to make epic phonk in Suno?
-Use the style “phonk, epic” at 140 BPM. Instruments: 808, ковбелл, вокальные сэмплы. Phonk is heavy bass and pitched vocals.
+Use the style “phonk, epic” at 140 BPM. Instruments: 808, cowbell, vocal chops. Phonk is heavy bass and pitched vocals.
 Источник: https://admin154tut.github.io/en/phonk-epic.html
 
 ### Как сделать мрачный фонк в Suno?
@@ -640,7 +640,7 @@ Use the style “phonk, epic” at 140 BPM. Instruments: 808, ковбелл, в
 Источник: https://admin154tut.github.io/phonk-dark.html
 
 ### How to make dark phonk in Suno?
-Use the style “phonk, dark” at 140 BPM. Instruments: 808, ковбелл, вокальные сэмплы. Phonk is heavy bass and pitched vocals.
+Use the style “phonk, dark” at 140 BPM. Instruments: 808, cowbell, vocal chops. Phonk is heavy bass and pitched vocals.
 Источник: https://admin154tut.github.io/en/phonk-dark.html
 
 ### Как сделать спокойный фонк в Suno?
@@ -648,7 +648,7 @@ Use the style “phonk, dark” at 140 BPM. Instruments: 808, ковбелл, в
 Источник: https://admin154tut.github.io/phonk-calm.html
 
 ### How to make calm phonk in Suno?
-Use the style “phonk, calm” at 140 BPM. Instruments: 808, ковбелл, вокальные сэмплы. Phonk is heavy bass and pitched vocals.
+Use the style “phonk, calm” at 140 BPM. Instruments: 808, cowbell, vocal chops. Phonk is heavy bass and pitched vocals.
 Источник: https://admin154tut.github.io/en/phonk-calm.html
 
 ### Где взять музыку в стиле фонк для Reels?
@@ -704,7 +704,7 @@ In Suno with the “phonk, 140 bpm” style. Phonk fits: heavy bass and pitched 
 Источник: https://admin154tut.github.io/metal-sad.html
 
 ### How to make sad metal in Suno?
-Use the style “metal, sad” at 160 BPM. Instruments: гитара с перегрузом, бас, барабаны. Metal is heavy riffs and double kick.
+Use the style “metal, sad” at 160 BPM. Instruments: distorted guitar, bass, drums. Metal is heavy riffs and double kick.
 Источник: https://admin154tut.github.io/en/metal-sad.html
 
 ### Как сделать весёлый метал в Suno?
@@ -712,7 +712,7 @@ Use the style “metal, sad” at 160 BPM. Instruments: гитара с пере
 Источник: https://admin154tut.github.io/metal-happy.html
 
 ### How to make happy metal in Suno?
-Use the style “metal, happy” at 160 BPM. Instruments: гитара с перегрузом, бас, барабаны. Metal is heavy riffs and double kick.
+Use the style “metal, happy” at 160 BPM. Instruments: distorted guitar, bass, drums. Metal is heavy riffs and double kick.
 Источник: https://admin154tut.github.io/en/metal-happy.html
 
 ### Как сделать романтичный метал в Suno?
@@ -720,7 +720,7 @@ Use the style “metal, happy” at 160 BPM. Instruments: гитара с пер
 Источник: https://admin154tut.github.io/metal-romantic.html
 
 ### How to make romantic metal in Suno?
-Use the style “metal, romantic” at 160 BPM. Instruments: гитара с перегрузом, бас, барабаны. Metal is heavy riffs and double kick.
+Use the style “metal, romantic” at 160 BPM. Instruments: distorted guitar, bass, drums. Metal is heavy riffs and double kick.
 Источник: https://admin154tut.github.io/en/metal-romantic.html
 
 ### Как сделать эпичный метал в Suno?
@@ -728,7 +728,7 @@ Use the style “metal, romantic” at 160 BPM. Instruments: гитара с п�
 Источник: https://admin154tut.github.io/metal-epic.html
 
 ### How to make epic metal in Suno?
-Use the style “metal, epic” at 160 BPM. Instruments: гитара с перегрузом, бас, барабаны. Metal is heavy riffs and double kick.
+Use the style “metal, epic” at 160 BPM. Instruments: distorted guitar, bass, drums. Metal is heavy riffs and double kick.
 Источник: https://admin154tut.github.io/en/metal-epic.html
 
 ### Как сделать мрачный метал в Suno?
@@ -736,7 +736,7 @@ Use the style “metal, epic” at 160 BPM. Instruments: гитара с пер�
 Источник: https://admin154tut.github.io/metal-dark.html
 
 ### How to make dark metal in Suno?
-Use the style “metal, dark” at 160 BPM. Instruments: гитара с перегрузом, бас, барабаны. Metal is heavy riffs and double kick.
+Use the style “metal, dark” at 160 BPM. Instruments: distorted guitar, bass, drums. Metal is heavy riffs and double kick.
 Источник: https://admin154tut.github.io/en/metal-dark.html
 
 ### Как сделать спокойный метал в Suno?
@@ -744,7 +744,7 @@ Use the style “metal, dark” at 160 BPM. Instruments: гитара с пер�
 Источник: https://admin154tut.github.io/metal-calm.html
 
 ### How to make calm metal in Suno?
-Use the style “metal, calm” at 160 BPM. Instruments: гитара с перегрузом, бас, барабаны. Metal is heavy riffs and double kick.
+Use the style “metal, calm” at 160 BPM. Instruments: distorted guitar, bass, drums. Metal is heavy riffs and double kick.
 Источник: https://admin154tut.github.io/en/metal-calm.html
 
 ### Где взять музыку в стиле метал для Reels?
@@ -800,7 +800,7 @@ In Suno with the “metal, 160 bpm” style. Metal fits: heavy riffs and double 
 Источник: https://admin154tut.github.io/trap-sad.html
 
 ### How to make sad trap in Suno?
-Use the style “trap, sad” at 140 BPM. Instruments: 808, хэты, синтезаторы. Trap is 808 bass and fast hi-hats.
+Use the style “trap, sad” at 140 BPM. Instruments: 808, hi-hats, synths. Trap is 808 bass and fast hi-hats.
 Источник: https://admin154tut.github.io/en/trap-sad.html
 
 ### Как сделать весёлый трэп в Suno?
@@ -808,7 +808,7 @@ Use the style “trap, sad” at 140 BPM. Instruments: 808, хэты, синте
 Источник: https://admin154tut.github.io/trap-happy.html
 
 ### How to make happy trap in Suno?
-Use the style “trap, happy” at 140 BPM. Instruments: 808, хэты, синтезаторы. Trap is 808 bass and fast hi-hats.
+Use the style “trap, happy” at 140 BPM. Instruments: 808, hi-hats, synths. Trap is 808 bass and fast hi-hats.
 Источник: https://admin154tut.github.io/en/trap-happy.html
 
 ### Как сделать романтичный трэп в Suno?
@@ -816,7 +816,7 @@ Use the style “trap, happy” at 140 BPM. Instruments: 808, хэты, синт
 Источник: https://admin154tut.github.io/trap-romantic.html
 
 ### How to make romantic trap in Suno?
-Use the style “trap, romantic” at 140 BPM. Instruments: 808, хэты, синтезаторы. Trap is 808 bass and fast hi-hats.
+Use the style “trap, romantic” at 140 BPM. Instruments: 808, hi-hats, synths. Trap is 808 bass and fast hi-hats.
 Источник: https://admin154tut.github.io/en/trap-romantic.html
 
 ### Как сделать эпичный трэп в Suno?
@@ -824,7 +824,7 @@ Use the style “trap, romantic” at 140 BPM. Instruments: 808, хэты, си�
 Источник: https://admin154tut.github.io/trap-epic.html
 
 ### How to make epic trap in Suno?
-Use the style “trap, epic” at 140 BPM. Instruments: 808, хэты, синтезаторы. Trap is 808 bass and fast hi-hats.
+Use the style “trap, epic” at 140 BPM. Instruments: 808, hi-hats, synths. Trap is 808 bass and fast hi-hats.
 Источник: https://admin154tut.github.io/en/trap-epic.html
 
 ### Как сделать мрачный трэп в Suno?
@@ -832,7 +832,7 @@ Use the style “trap, epic” at 140 BPM. Instruments: 808, хэты, синт�
 Источник: https://admin154tut.github.io/trap-dark.html
 
 ### How to make dark trap in Suno?
-Use the style “trap, dark” at 140 BPM. Instruments: 808, хэты, синтезаторы. Trap is 808 bass and fast hi-hats.
+Use the style “trap, dark” at 140 BPM. Instruments: 808, hi-hats, synths. Trap is 808 bass and fast hi-hats.
 Источник: https://admin154tut.github.io/en/trap-dark.html
 
 ### Как сделать спокойный трэп в Suno?
@@ -840,7 +840,7 @@ Use the style “trap, dark” at 140 BPM. Instruments: 808, хэты, синт�
 Источник: https://admin154tut.github.io/trap-calm.html
 
 ### How to make calm trap in Suno?
-Use the style “trap, calm” at 140 BPM. Instruments: 808, хэты, синтезаторы. Trap is 808 bass and fast hi-hats.
+Use the style “trap, calm” at 140 BPM. Instruments: 808, hi-hats, synths. Trap is 808 bass and fast hi-hats.
 Источник: https://admin154tut.github.io/en/trap-calm.html
 
 ### Где взять музыку в стиле трэп для Reels?
@@ -896,7 +896,7 @@ In Suno with the “trap, 140 bpm” style. Trap fits: 808 bass and fast hi-hats
 Источник: https://admin154tut.github.io/synthwave-sad.html
 
 ### How to make sad synthwave in Suno?
-Use the style “synthwave, sad” at 105 BPM. Instruments: аналоговые синтезаторы, драм-машина. Synthwave is 80s retro synths.
+Use the style “synthwave, sad” at 105 BPM. Instruments: analog synths, drum machine. Synthwave is 80s retro synths.
 Источник: https://admin154tut.github.io/en/synthwave-sad.html
 
 ### Как сделать весёлый synthwave в Suno?
@@ -904,7 +904,7 @@ Use the style “synthwave, sad” at 105 BPM. Instruments: аналоговые
 Источник: https://admin154tut.github.io/synthwave-happy.html
 
 ### How to make happy synthwave in Suno?
-Use the style “synthwave, happy” at 105 BPM. Instruments: аналоговые синтезаторы, драм-машина. Synthwave is 80s retro synths.
+Use the style “synthwave, happy” at 105 BPM. Instruments: analog synths, drum machine. Synthwave is 80s retro synths.
 Источник: https://admin154tut.github.io/en/synthwave-happy.html
 
 ### Как сделать романтичный synthwave в Suno?
@@ -912,7 +912,7 @@ Use the style “synthwave, happy” at 105 BPM. Instruments: аналоговы
 Источник: https://admin154tut.github.io/synthwave-romantic.html
 
 ### How to make romantic synthwave in Suno?
-Use the style “synthwave, romantic” at 105 BPM. Instruments: аналоговые синтезаторы, драм-машина. Synthwave is 80s retro synths.
+Use the style “synthwave, romantic” at 105 BPM. Instruments: analog synths, drum machine. Synthwave is 80s retro synths.
 Источник: https://admin154tut.github.io/en/synthwave-romantic.html
 
 ### Как сделать эпичный synthwave в Suno?
@@ -920,7 +920,7 @@ Use the style “synthwave, romantic” at 105 BPM. Instruments: аналого�
 Источник: https://admin154tut.github.io/synthwave-epic.html
 
 ### How to make epic synthwave in Suno?
-Use the style “synthwave, epic” at 105 BPM. Instruments: аналоговые синтезаторы, драм-машина. Synthwave is 80s retro synths.
+Use the style “synthwave, epic” at 105 BPM. Instruments: analog synths, drum machine. Synthwave is 80s retro synths.
 Источник: https://admin154tut.github.io/en/synthwave-epic.html
 
 ### Как сделать мрачный synthwave в Suno?
@@ -928,7 +928,7 @@ Use the style “synthwave, epic” at 105 BPM. Instruments: аналоговы�
 Источник: https://admin154tut.github.io/synthwave-dark.html
 
 ### How to make dark synthwave in Suno?
-Use the style “synthwave, dark” at 105 BPM. Instruments: аналоговые синтезаторы, драм-машина. Synthwave is 80s retro synths.
+Use the style “synthwave, dark” at 105 BPM. Instruments: analog synths, drum machine. Synthwave is 80s retro synths.
 Источник: https://admin154tut.github.io/en/synthwave-dark.html
 
 ### Как сделать спокойный synthwave в Suno?
@@ -936,7 +936,7 @@ Use the style “synthwave, dark” at 105 BPM. Instruments: аналоговы�
 Источник: https://admin154tut.github.io/synthwave-calm.html
 
 ### How to make calm synthwave in Suno?
-Use the style “synthwave, calm” at 105 BPM. Instruments: аналоговые синтезаторы, драм-машина. Synthwave is 80s retro synths.
+Use the style “synthwave, calm” at 105 BPM. Instruments: analog synths, drum machine. Synthwave is 80s retro synths.
 Источник: https://admin154tut.github.io/en/synthwave-calm.html
 
 ### Где взять музыку в стиле synthwave для Reels?
@@ -992,7 +992,7 @@ In Suno with the “synthwave, 105 bpm” style. Synthwave fits: 80s retro synth
 Источник: https://admin154tut.github.io/folk-sad.html
 
 ### How to make sad folk in Suno?
-Use the style “folk, sad” at 95 BPM. Instruments: гитара, скрипка, флейта. Folk is acoustic instruments and folk motifs.
+Use the style “folk, sad” at 95 BPM. Instruments: acoustic guitar, violin, flute. Folk is acoustic instruments and folk motifs.
 Источник: https://admin154tut.github.io/en/folk-sad.html
 
 ### Как сделать весёлый фолк в Suno?
@@ -1000,7 +1000,7 @@ Use the style “folk, sad” at 95 BPM. Instruments: гитара, скрипк
 Источник: https://admin154tut.github.io/folk-happy.html
 
 ### How to make happy folk in Suno?
-Use the style “folk, happy” at 95 BPM. Instruments: гитара, скрипка, флейта. Folk is acoustic instruments and folk motifs.
+Use the style “folk, happy” at 95 BPM. Instruments: acoustic guitar, violin, flute. Folk is acoustic instruments and folk motifs.
 Источник: https://admin154tut.github.io/en/folk-happy.html
 
 ### Как сделать романтичный фолк в Suno?
@@ -1008,7 +1008,7 @@ Use the style “folk, happy” at 95 BPM. Instruments: гитара, скрип
 Источник: https://admin154tut.github.io/folk-romantic.html
 
 ### How to make romantic folk in Suno?
-Use the style “folk, romantic” at 95 BPM. Instruments: гитара, скрипка, флейта. Folk is acoustic instruments and folk motifs.
+Use the style “folk, romantic” at 95 BPM. Instruments: acoustic guitar, violin, flute. Folk is acoustic instruments and folk motifs.
 Источник: https://admin154tut.github.io/en/folk-romantic.html
 
 ### Как сделать эпичный фолк в Suno?
@@ -1016,7 +1016,7 @@ Use the style “folk, romantic” at 95 BPM. Instruments: гитара, скр�
 Источник: https://admin154tut.github.io/folk-epic.html
 
 ### How to make epic folk in Suno?
-Use the style “folk, epic” at 95 BPM. Instruments: гитара, скрипка, флейта. Folk is acoustic instruments and folk motifs.
+Use the style “folk, epic” at 95 BPM. Instruments: acoustic guitar, violin, flute. Folk is acoustic instruments and folk motifs.
 Источник: https://admin154tut.github.io/en/folk-epic.html
 
 ### Как сделать мрачный фолк в Suno?
@@ -1024,7 +1024,7 @@ Use the style “folk, epic” at 95 BPM. Instruments: гитара, скрип�
 Источник: https://admin154tut.github.io/folk-dark.html
 
 ### How to make dark folk in Suno?
-Use the style “folk, dark” at 95 BPM. Instruments: гитара, скрипка, флейта. Folk is acoustic instruments and folk motifs.
+Use the style “folk, dark” at 95 BPM. Instruments: acoustic guitar, violin, flute. Folk is acoustic instruments and folk motifs.
 Источник: https://admin154tut.github.io/en/folk-dark.html
 
 ### Как сделать спокойный фолк в Suno?
@@ -1032,7 +1032,7 @@ Use the style “folk, dark” at 95 BPM. Instruments: гитара, скрип�
 Источник: https://admin154tut.github.io/folk-calm.html
 
 ### How to make calm folk in Suno?
-Use the style “folk, calm” at 95 BPM. Instruments: гитара, скрипка, флейта. Folk is acoustic instruments and folk motifs.
+Use the style “folk, calm” at 95 BPM. Instruments: acoustic guitar, violin, flute. Folk is acoustic instruments and folk motifs.
 Источник: https://admin154tut.github.io/en/folk-calm.html
 
 ### Где взять музыку в стиле фолк для Reels?
@@ -1088,7 +1088,7 @@ In Suno with the “folk, 95 bpm” style. Folk fits: acoustic instruments and f
 Источник: https://admin154tut.github.io/r-n-b-sad.html
 
 ### How to make sad r&b in Suno?
-Use the style “r-n-b, sad” at 92 BPM. Instruments: клавиши, бас, драм-машина. R&B is soft groove and sensual vocal.
+Use the style “r-n-b, sad” at 92 BPM. Instruments: keys, bass, drum machine. R&B is soft groove and sensual vocal.
 Источник: https://admin154tut.github.io/en/r-n-b-sad.html
 
 ### Как сделать весёлый r&b в Suno?
@@ -1096,7 +1096,7 @@ Use the style “r-n-b, sad” at 92 BPM. Instruments: клавиши, бас, �
 Источник: https://admin154tut.github.io/r-n-b-happy.html
 
 ### How to make happy r&b in Suno?
-Use the style “r-n-b, happy” at 92 BPM. Instruments: клавиши, бас, драм-машина. R&B is soft groove and sensual vocal.
+Use the style “r-n-b, happy” at 92 BPM. Instruments: keys, bass, drum machine. R&B is soft groove and sensual vocal.
 Источник: https://admin154tut.github.io/en/r-n-b-happy.html
 
 ### Как сделать романтичный r&b в Suno?
@@ -1104,7 +1104,7 @@ Use the style “r-n-b, happy” at 92 BPM. Instruments: клавиши, бас,
 Источник: https://admin154tut.github.io/r-n-b-romantic.html
 
 ### How to make romantic r&b in Suno?
-Use the style “r-n-b, romantic” at 92 BPM. Instruments: клавиши, бас, драм-машина. R&B is soft groove and sensual vocal.
+Use the style “r-n-b, romantic” at 92 BPM. Instruments: keys, bass, drum machine. R&B is soft groove and sensual vocal.
 Источник: https://admin154tut.github.io/en/r-n-b-romantic.html
 
 ### Как сделать эпичный r&b в Suno?
@@ -1112,7 +1112,7 @@ Use the style “r-n-b, romantic” at 92 BPM. Instruments: клавиши, ба
 Источник: https://admin154tut.github.io/r-n-b-epic.html
 
 ### How to make epic r&b in Suno?
-Use the style “r-n-b, epic” at 92 BPM. Instruments: клавиши, бас, драм-машина. R&B is soft groove and sensual vocal.
+Use the style “r-n-b, epic” at 92 BPM. Instruments: keys, bass, drum machine. R&B is soft groove and sensual vocal.
 Источник: https://admin154tut.github.io/en/r-n-b-epic.html
 
 ### Как сделать мрачный r&b в Suno?
@@ -1120,7 +1120,7 @@ Use the style “r-n-b, epic” at 92 BPM. Instruments: клавиши, бас, 
 Источник: https://admin154tut.github.io/r-n-b-dark.html
 
 ### How to make dark r&b in Suno?
-Use the style “r-n-b, dark” at 92 BPM. Instruments: клавиши, бас, драм-машина. R&B is soft groove and sensual vocal.
+Use the style “r-n-b, dark” at 92 BPM. Instruments: keys, bass, drum machine. R&B is soft groove and sensual vocal.
 Источник: https://admin154tut.github.io/en/r-n-b-dark.html
 
 ### Как сделать спокойный r&b в Suno?
@@ -1128,7 +1128,7 @@ Use the style “r-n-b, dark” at 92 BPM. Instruments: клавиши, бас, 
 Источник: https://admin154tut.github.io/r-n-b-calm.html
 
 ### How to make calm r&b in Suno?
-Use the style “r-n-b, calm” at 92 BPM. Instruments: клавиши, бас, драм-машина. R&B is soft groove and sensual vocal.
+Use the style “r-n-b, calm” at 92 BPM. Instruments: keys, bass, drum machine. R&B is soft groove and sensual vocal.
 Источник: https://admin154tut.github.io/en/r-n-b-calm.html
 
 ### Где взять музыку в стиле r&b для Reels?
