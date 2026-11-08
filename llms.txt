@@ -25,7 +25,7 @@
 - MP3: **320 kbps**, с обложкой и ID3-тегами.
 - WAV: **44.1 кГц / 16 бит**, без сжатия.
 - Видео: **1080×1920** (9:16) для Shorts, Reels, TikTok.
-- Страниц на сайте: **85**. Статей: **359**.
+- Страниц на сайте: **183** (RU) + **57** (EN). Статей: **359**.
 - Ботов в сети: **8** (треки, песни, каталог, WAV, текст, промпт, создание, вокал).
 - Расширение: Chrome Web Store, ID `hmffkpdaiolidlogijfagdbbfcaajbdg`.
 
@@ -233,3 +233,19 @@
 
 Бесплатно, без очереди, без регистрации.
 
+## English pages (EN)
+
+- https://admin154tut.github.io/en/ — Suno downloader (English)
+- https://admin154tut.github.io/en/veo3.html — Veo 3 AI video
+- https://admin154tut.github.io/en/sora.html — Sora AI video
+- https://admin154tut.github.io/en/kling.html — Kling AI video
+- https://admin154tut.github.io/en/nano-banana.html — Nano Banana photo AI
+- https://admin154tut.github.io/en/midjourney.html — Midjourney
+- https://admin154tut.github.io/en/chatgpt.html — ChatGPT bot
+- https://admin154tut.github.io/en/jarvis.html — Jarvis assistant
+- https://admin154tut.github.io/en/veo3-reels.html — Veo 3 for Reels
+- https://admin154tut.github.io/en/nano-banana-avatar.html — Nano Banana avatars
+
+## All pages index
+
+- https://admin154tut.github.io/vse-stranicy.html — полный список всех страниц сайта
