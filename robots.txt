@@ -1,22 +1,59 @@
-User-Agent: Googlebot
-User-Agent: Bingbot
+# SunoMP3 — открыто для поисковиков и AI-ассистентов.
+# Контент полезен людям: пусть цитируют.
+
+# ── Классические поисковики ──────────────────────────────────────────────
+User-agent: Googlebot
+User-agent: Googlebot-Image
+User-agent: Bingbot
+User-agent: YandexBot
+User-agent: DuckDuckBot
+User-agent: Slurp
+User-agent: Baiduspider
+User-agent: SeznamBot
+User-agent: Mail.Ru_Bot
+User-agent: Applebot
 Allow: /
 
-User-Agent: OAI-SearchBot
-User-Agent: ChatGPT-User
+# ── AI-поиск и ассистенты (ответы со ссылкой на источник) ────────────────
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: YouBot
+User-agent: PhindBot
 Allow: /
 
-User-Agent: Claude-SearchBot
-User-Agent: Claude-User
+# ── AI-краулеры для обучения (пусть берут, нам нужна узнаваемость) ───────
+User-agent: GPTBot
+User-agent: ClaudeBot
+User-agent: anthropic-ai
+User-agent: DeepSeekBot
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: MistralAI-User
+User-agent: Meta-ExternalAgent
+User-agent: Amazonbot
+User-agent: Bytespider
+User-agent: CCBot
+User-agent: AI2Bot
+User-agent: Ai2Bot-Dolma
+User-agent: cohere-ai
+User-agent: Diffbot
+User-agent: Timpibot
+User-agent: Omgilibot
 Allow: /
 
-User-Agent: PerplexityBot
-User-Agent: Perplexity-User
+# ── Все остальные ────────────────────────────────────────────────────────
+User-agent: *
 Allow: /
 
-User-Agent: *
-Allow: /
-
+# ── Карты сайта ──────────────────────────────────────────────────────────
 Sitemap: https://admin154tut.github.io/sitemap.xml
 Sitemap: https://admin154tut.github.io/video-sitemap.xml
 Sitemap: https://admin154tut.github.io/sitemap-images.xml
+
+# ── Машиночитаемое описание сайта для LLM ────────────────────────────────
+# https://admin154tut.github.io/llms.txt
+# https://admin154tut.github.io/llms-full.txt
