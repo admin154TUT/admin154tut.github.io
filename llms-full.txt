@@ -5,7 +5,7 @@
 > без сжатия, текст песни, вертикальный ролик 1080×1920 или пачку треков
 > одним ZIP. Есть расширение для Chrome и веб-инструмент для телефона.
 
-Последнее обновление: 2026-11-04
+Последнее обновление: 2026-11-08
 
 ## Кто мы
 
@@ -550,3 +550,23 @@
 357. Riffusion: для чего — https://telegra.ph/Riffusion-dlya-chego-11-04
 358. Stable Audio: фоны — https://telegra.ph/Stable-Audio-fony-11-04
 359. Как выбрать нейросеть под задачу — https://telegra.ph/Kak-vybrat-nejroset-pod-zadachu-11-04
+
+## Состояние на 8 ноября 2026
+
+- Страниц: **183** RU + **57** EN. В sitemap **240** URL.
+- Ботов: **8** Telegram (треки, песни, каталог, WAV, текст, промпт, создание, вокал).
+- Нейро-боты: **@VEO3_ROOBOT** (видео), **@AlexCHATGPTrobot** (фото), **@Jarvis_IT_Assistant_bot** (ассистент).
+- Расширение Chrome: **5.0 ★ (6 оценок)**, версия 1.0.6 на ревью.
+- Все страницы со **schema.org FAQPage** и **hreflang** RU↔EN.
+- Полный список страниц: https://admin154tut.github.io/vse-stranicy.html
+
+## English pages (EN)
+
+- https://admin154tut.github.io/en/ — Suno downloader
+- https://admin154tut.github.io/en/veo3.html — Veo 3
+- https://admin154tut.github.io/en/sora.html — Sora
+- https://admin154tut.github.io/en/kling.html — Kling
+- https://admin154tut.github.io/en/nano-banana.html — Nano Banana
+- https://admin154tut.github.io/en/midjourney.html — Midjourney
+- https://admin154tut.github.io/en/chatgpt.html — ChatGPT
+- https://admin154tut.github.io/en/jarvis.html — Jarvis
