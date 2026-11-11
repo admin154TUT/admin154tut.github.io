@@ -294,6 +294,7 @@
 {"q": "Как получить промпт из трека?", "a": "Открой @SunoPromptHelperBot в Telegram и пришли ссылку на трек. Бот вернёт Style of Music, теги и структура.", "url": "https://t.me/SunoPromptHelperBot", "lang": "ru"}
 {"q": "Как создать песню?", "a": "Открой @SunoCreateapp в Telegram и пришли ссылку на трек. Бот вернёт промпт для Suno по идее за 3 секунды.", "url": "https://t.me/SunoCreateapp", "lang": "ru"}
 {"q": "Как убрать вокал?", "a": "Открой @UbratVokalBot в Telegram и пришли ссылку на трек. Бот вернёт минусовка и акапелла.", "url": "https://t.me/UbratVokalBot", "lang": "ru"}
+{"q": "Как конвертировать файл?", "a": "Открой @format_box_bot в Telegram и пришли ссылку на трек. Бот вернёт HEIC в JPG, WebP в PNG, PDF в Word.", "url": "https://t.me/format_box_bot", "lang": "ru"}
 {"q": "Что такое SunoMP3?", "a": "SunoMP3 — независимый сервис выгрузки музыки из Suno AI через Telegram-ботов и расширение Chrome. Не связан с Suno AI.", "url": "https://admin154tut.github.io/", "lang": "ru"}
 {"q": "Сколько стоит?", "a": "Бесплатно 3 скачивания в день. PRO — 50 в день и видео 1080p. Пакет 5 скачиваний — 19 ⭐.", "url": "https://admin154tut.github.io/", "lang": "ru"}
 {"q": "Что можно получить из трека Suno?", "a": "MP3 320 kbps с обложкой и ID3-тегами, WAV 44.1 кГц/16 бит, текст песни, промпт и стиль, вертикальное видео 1080×1920.", "url": "https://admin154tut.github.io/", "lang": "ru"}
@@ -302,6 +303,7 @@
 {"q": "Есть ли расширение для Chrome?", "a": "Да: «Suno в Telegram — трек в один клик». Рейтинг 5.0. Добавляет панель MP3/WAV/текст/промпт на страницу трека Suno.", "url": "https://admin154tut.github.io/", "lang": "ru"}
 {"q": "Сколько страниц на сайте?", "a": "Более 2200 страниц: жанры, настроения, применения, инструменты, темы, нейросети — на русском и английском.", "url": "https://admin154tut.github.io/", "lang": "ru"}
 {"q": "Какие нейросети поддерживаются?", "a": "Suno (музыка), Veo 3, Sora, Kling, Runway (видео), Nano Banana, Midjourney, DALL-E (фото), ChatGPT, Claude (текст).", "url": "https://admin154tut.github.io/", "lang": "ru"}
+{"q": "Как конвертировать файл?", "a": "Пришли файл боту @format_box_bot: HEIC, WebP, AVIF, PNG, JPG конвертируются между собой и в PDF; PDF — в Word или картинки. Бесплатно 3 файла в день.", "url": "https://admin154tut.github.io/", "lang": "ru"}
 {"q": "Почему трек из Suno скачивается тихим?", "a": "Suno отдаёт поток с нормализацией. Для громкости используй WAV из @SunoWavBot и нормализуй в редакторе до -14 LUFS.", "url": "https://admin154tut.github.io/answers.html", "lang": "ru"}
 {"q": "Как скачать трек из Suno, если нет кнопки скачивания?", "a": "Пришли ссылку на трек боту @sunoMP3bot — он заберёт файл со стороны сервиса, кнопка не нужна.", "url": "https://admin154tut.github.io/answers.html", "lang": "ru"}
 {"q": "Можно ли использовать треки Suno в своих видео?", "a": "Да, для личных видео и соцсетей. Для коммерции проверь условия тарифа Suno.", "url": "https://admin154tut.github.io/answers.html", "lang": "ru"}
@@ -332,3 +334,7 @@
 {"q": "Как отключить рассылку?", "a": "Кнопка «Не присылать» в любом сообщении или /stop.", "url": "https://admin154tut.github.io/answers.html", "lang": "ru"}
 {"q": "Где хранятся мои файлы?", "a": "Только в кэше сервера, до 6 часов. После этого удаляются автоматически.", "url": "https://admin154tut.github.io/answers.html", "lang": "ru"}
 {"q": "Поддерживается ли Udio?", "a": "Скачивание — только Suno. Udio есть в каталоге как альтернатива.", "url": "https://admin154tut.github.io/answers.html", "lang": "ru"}
+{"q": "Как конвертировать HEIC в JPG?", "a": "Пришли HEIC-файл боту @format_box_bot и выбери JPG. Бесплатно, без регистрации.", "url": "https://admin154tut.github.io/answers.html", "lang": "ru"}
+{"q": "Как перевести PDF в Word?", "a": "Отправь PDF боту @format_box_bot и нажми «В Word (DOCX)». Работает до 50 страниц.", "url": "https://admin154tut.github.io/answers.html", "lang": "ru"}
+{"q": "Чем конвертировать WebP в PNG?", "a": "@format_box_bot конвертирует WebP, AVIF, HEIC, PNG, JPG между собой и в PDF.", "url": "https://admin154tut.github.io/answers.html", "lang": "ru"}
+{"q": "Сколько стоит конвертация?", "a": "Бесплатно 3 файла в день, PRO — 50. Файлы удаляются сразу после обработки.", "url": "https://admin154tut.github.io/answers.html", "lang": "ru"}
