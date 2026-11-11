@@ -2,48 +2,46 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<meta name="robots" content="noindex, follow">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Veo 3 — AI video generator</title>
-<meta name="description" content="Veo 3 turns a text prompt into a cinematic video in under a minute. Up to 8 seconds, vertical or wide.">
+<title>Veo 3: features, prompts and how to get access</title>
+<meta name="description" content="Veo 3 generates video with sound: it understands not only the picture but what should be heard in the frame — footsteps, rain, music, speech.">
 <link rel="canonical" href="https://admin154tut.github.io/en/veo3.html">
 <link rel="alternate" hreflang="ru" href="https://admin154tut.github.io/veo3.html">
 <link rel="alternate" hreflang="en" href="https://admin154tut.github.io/en/veo3.html">
-<meta property="og:title" content="Veo 3 — AI video generator">
-<meta property="og:description" content="Veo 3 turns a text prompt into a cinematic video in under a minute. Up to 8 seconds, vertical or wide.">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is Veo 3?", "acceptedAnswer": {"@type": "Answer", "text": "Veo 3 turns a text prompt into a cinematic video in under a minute. Up to 8 seconds, vertical or wide. Try it for free in @VEO3_ROOBOT."}}, {"@type": "Question", "name": "How do I use Veo 3?", "acceptedAnswer": {"@type": "Answer", "text": "Open @VEO3_ROOBOT in Telegram, describe what you want, get the result in about a minute."}}, {"@type": "Question", "name": "Is it free?", "acceptedAnswer": {"@type": "Answer", "text": "There is a free tier. PRO adds more generations per day."}}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Veo 3 генерирует звук?", "acceptedAnswer": {"@type": "Answer", "text": "Да, это его главное отличие: видео создаётся сразу со синхронной звуковой дорожкой."}}, {"@type": "Question", "name": "Сколько длится сцена?", "acceptedAnswer": {"@type": "Answer", "text": "До 8 секунд за одну генерацию. Длинные ролики собирают из нескольких сцен."}}, {"@type": "Question", "name": "Нужен ли английский?", "acceptedAnswer": {"@type": "Answer", "text": "Не обязательно, но английские промпты дают более предсказуемый результат."}}, {"@type": "Question", "name": "Как получить доступ?", "acceptedAnswer": {"@type": "Answer", "text": "Через Gemini или Google Flow. Промпт для своей идеи можно собрать в @SunoCreateapp."}}]}</script>
 <style>
-body{font-family:system-ui,-apple-system,sans-serif;max-width:760px;margin:0 auto;padding:24px 20px;line-height:1.65;color:#1a1a1a;background:#fafafa}
-h1{font-size:28px;line-height:1.25;margin:0 0 12px}
-h2{font-size:20px;margin:28px 0 10px}
-.lead{font-size:17px;color:#444;margin-bottom:20px}
+body{font-family:system-ui,-apple-system,sans-serif;max-width:780px;margin:0 auto;padding:24px 20px;line-height:1.7;color:#1a1a1a;background:#fafafa}
+h1{font-size:28px;line-height:1.25;margin:0 0 14px}
+h2{font-size:20px;margin:30px 0 10px}
 a{color:#6b4cff}
-.cta{display:block;background:#6b4cff;color:#fff;text-align:center;padding:14px;border-radius:12px;text-decoration:none;font-weight:600;margin:24px 0}
-details{border:1px solid #e5e5e5;border-radius:10px;padding:12px 14px;margin:8px 0;background:#fff}
+.lead{font-size:17px;color:#444}
+.cta{display:block;background:#6b4cff;color:#fff;text-align:center;padding:15px;border-radius:12px;text-decoration:none;font-weight:600;margin:24px 0}
+details{border:1px solid #e5e5e5;border-radius:10px;padding:12px 16px;margin:8px 0;background:#fff}
 summary{font-weight:600;cursor:pointer}
-footer{margin-top:40px;padding-top:18px;border-top:1px solid #e5e5e5;font-size:14px;color:#666}
+table{width:100%;border-collapse:collapse;margin:20px 0;font-size:14px}
+footer{margin-top:40px;padding-top:16px;border-top:1px solid #e5e5e5;font-size:14px;color:#666}
 </style>
 </head>
 <body>
-<h1>Veo 3 — AI video generator</h1>
-<p class="lead">Veo 3 turns a text prompt into a cinematic video in under a minute. Up to 8 seconds, vertical or wide.</p>
-<a class="cta" href="https://t.me/VEO3_ROOBOT?start=s_en_veo3">Try it in @VEO3_ROOBOT →</a>
-<h2>How it works</h2>
-<ol><li>Open @VEO3_ROOBOT in Telegram</li><li>Describe the shot: light, angle, camera move</li><li>Get the video in ~1 minute</li></ol>
-<h2>What people use it for</h2>
-<ul><li>Reels and Shorts</li><li>TikTok</li><li>ads and creatives</li><li>product shots</li><li>avatars</li><li>logos</li><li>covers</li><li>thumbnails</li></ul>
+<h1>Veo 3 — what it is, how to use it, and prompts</h1>
+<p class="lead">Veo 3 генерирует видео со звуком: модель понимает не только картинку, но и то, что в кадре должно звучать — шаги, дождь, музыка, речь.</p>
+<p>Главное отличие Veo 3 от предыдущих видеомоделей — синхронный звук. Раньше видео генерировали немым, а звук добавляли отдельно: подбирали музыку, искали шумы, иногда озвучивали вручную. Здесь дорожка создаётся вместе с картинкой, и совпадение получается естественным.</p><p>Модель работает по текстовому описанию или по картинке-референсу. Лучшие результаты — на коротких сценах: 8 секунд, один-два персонажа, конкретное действие. Чем точнее описан кадр, тем меньше модель додумывает за вас.</p>
+
+<h2>Key features</h2>
+<ul><li>Длина сцены — до 8 секунд за генерацию</li><li>Понимает описание кадра и звуковое сопровождение отдельно</li><li>Работает с изображением-референсом для стиля</li></ul>
+
+<h2>Ready-to-use prompts</h2>
+<table>
+<tr style="background:#f0edff"><th style="text-align:left;padding:9px 12px;border:1px solid #e5e1ff">Scenario</th><th style="text-align:left;padding:9px 12px;border:1px solid #e5e1ff">Prompt</th></tr>
+<tr><td style="padding:9px 12px;border:1px solid #e5e5e5;white-space:nowrap"><b>Кинематографичный пейзаж</b></td><td style="padding:9px 12px;border:1px solid #e5e5e5"><code style="font-size:13px">Slow aerial shot over a misty mountain valley at sunrise, warm light, volumetric fog, 35mm lens, cinematic color grade, gentle ambient wind sound</code></td></tr><tr><td style="padding:9px 12px;border:1px solid #e5e5e5;white-space:nowrap"><b>Портрет с движением</b></td><td style="padding:9px 12px;border:1px solid #e5e5e5"><code style="font-size:13px">Close-up portrait of an elderly fisherman, weathered skin, looking at the sea, subtle head turn, natural light, shallow depth of field, distant waves</code></td></tr><tr><td style="padding:9px 12px;border:1px solid #e5e5e5;white-space:nowrap"><b>Городская сцена</b></td><td style="padding:9px 12px;border:1px solid #e5e5e5"><code style="font-size:13px">Rainy Tokyo street at night, neon reflections on wet asphalt, pedestrians with umbrellas walking past, handheld camera, city ambience and rain sound</code></td></tr><tr><td style="padding:9px 12px;border:1px solid #e5e5e5;white-space:nowrap"><b>Продуктовый ролик</b></td><td style="padding:9px 12px;border:1px solid #e5e5e5"><code style="font-size:13px">Product shot of a glass bottle of orange juice on a marble counter, soft studio light, slow dolly-in, water droplets, subtle fizz sound</code></td></tr><tr><td style="padding:9px 12px;border:1px solid #e5e5e5;white-space:nowrap"><b>Анимация персонажа</b></td><td style="padding:9px 12px;border:1px solid #e5e5e5"><code style="font-size:13px">A small red fox walking through a snowy forest, fluffy tail, breath visible in cold air, tracking shot, footsteps in snow and light wind</code></td></tr>
+</table>
+
+<a class="cta" href="https://t.me/SunoCreateapp?start=s_seo_veo3">Build a prompt for your idea →</a>
+
 <h2>FAQ</h2>
-<details><summary>What is Veo 3?</summary><p>Veo 3 turns a text prompt into a cinematic video in under a minute. Up to 8 seconds, vertical or wide. Try it for free in @VEO3_ROOBOT.</p></details>
-<details><summary>How do I use Veo 3?</summary><p>Open @VEO3_ROOBOT in Telegram, describe what you want, get the result in about a minute.</p></details>
-<details><summary>Is it free?</summary><p>There is a free tier. PRO adds more generations per day.</p></details>
-<h2>Other AI tools</h2>
-<ul><li><a href="sora.html">Sora — OpenAI AI video</a></li>
-<li><a href="kling.html">Kling AI — free video generator</a></li>
-<li><a href="runway.html">Runway ML — AI video</a></li>
-<li><a href="nano-banana.html">Nano Banana — AI photo editor</a></li>
-<li><a href="midjourney.html">Midjourney — AI art generator</a></li>
-<li><a href="dalle.html">DALL-E 3 — AI image generator</a></li>
-<li><a href="chatgpt.html">ChatGPT — AI assistant</a></li>
-<li><a href="jarvis.html">Jarvis — AI assistant bot</a></li></ul>
-<footer><p>© SunoMP3 · <a href="index.html">Suno downloader</a> · <a href="bots.html">All bots</a></p> · <a href="../veo3.html">Русский</a></footer>
+<details><summary>Veo 3 генерирует звук?</summary><p>Да, это его главное отличие: видео создаётся сразу со синхронной звуковой дорожкой.</p></details><details><summary>Сколько длится сцена?</summary><p>До 8 секунд за одну генерацию. Длинные ролики собирают из нескольких сцен.</p></details><details><summary>Нужен ли английский?</summary><p>Не обязательно, но английские промпты дают более предсказуемый результат.</p></details><details><summary>Как получить доступ?</summary><p>Через Gemini или Google Flow. Промпт для своей идеи можно собрать в @SunoCreateapp.</p></details>
+
+<footer><p>© SunoMP3 · <a href="../vse-stranicy.html">Все страницы</a></p></footer>
 </body>
 </html>

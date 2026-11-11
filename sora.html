@@ -3,51 +3,43 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Sora — видео от OpenAI</title>
-<meta name="description" content="Sora создаёт видео по тексту до 20 секунд. Как пользоваться и где попробовать.">
+<title>Sora: возможности, промпты и как получить доступ</title>
+<meta name="description" content="Sora генерирует видео по тексту и умеет держать физику сцены: предметы падают, вода течёт, камера двигается по заданной траектории.">
 <link rel="canonical" href="https://admin154tut.github.io/sora.html">
 <link rel="alternate" hreflang="ru" href="https://admin154tut.github.io/sora.html">
-<link rel="alternate" hreflang="en" href="https://admin154tut.github.io/en/sora.html">
-<link rel="alternate" hreflang="x-default" href="https://admin154tut.github.io/sora.html">
-<meta property="og:title" content="Sora — видео от OpenAI">
-<meta property="og:description" content="Sora создаёт видео по тексту до 20 секунд. Как пользоваться и где попробовать.">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Что такое Sora?", "acceptedAnswer": {"@type": "Answer", "text": "Sora от OpenAI — сильна в длинных сценах и сюжетах. Попробовать можно в @VEO3_ROOBOT — бесплатно."}}, {"@type": "Question", "name": "Как пользоваться Sora?", "acceptedAnswer": {"@type": "Answer", "text": "Открой @VEO3_ROOBOT в Telegram, напиши промпт на русском, получи результат за минуту."}}, {"@type": "Question", "name": "Это бесплатно?", "acceptedAnswer": {"@type": "Answer", "text": "Да, есть бесплатный доступ. PRO — больше генераций."}}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Чем Sora отличается от Veo 3?", "acceptedAnswer": {"@type": "Answer", "text": "Sora сильнее в связности длинных сцен, Veo 3 — в синхронном звуке."}}, {"@type": "Question", "name": "Можно ли задать движение камеры?", "acceptedAnswer": {"@type": "Answer", "text": "Да, описание траектории камеры модель понимает."}}, {"@type": "Question", "name": "Сколько длится клип?", "acceptedAnswer": {"@type": "Answer", "text": "От нескольких секунд до минуты в зависимости от тарифа."}}, {"@type": "Question", "name": "Где попробовать?", "acceptedAnswer": {"@type": "Answer", "text": "В ChatGPT Plus и Pro. Промпт под свою идею соберёт @SunoCreateapp."}}]}</script>
 <style>
-body{font-family:system-ui,-apple-system,sans-serif;max-width:760px;margin:0 auto;padding:24px 20px;line-height:1.65;color:#1a1a1a;background:#fafafa}
-h1{font-size:28px;line-height:1.25;margin:0 0 12px}
-h2{font-size:20px;margin:28px 0 10px}
-.lead{font-size:17px;color:#444;margin-bottom:20px}
+body{font-family:system-ui,-apple-system,sans-serif;max-width:780px;margin:0 auto;padding:24px 20px;line-height:1.7;color:#1a1a1a;background:#fafafa}
+h1{font-size:28px;line-height:1.25;margin:0 0 14px}
+h2{font-size:20px;margin:30px 0 10px}
 a{color:#6b4cff}
-.cta{display:block;background:#6b4cff;color:#fff;text-align:center;padding:14px;border-radius:12px;text-decoration:none;font-weight:600;margin:24px 0}
-details{border:1px solid #e5e5e5;border-radius:10px;padding:12px 14px;margin:8px 0;background:#fff}
+.lead{font-size:17px;color:#444}
+.cta{display:block;background:#6b4cff;color:#fff;text-align:center;padding:15px;border-radius:12px;text-decoration:none;font-weight:600;margin:24px 0}
+details{border:1px solid #e5e5e5;border-radius:10px;padding:12px 16px;margin:8px 0;background:#fff}
 summary{font-weight:600;cursor:pointer}
-footer{margin-top:40px;padding-top:18px;border-top:1px solid #e5e5e5;font-size:14px;color:#666}
+table{width:100%;border-collapse:collapse;margin:20px 0;font-size:14px}
+footer{margin-top:40px;padding-top:16px;border-top:1px solid #e5e5e5;font-size:14px;color:#666}
 </style>
 </head>
 <body>
-<h1>Sora — нейросеть</h1>
-<p class="lead">Sora от OpenAI — сильна в длинных сценах и сюжетах.</p>
-<a class="cta" href="https://t.me/VEO3_ROOBOT?start=s_seo_sora">🎬 Попробовать в @VEO3_ROOBOT →</a>
-<h2>Как пользоваться</h2>
-<ol>
-<li>Открой <b>@VEO3_ROOBOT</b> в Telegram</li>
-<li>Напиши, что хочешь: «сделай видео или фото»</li>
-<li>Получи результат за минуту</li>
-</ol>
-<h2>Для чего подходит</h2>
-<ul><li>для Reels — короткое вертикальное видео</li><li>для Shorts — видео в YouTube</li><li>для TikTok — ролик в TikTok</li></ul>
+<h1>Sora — что это, как пользоваться и промпты</h1>
+<p class="lead">Sora генерирует видео по тексту и умеет держать физику сцены: предметы падают, вода течёт, камера двигается по заданной траектории.</p>
+<p>Sora стала известна тем, что держит связность дольше конкурентов: персонаж не меняет одежду между кадрами, а объект, ушедший за угол, возвращается тем же. Это результат работы с длинным контекстом, а не просто генерации отдельных кадров.</p><p>Модель хорошо справляется с движением камеры — можно описать конкретный проезд, наезд или облёт. Слабее даются сложные взаимодействия множества объектов и точный текст в кадре.</p>
+
+<h2>Ключевые особенности</h2>
+<ul><li>Держит связность персонажей и объектов между кадрами</li><li>Понимает описание движения камеры</li><li>Слабое место — точный текст внутри кадра</li></ul>
+
+<h2>Готовые промпты</h2>
+<table>
+<tr style="background:#f0edff"><th style="text-align:left;padding:9px 12px;border:1px solid #e5e1ff">Сценарий</th><th style="text-align:left;padding:9px 12px;border:1px solid #e5e1ff">Промпт</th></tr>
+<tr><td style="padding:9px 12px;border:1px solid #e5e5e5;white-space:nowrap"><b>Документальная сцена</b></td><td style="padding:9px 12px;border:1px solid #e5e5e5"><code style="font-size:13px">Aerial drone shot following a cyclist along a coastal road at golden hour, ocean on the left, long shadows, smooth tracking, natural colors</code></td></tr><tr><td style="padding:9px 12px;border:1px solid #e5e5e5;white-space:nowrap"><b>Макро</b></td><td style="padding:9px 12px;border:1px solid #e5e5e5"><code style="font-size:13px">Extreme macro of a water droplet falling into a glass cup, slow motion, backlit, crisp splash, dark background</code></td></tr><tr><td style="padding:9px 12px;border:1px solid #e5e5e5;white-space:nowrap"><b>Фантастика</b></td><td style="padding:9px 12px;border:1px solid #e5e5e5"><code style="font-size:13px">A lone astronaut walking across red desert dunes, two suns in the sky, dust blowing, wide cinematic shot, epic scale</code></td></tr><tr><td style="padding:9px 12px;border:1px solid #e5e5e5;white-space:nowrap"><b>Интерьер</b></td><td style="padding:9px 12px;border:1px solid #e5e5e5"><code style="font-size:13px">Slow pan across a cozy wooden cabin interior, fireplace glowing, snow visible through the window, warm light, film grain</code></td></tr><tr><td style="padding:9px 12px;border:1px solid #e5e5e5;white-space:nowrap"><b>Абстракция</b></td><td style="padding:9px 12px;border:1px solid #e5e5e5"><code style="font-size:13px">Liquid metal morphing into geometric shapes on a black surface, studio lighting, high detail, seamless loop</code></td></tr>
+</table>
+
+<a class="cta" href="https://t.me/SunoCreateapp?start=s_seo_sora">Собрать промпт под свою идею →</a>
+
 <h2>Частые вопросы</h2>
-<details><summary>Что такое Sora?</summary><p>Sora от OpenAI — сильна в длинных сценах и сюжетах. Попробовать можно в @VEO3_ROOBOT — бесплатно.</p></details>
-<details><summary>Как пользоваться Sora?</summary><p>Открой @VEO3_ROOBOT в Telegram, напиши промпт на русском, получи результат за минуту.</p></details>
-<details><summary>Это бесплатно?</summary><p>Да, есть бесплатный доступ. PRO — больше генераций.</p></details>
-<h2>Другие нейросети</h2>
-<ul><li><a href="veo3.html">Veo 3</a> — Veo 3 делает кинематографичные видео по описанию. Как пользоваться, промпты и где попробовать бесплатно.</li>
-<li><a href="kling.html">Kling</a> — Kling даёт бесплатные кредиты на видео. Как пользоваться и что умеет.</li>
-<li><a href="runway.html">Runway</a> — Runway Gen-3 делает видео по описанию. Обзор возможностей и цена.</li>
-<li><a href="nano-banana.html">Nano Banana</a> — Nano Banana (Google) создаёт и редактирует фото по тексту. Как пользоваться бесплатно.</li>
-<li><a href="midjourney.html">Midjourney</a> — Midjourney создаёт арт по описанию. Промпты, стили и где попробовать.</li>
-<li><a href="dalle.html">DALL-E</a> — DALL-E 3 рисует по описанию. Как пользоваться через бота.</li>
-<li><a href="stable.html">Stable Diffusion</a> — Stable Diffusion — открытая модель для генерации фото. Как попробовать.</li></ul>
-<footer><p>© SunoMP3 · Обновлено 2026</p> · <a href="en/sora.html">English</a></footer>
+<details><summary>Чем Sora отличается от Veo 3?</summary><p>Sora сильнее в связности длинных сцен, Veo 3 — в синхронном звуке.</p></details><details><summary>Можно ли задать движение камеры?</summary><p>Да, описание траектории камеры модель понимает.</p></details><details><summary>Сколько длится клип?</summary><p>От нескольких секунд до минуты в зависимости от тарифа.</p></details><details><summary>Где попробовать?</summary><p>В ChatGPT Plus и Pro. Промпт под свою идею соберёт @SunoCreateapp.</p></details>
+
+<footer><p>© SunoMP3 · <a href="vse-stranicy.html">Все страницы</a></p></footer>
 </body>
 </html>

@@ -2,48 +2,46 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<meta name="robots" content="noindex, follow">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Midjourney — AI art generator</title>
-<meta name="description" content="Midjourney is still the benchmark for stylised art, illustration and posters.">
+<title>Midjourney: features, prompts and how to get access</title>
+<meta name="description" content="Midjourney remains the benchmark for artistic generation: light, composition and color feel closer to illustration than to photography.">
 <link rel="canonical" href="https://admin154tut.github.io/en/midjourney.html">
 <link rel="alternate" hreflang="ru" href="https://admin154tut.github.io/midjourney.html">
 <link rel="alternate" hreflang="en" href="https://admin154tut.github.io/en/midjourney.html">
-<meta property="og:title" content="Midjourney — AI art generator">
-<meta property="og:description" content="Midjourney is still the benchmark for stylised art, illustration and posters.">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is Midjourney?", "acceptedAnswer": {"@type": "Answer", "text": "Midjourney is still the benchmark for stylised art, illustration and posters. Try it for free in @AlexCHATGPTrobot."}}, {"@type": "Question", "name": "How do I use Midjourney?", "acceptedAnswer": {"@type": "Answer", "text": "Open @AlexCHATGPTrobot in Telegram, describe what you want, get the result in about a minute."}}, {"@type": "Question", "name": "Is it free?", "acceptedAnswer": {"@type": "Answer", "text": "There is a free tier. PRO adds more generations per day."}}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Что такое --ar?", "acceptedAnswer": {"@type": "Answer", "text": "Параметр соотношения сторон, например --ar 16:9 для широкого кадра."}}, {"@type": "Question", "name": "Midjourney бесплатный?", "acceptedAnswer": {"@type": "Answer", "text": "Нет, нужна подписка."}}, {"@type": "Question", "name": "Умеет ли текст на картинке?", "acceptedAnswer": {"@type": "Answer", "text": "Плохо: надписи часто выходят с ошибками."}}, {"@type": "Question", "name": "Где взять промпт?", "acceptedAnswer": {"@type": "Answer", "text": "Готовые шаблоны собирает @SunoCreateapp."}}]}</script>
 <style>
-body{font-family:system-ui,-apple-system,sans-serif;max-width:760px;margin:0 auto;padding:24px 20px;line-height:1.65;color:#1a1a1a;background:#fafafa}
-h1{font-size:28px;line-height:1.25;margin:0 0 12px}
-h2{font-size:20px;margin:28px 0 10px}
-.lead{font-size:17px;color:#444;margin-bottom:20px}
+body{font-family:system-ui,-apple-system,sans-serif;max-width:780px;margin:0 auto;padding:24px 20px;line-height:1.7;color:#1a1a1a;background:#fafafa}
+h1{font-size:28px;line-height:1.25;margin:0 0 14px}
+h2{font-size:20px;margin:30px 0 10px}
 a{color:#6b4cff}
-.cta{display:block;background:#6b4cff;color:#fff;text-align:center;padding:14px;border-radius:12px;text-decoration:none;font-weight:600;margin:24px 0}
-details{border:1px solid #e5e5e5;border-radius:10px;padding:12px 14px;margin:8px 0;background:#fff}
+.lead{font-size:17px;color:#444}
+.cta{display:block;background:#6b4cff;color:#fff;text-align:center;padding:15px;border-radius:12px;text-decoration:none;font-weight:600;margin:24px 0}
+details{border:1px solid #e5e5e5;border-radius:10px;padding:12px 16px;margin:8px 0;background:#fff}
 summary{font-weight:600;cursor:pointer}
-footer{margin-top:40px;padding-top:18px;border-top:1px solid #e5e5e5;font-size:14px;color:#666}
+table{width:100%;border-collapse:collapse;margin:20px 0;font-size:14px}
+footer{margin-top:40px;padding-top:16px;border-top:1px solid #e5e5e5;font-size:14px;color:#666}
 </style>
 </head>
 <body>
-<h1>Midjourney — AI art generator</h1>
-<p class="lead">Midjourney is still the benchmark for stylised art, illustration and posters.</p>
-<a class="cta" href="https://t.me/AlexCHATGPTrobot?start=s_en_midjourney">Try it in @AlexCHATGPTrobot →</a>
-<h2>How it works</h2>
-<ol><li>Open @AlexCHATGPTrobot</li><li>Write a style-rich prompt</li><li>Get four variations</li></ol>
-<h2>What people use it for</h2>
-<ul><li>Reels and Shorts</li><li>TikTok</li><li>ads and creatives</li><li>product shots</li><li>avatars</li><li>logos</li><li>covers</li><li>thumbnails</li></ul>
+<h1>Midjourney — what it is, how to use it, and prompts</h1>
+<p class="lead">Midjourney остаётся эталоном художественной генерации: свет, композиция и цвет здесь ближе к иллюстрации, чем к фотографии.</p>
+<p>Модель славится «дорогим» видом картинки — как будто кадр снят на плёнку или нарисован художником. Это результат обучения на большом массиве эстетически сильных изображений, а не только на фотографиях.</p><p>Работает через параметры в промпте: соотношение сторон, стилизация, версия модели. Чем точнее описан свет и композиция, тем меньше нужно перегенераций.</p>
+
+<h2>Key features</h2>
+<ul><li>Сильная эстетика и свет</li><li>Параметры задаются прямо в промпте (--ar, --style)</li><li>Хорош для арта, слабее в точном тексте</li></ul>
+
+<h2>Ready-to-use prompts</h2>
+<table>
+<tr style="background:#f0edff"><th style="text-align:left;padding:9px 12px;border:1px solid #e5e1ff">Scenario</th><th style="text-align:left;padding:9px 12px;border:1px solid #e5e1ff">Prompt</th></tr>
+<tr><td style="padding:9px 12px;border:1px solid #e5e5e5;white-space:nowrap"><b>Портрет</b></td><td style="padding:9px 12px;border:1px solid #e5e5e5"><code style="font-size:13px">Portrait of a woman in a linen scarf, soft window light, muted earth tones, 85mm lens, shallow depth of field --ar 4:5</code></td></tr><tr><td style="padding:9px 12px;border:1px solid #e5e5e5;white-space:nowrap"><b>Пейзаж</b></td><td style="padding:9px 12px;border:1px solid #e5e5e5"><code style="font-size:13px">Foggy pine forest at dawn, pale blue light, minimal composition, fine art photography --ar 16:9</code></td></tr><tr><td style="padding:9px 12px;border:1px solid #e5e5e5;white-space:nowrap"><b>Интерьер</b></td><td style="padding:9px 12px;border:1px solid #e5e5e5"><code style="font-size:13px">Mid-century living room, walnut furniture, warm afternoon light through blinds, editorial photo --ar 3:2</code></td></tr><tr><td style="padding:9px 12px;border:1px solid #e5e5e5;white-space:nowrap"><b>Иллюстрация</b></td><td style="padding:9px 12px;border:1px solid #e5e5e5"><code style="font-size:13px">Whimsical illustration of a fox reading a book under a lamp, warm colors, storybook style</code></td></tr><tr><td style="padding:9px 12px;border:1px solid #e5e5e5;white-space:nowrap"><b>Продукт</b></td><td style="padding:9px 12px;border:1px solid #e5e5e5"><code style="font-size:13px">Minimal product photo of a ceramic vase on a beige backdrop, soft shadows, studio light --ar 1:1</code></td></tr>
+</table>
+
+<a class="cta" href="https://t.me/SunoCreateapp?start=s_seo_midjourney">Build a prompt for your idea →</a>
+
 <h2>FAQ</h2>
-<details><summary>What is Midjourney?</summary><p>Midjourney is still the benchmark for stylised art, illustration and posters. Try it for free in @AlexCHATGPTrobot.</p></details>
-<details><summary>How do I use Midjourney?</summary><p>Open @AlexCHATGPTrobot in Telegram, describe what you want, get the result in about a minute.</p></details>
-<details><summary>Is it free?</summary><p>There is a free tier. PRO adds more generations per day.</p></details>
-<h2>Other AI tools</h2>
-<ul><li><a href="veo3.html">Veo 3 — AI video generator</a></li>
-<li><a href="sora.html">Sora — OpenAI AI video</a></li>
-<li><a href="kling.html">Kling AI — free video generator</a></li>
-<li><a href="runway.html">Runway ML — AI video</a></li>
-<li><a href="nano-banana.html">Nano Banana — AI photo editor</a></li>
-<li><a href="dalle.html">DALL-E 3 — AI image generator</a></li>
-<li><a href="chatgpt.html">ChatGPT — AI assistant</a></li>
-<li><a href="jarvis.html">Jarvis — AI assistant bot</a></li></ul>
-<footer><p>© SunoMP3 · <a href="index.html">Suno downloader</a> · <a href="bots.html">All bots</a></p> · <a href="../midjourney.html">Русский</a></footer>
+<details><summary>Что такое --ar?</summary><p>Параметр соотношения сторон, например --ar 16:9 для широкого кадра.</p></details><details><summary>Midjourney бесплатный?</summary><p>Нет, нужна подписка.</p></details><details><summary>Умеет ли текст на картинке?</summary><p>Плохо: надписи часто выходят с ошибками.</p></details><details><summary>Где взять промпт?</summary><p>Готовые шаблоны собирает @SunoCreateapp.</p></details>
+
+<footer><p>© SunoMP3 · <a href="../vse-stranicy.html">Все страницы</a></p></footer>
 </body>
 </html>

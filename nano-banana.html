@@ -3,51 +3,43 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Nano Banana — нейросеть для фото</title>
-<meta name="description" content="Nano Banana (Google) создаёт и редактирует фото по тексту. Как пользоваться бесплатно.">
+<title>Nano Banana: возможности, промпты и как получить доступ</title>
+<meta name="description" content="Nano Banana — модель редактирования изображений: она не просто рисует по описанию, а меняет конкретные области фотографии, сохраняя всё остальное.">
 <link rel="canonical" href="https://admin154tut.github.io/nano-banana.html">
 <link rel="alternate" hreflang="ru" href="https://admin154tut.github.io/nano-banana.html">
-<link rel="alternate" hreflang="en" href="https://admin154tut.github.io/en/nano-banana.html">
-<link rel="alternate" hreflang="x-default" href="https://admin154tut.github.io/nano-banana.html">
-<meta property="og:title" content="Nano Banana — нейросеть для фото">
-<meta property="og:description" content="Nano Banana (Google) создаёт и редактирует фото по тексту. Как пользоваться бесплатно.">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Что такое Nano Banana?", "acceptedAnswer": {"@type": "Answer", "text": "Nano Banana — новый образ от Google, вирусный в 2025–2026. Попробовать можно в @AlexCHATGPTrobot — бесплатно."}}, {"@type": "Question", "name": "Как пользоваться Nano Banana?", "acceptedAnswer": {"@type": "Answer", "text": "Открой @AlexCHATGPTrobot в Telegram, напиши промпт на русском, получи результат за минуту."}}, {"@type": "Question", "name": "Это бесплатно?", "acceptedAnswer": {"@type": "Answer", "text": "Да, есть бесплатный доступ. PRO — больше генераций."}}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Чем Nano Banana отличается от Midjourney?", "acceptedAnswer": {"@type": "Answer", "text": "Midjourney генерирует с нуля, Nano Banana редактирует существующее фото."}}, {"@type": "Question", "name": "Сохранится ли лицо?", "acceptedAnswer": {"@type": "Answer", "text": "Да, при локальном редактировании черты лица не меняются."}}, {"@type": "Question", "name": "Где доступна?", "acceptedAnswer": {"@type": "Answer", "text": "В Google Gemini и AI Studio."}}, {"@type": "Question", "name": "Можно ли убрать объект?", "acceptedAnswer": {"@type": "Answer", "text": "Да, это один из основных сценариев."}}]}</script>
 <style>
-body{font-family:system-ui,-apple-system,sans-serif;max-width:760px;margin:0 auto;padding:24px 20px;line-height:1.65;color:#1a1a1a;background:#fafafa}
-h1{font-size:28px;line-height:1.25;margin:0 0 12px}
-h2{font-size:20px;margin:28px 0 10px}
-.lead{font-size:17px;color:#444;margin-bottom:20px}
+body{font-family:system-ui,-apple-system,sans-serif;max-width:780px;margin:0 auto;padding:24px 20px;line-height:1.7;color:#1a1a1a;background:#fafafa}
+h1{font-size:28px;line-height:1.25;margin:0 0 14px}
+h2{font-size:20px;margin:30px 0 10px}
 a{color:#6b4cff}
-.cta{display:block;background:#6b4cff;color:#fff;text-align:center;padding:14px;border-radius:12px;text-decoration:none;font-weight:600;margin:24px 0}
-details{border:1px solid #e5e5e5;border-radius:10px;padding:12px 14px;margin:8px 0;background:#fff}
+.lead{font-size:17px;color:#444}
+.cta{display:block;background:#6b4cff;color:#fff;text-align:center;padding:15px;border-radius:12px;text-decoration:none;font-weight:600;margin:24px 0}
+details{border:1px solid #e5e5e5;border-radius:10px;padding:12px 16px;margin:8px 0;background:#fff}
 summary{font-weight:600;cursor:pointer}
-footer{margin-top:40px;padding-top:18px;border-top:1px solid #e5e5e5;font-size:14px;color:#666}
+table{width:100%;border-collapse:collapse;margin:20px 0;font-size:14px}
+footer{margin-top:40px;padding-top:16px;border-top:1px solid #e5e5e5;font-size:14px;color:#666}
 </style>
 </head>
 <body>
-<h1>Nano Banana — нейросеть</h1>
-<p class="lead">Nano Banana — новый образ от Google, вирусный в 2025–2026.</p>
-<a class="cta" href="https://t.me/AlexCHATGPTrobot?start=s_seo_nano-banana">🎬 Попробовать в @AlexCHATGPTrobot →</a>
-<h2>Как пользоваться</h2>
-<ol>
-<li>Открой <b>@AlexCHATGPTrobot</b> в Telegram</li>
-<li>Напиши, что хочешь: «сделай видео или фото»</li>
-<li>Получи результат за минуту</li>
-</ol>
-<h2>Для чего подходит</h2>
-<ul><li>для Reels — короткое вертикальное видео</li><li>для Shorts — видео в YouTube</li><li>для TikTok — ролик в TikTok</li></ul>
+<h1>Nano Banana — что это, как пользоваться и промпты</h1>
+<p class="lead">Nano Banana — модель редактирования изображений: она не просто рисует по описанию, а меняет конкретные области фотографии, сохраняя всё остальное.</p>
+<p>Главная особенность — локальное редактирование. Вы показываете картинку и просите изменить одно: убрать объект, поменять фон, перекрасить одежду, добавить предмет в руку. Модель сохраняет лицо, свет и перспективу, не перерисовывая кадр целиком.</p><p>Второй сценарий — сборка нескольких референсов: персонаж с одного фото, поза с другого, фон с третьего. Это то, что раньше требовало часов в Photoshop.</p>
+
+<h2>Ключевые особенности</h2>
+<ul><li>Меняет отдельные области, не перерисовывая кадр</li><li>Сохраняет лицо и освещение</li><li>Умеет собирать персонажа из нескольких референсов</li></ul>
+
+<h2>Готовые промпты</h2>
+<table>
+<tr style="background:#f0edff"><th style="text-align:left;padding:9px 12px;border:1px solid #e5e1ff">Сценарий</th><th style="text-align:left;padding:9px 12px;border:1px solid #e5e1ff">Промпт</th></tr>
+<tr><td style="padding:9px 12px;border:1px solid #e5e5e5;white-space:nowrap"><b>Замена фона</b></td><td style="padding:9px 12px;border:1px solid #e5e5e5"><code style="font-size:13px">Replace the background with a sunny beach, keep the person unchanged, match the lighting direction and shadows</code></td></tr><tr><td style="padding:9px 12px;border:1px solid #e5e5e5;white-space:nowrap"><b>Убрать объект</b></td><td style="padding:9px 12px;border:1px solid #e5e5e5"><code style="font-size:13px">Remove the trash bin from the left side, fill the area with the wall texture, keep everything else identical</code></td></tr><tr><td style="padding:9px 12px;border:1px solid #e5e5e5;white-space:nowrap"><b>Смена одежды</b></td><td style="padding:9px 12px;border:1px solid #e5e5e5"><code style="font-size:13px">Change the jacket color to dark green, keep the fabric texture and folds, same lighting</code></td></tr><tr><td style="padding:9px 12px;border:1px solid #e5e5e5;white-space:nowrap"><b>Добавить предмет</b></td><td style="padding:9px 12px;border:1px solid #e5e5e5"><code style="font-size:13px">Add a coffee cup in the person&#x27;s right hand, correct scale and shadow, natural grip</code></td></tr><tr><td style="padding:9px 12px;border:1px solid #e5e5e5;white-space:nowrap"><b>Стиль</b></td><td style="padding:9px 12px;border:1px solid #e5e5e5"><code style="font-size:13px">Restyle this photo as a watercolor illustration, keep the composition and facial features recognizable</code></td></tr>
+</table>
+
+<a class="cta" href="https://t.me/SunoCreateapp?start=s_seo_nano-banana">Собрать промпт под свою идею →</a>
+
 <h2>Частые вопросы</h2>
-<details><summary>Что такое Nano Banana?</summary><p>Nano Banana — новый образ от Google, вирусный в 2025–2026. Попробовать можно в @AlexCHATGPTrobot — бесплатно.</p></details>
-<details><summary>Как пользоваться Nano Banana?</summary><p>Открой @AlexCHATGPTrobot в Telegram, напиши промпт на русском, получи результат за минуту.</p></details>
-<details><summary>Это бесплатно?</summary><p>Да, есть бесплатный доступ. PRO — больше генераций.</p></details>
-<h2>Другие нейросети</h2>
-<ul><li><a href="veo3.html">Veo 3</a> — Veo 3 делает кинематографичные видео по описанию. Как пользоваться, промпты и где попробовать бесплатно.</li>
-<li><a href="sora.html">Sora</a> — Sora создаёт видео по тексту до 20 секунд. Как пользоваться и где попробовать.</li>
-<li><a href="kling.html">Kling</a> — Kling даёт бесплатные кредиты на видео. Как пользоваться и что умеет.</li>
-<li><a href="runway.html">Runway</a> — Runway Gen-3 делает видео по описанию. Обзор возможностей и цена.</li>
-<li><a href="midjourney.html">Midjourney</a> — Midjourney создаёт арт по описанию. Промпты, стили и где попробовать.</li>
-<li><a href="dalle.html">DALL-E</a> — DALL-E 3 рисует по описанию. Как пользоваться через бота.</li>
-<li><a href="stable.html">Stable Diffusion</a> — Stable Diffusion — открытая модель для генерации фото. Как попробовать.</li></ul>
-<footer><p>© SunoMP3 · Обновлено 2026</p> · <a href="en/nano-banana.html">English</a></footer>
+<details><summary>Чем Nano Banana отличается от Midjourney?</summary><p>Midjourney генерирует с нуля, Nano Banana редактирует существующее фото.</p></details><details><summary>Сохранится ли лицо?</summary><p>Да, при локальном редактировании черты лица не меняются.</p></details><details><summary>Где доступна?</summary><p>В Google Gemini и AI Studio.</p></details><details><summary>Можно ли убрать объект?</summary><p>Да, это один из основных сценариев.</p></details>
+
+<footer><p>© SunoMP3 · <a href="vse-stranicy.html">Все страницы</a></p></footer>
 </body>
 </html>
