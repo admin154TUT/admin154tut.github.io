@@ -7,6 +7,7 @@
 <meta name="description" content="Конвертируй HEIC в JPG за секунду. Без установки программ, без регистрации — прямо в Telegram.">
 <link rel="canonical" href="https://admin154tut.github.io/heic-v-jpg.html">
 <link rel="alternate" hreflang="ru" href="https://admin154tut.github.io/heic-v-jpg.html">
+<link rel="alternate" hreflang="en" href="https://admin154tut.github.io/en/heic-v-jpg.html">
 <meta property="og:title" content="HEIC в JPG — конвертер онлайн бесплатно">
 <meta property="og:description" content="Конвертируй HEIC в JPG за секунду. Без установки программ, без регистрации — прямо в Telegram.">
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "HEIC и JPG — в чём разница?", "acceptedAnswer": {"@type": "Answer", "text": "HEIC — современный формат Apple с лучшим сжатием, JPG — универсальный: открывается везде. Для совместимости HEIC переводят в JPG."}}, {"@type": "Question", "name": "Теряется ли качество?", "acceptedAnswer": {"@type": "Answer", "text": "Нет видимой потери: JPEG сохраняется с качеством 92%, при котором разница на глаз не заметна."}}, {"@type": "Question", "name": "Сколько фото можно конвертировать?", "acceptedAnswer": {"@type": "Answer", "text": "Бесплатно — 3 файла в день, в PRO — до 50. Каждое фото обрабатывается отдельно."}}]}</script>
@@ -28,6 +29,45 @@ footer{margin-top:40px;padding-top:16px;border-top:1px solid #e5e5e5;font-size:1
 <p class="lead">Конвертируй HEIC в JPG за секунду. Без установки программ, без регистрации — прямо в Telegram.</p>
 <p>HEIC появился в iOS 11 как замена JPEG: Apple нужно было экономить место на телефоне, и новый формат справляется с этим вдвое лучше. Проблема в другом — за пределами экосистемы Apple его почти никто не читает. Windows до сих пор открывает такие файлы только через расширение, старые версии Photoshop и Word их не видят, а половина сайтов отказывается принимать загрузку.</p>
 <p>Перевод в JPEG решает это за один шаг. Формат понимают все устройства с 1992 года, и при качестве 92% разница с оригиналом не различима глазом даже на большом мониторе. Вес при этом падает в два-четыре раза, а метаданные — дата съёмки, геометка, модель камеры — остаются на месте.</p>
+<div id="cv" style="margin:24px 0;padding:20px;border:2px dashed #b9aeff;border-radius:14px;background:#f8f6ff;text-align:center">
+<p style="margin:0 0 12px;font-weight:600">Перетащи картинку сюда — конвертирую прямо в браузере</p>
+<input id="cvf" type="file" accept="image/*,.heic,.heif" style="display:none">
+<label for="cvf" style="display:inline-block;background:#6b4cff;color:#fff;padding:11px 22px;border-radius:10px;cursor:pointer;font-weight:600">Выбрать файл</label>
+<p id="cvs" style="margin:12px 0 0;color:#666;font-size:14px"></p>
+<p id="cvw" style="display:none;margin:10px 0 0;color:#b36b00;font-size:14px">HEIC браузер не откроет — для него нужен бот ↓</p>
+<a id="cvd" style="display:none;margin-top:10px;display:inline-block;background:#1f8a4c;color:#fff;padding:11px 22px;border-radius:10px;text-decoration:none;font-weight:600">Скачать</a>
+</div>
+<script>
+(function(){
+  var f=document.getElementById('cvf'), s=document.getElementById('cvs'),
+      w=document.getElementById('cvw'), a=document.getElementById('cvd');
+  f.addEventListener('change', function(){
+    var file=f.files[0]; if(!file) return;
+    s.textContent='…'; w.style.display='none'; a.style.display='none';
+    var img=new Image();
+    var url=URL.createObjectURL(file);
+    img.onload=function(){
+      var c=document.createElement('canvas');
+      c.width=img.naturalWidth; c.height=img.naturalHeight;
+      var x=c.getContext('2d');
+      if('JPG'==='JPG'){ x.fillStyle='#fff'; x.fillRect(0,0,c.width,c.height); }
+      x.drawImage(img,0,0);
+      c.toBlob(function(blob){
+        var name=file.name.replace(/\.[^.]+$/,'')+'.jpg';
+        a.href=URL.createObjectURL(blob);
+        a.download=name;
+        a.style.display='inline-block';
+        s.textContent=(Math.round(blob.size/1024))+' КБ · '+c.width+'×'+c.height;
+        URL.revokeObjectURL(url);
+      }, 'image/jpeg', 0.92);
+    };
+    img.onerror=function(){ s.textContent=''; w.style.display='block'; URL.revokeObjectURL(url); };
+    img.src=url;
+  });
+})();
+</script>
+
+
 <a class="cta" href="https://t.me/format_box_bot?start=s_seo_heic-v-jpg">Открыть бота и конвертировать →</a>
 
 <table style="width:100%;border-collapse:collapse;margin:22px 0;font-size:15px">

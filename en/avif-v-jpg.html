@@ -30,6 +30,45 @@ footer{margin-top:40px;padding-top:16px;border-top:1px solid #e5e5e5;font-size:1
 <p class="lead">Convert AVIF to JPG in a second. No software, no signup — right in Telegram.</p>
 <p>AVIF — самый молодой из популярных форматов. Он построен на кодеке AV1, даёт лучшее сжатие, чем WebP и JPEG, и уже поддерживается современными браузерами. Но поддержка в десктопных программах отстаёт: старые версии Windows, некоторые редакторы и половина онлайн-сервисов его просто не видят.</p>
 <p>JPEG снимает вопрос совместимости полностью. Он открывается на любом устройстве, которое выходит в интернет, — от старого ноутбука до принтера в офисе. При переводе с качеством 92% вы получаете файл, который визуально не отличается от AVIF, но весит больше.</p>
+<div id="cv" style="margin:24px 0;padding:20px;border:2px dashed #b9aeff;border-radius:14px;background:#f8f6ff;text-align:center">
+<p style="margin:0 0 12px;font-weight:600">Drop an image here — I'll convert it right in your browser</p>
+<input id="cvf" type="file" accept="image/*,.heic,.heif" style="display:none">
+<label for="cvf" style="display:inline-block;background:#6b4cff;color:#fff;padding:11px 22px;border-radius:10px;cursor:pointer;font-weight:600">Choose file</label>
+<p id="cvs" style="margin:12px 0 0;color:#666;font-size:14px"></p>
+<p id="cvw" style="display:none;margin:10px 0 0;color:#b36b00;font-size:14px">The browser can't open HEIC — use the bot below ↓</p>
+<a id="cvd" style="display:none;margin-top:10px;display:inline-block;background:#1f8a4c;color:#fff;padding:11px 22px;border-radius:10px;text-decoration:none;font-weight:600">Download</a>
+</div>
+<script>
+(function(){
+  var f=document.getElementById('cvf'), s=document.getElementById('cvs'),
+      w=document.getElementById('cvw'), a=document.getElementById('cvd');
+  f.addEventListener('change', function(){
+    var file=f.files[0]; if(!file) return;
+    s.textContent='…'; w.style.display='none'; a.style.display='none';
+    var img=new Image();
+    var url=URL.createObjectURL(file);
+    img.onload=function(){
+      var c=document.createElement('canvas');
+      c.width=img.naturalWidth; c.height=img.naturalHeight;
+      var x=c.getContext('2d');
+      if('JPG'==='JPG'){ x.fillStyle='#fff'; x.fillRect(0,0,c.width,c.height); }
+      x.drawImage(img,0,0);
+      c.toBlob(function(blob){
+        var name=file.name.replace(/\.[^.]+$/,'')+'.jpg';
+        a.href=URL.createObjectURL(blob);
+        a.download=name;
+        a.style.display='inline-block';
+        s.textContent=(Math.round(blob.size/1024))+' КБ · '+c.width+'×'+c.height;
+        URL.revokeObjectURL(url);
+      }, 'image/jpeg', 0.92);
+    };
+    img.onerror=function(){ s.textContent=''; w.style.display='block'; URL.revokeObjectURL(url); };
+    img.src=url;
+  });
+})();
+</script>
+
+
 <a class="cta" href="https://t.me/format_box_bot?start=s_seo_avif-v-jpg">Open the bot and convert →</a>
 
 <table style="width:100%;border-collapse:collapse;margin:22px 0;font-size:15px">

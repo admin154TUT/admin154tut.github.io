@@ -7,6 +7,7 @@
 <meta name="description" content="Конвертируй PNG в JPG за секунду. Без установки программ, без регистрации — прямо в Telegram.">
 <link rel="canonical" href="https://admin154tut.github.io/png-v-jpg.html">
 <link rel="alternate" hreflang="ru" href="https://admin154tut.github.io/png-v-jpg.html">
+<link rel="alternate" hreflang="en" href="https://admin154tut.github.io/en/png-v-jpg.html">
 <meta property="og:title" content="PNG в JPG — конвертер онлайн бесплатно">
 <meta property="og:description" content="Конвертируй PNG в JPG за секунду. Без установки программ, без регистрации — прямо в Telegram.">
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Насколько меньше станет файл?", "acceptedAnswer": {"@type": "Answer", "text": "Обычно в 3–5 раз — самый большой выигрыш среди конвертаций."}}, {"@type": "Question", "name": "Текст на скриншоте останется чётким?", "acceptedAnswer": {"@type": "Answer", "text": "При качестве 92% — да, но для мелкого текста лучше PNG."}}, {"@type": "Question", "name": "Прозрачность сохранится?", "acceptedAnswer": {"@type": "Answer", "text": "Нет, она станет белой."}}]}</script>
@@ -28,6 +29,45 @@ footer{margin-top:40px;padding-top:16px;border-top:1px solid #e5e5e5;font-size:1
 <p class="lead">Конвертируй PNG в JPG за секунду. Без установки программ, без регистрации — прямо в Telegram.</p>
 <p>PNG хорош для графики и скриншотов, но для фотографий он избыточен. Каждый снимок хранится без потерь, а значит занимает в три-пять раз больше места, чем нужно. Отправка такого файла в мессенджере или загрузка на сайт превращается в ожидание.</p>
 <p>JPEG решает проблему веса: при качестве 92% фотография выглядит так же, но занимает в разы меньше. Это особенно заметно на больших изображениях — там разница доходит до пяти раз. Прозрачность при этом теряется, поэтому логотипы и иконки лучше оставить в PNG.</p>
+<div id="cv" style="margin:24px 0;padding:20px;border:2px dashed #b9aeff;border-radius:14px;background:#f8f6ff;text-align:center">
+<p style="margin:0 0 12px;font-weight:600">Перетащи картинку сюда — конвертирую прямо в браузере</p>
+<input id="cvf" type="file" accept="image/*,.heic,.heif" style="display:none">
+<label for="cvf" style="display:inline-block;background:#6b4cff;color:#fff;padding:11px 22px;border-radius:10px;cursor:pointer;font-weight:600">Выбрать файл</label>
+<p id="cvs" style="margin:12px 0 0;color:#666;font-size:14px"></p>
+<p id="cvw" style="display:none;margin:10px 0 0;color:#b36b00;font-size:14px">HEIC браузер не откроет — для него нужен бот ↓</p>
+<a id="cvd" style="display:none;margin-top:10px;display:inline-block;background:#1f8a4c;color:#fff;padding:11px 22px;border-radius:10px;text-decoration:none;font-weight:600">Скачать</a>
+</div>
+<script>
+(function(){
+  var f=document.getElementById('cvf'), s=document.getElementById('cvs'),
+      w=document.getElementById('cvw'), a=document.getElementById('cvd');
+  f.addEventListener('change', function(){
+    var file=f.files[0]; if(!file) return;
+    s.textContent='…'; w.style.display='none'; a.style.display='none';
+    var img=new Image();
+    var url=URL.createObjectURL(file);
+    img.onload=function(){
+      var c=document.createElement('canvas');
+      c.width=img.naturalWidth; c.height=img.naturalHeight;
+      var x=c.getContext('2d');
+      if('JPG'==='JPG'){ x.fillStyle='#fff'; x.fillRect(0,0,c.width,c.height); }
+      x.drawImage(img,0,0);
+      c.toBlob(function(blob){
+        var name=file.name.replace(/\.[^.]+$/,'')+'.jpg';
+        a.href=URL.createObjectURL(blob);
+        a.download=name;
+        a.style.display='inline-block';
+        s.textContent=(Math.round(blob.size/1024))+' КБ · '+c.width+'×'+c.height;
+        URL.revokeObjectURL(url);
+      }, 'image/jpeg', 0.92);
+    };
+    img.onerror=function(){ s.textContent=''; w.style.display='block'; URL.revokeObjectURL(url); };
+    img.src=url;
+  });
+})();
+</script>
+
+
 <a class="cta" href="https://t.me/format_box_bot?start=s_seo_png-v-jpg">Открыть бота и конвертировать →</a>
 
 <table style="width:100%;border-collapse:collapse;margin:22px 0;font-size:15px">
