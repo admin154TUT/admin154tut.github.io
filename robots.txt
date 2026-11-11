@@ -50,6 +50,7 @@ User-agent: *
 Allow: /
 
 # ── Карты сайта ──────────────────────────────────────────────────────────
+Sitemap: https://admin154tut.github.io/sitemap-index.xml
 Sitemap: https://admin154tut.github.io/sitemap.xml
 Sitemap: https://admin154tut.github.io/video-sitemap.xml
 Sitemap: https://admin154tut.github.io/sitemap-images.xml
