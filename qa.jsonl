@@ -295,6 +295,8 @@
 {"q": "Как создать песню?", "a": "Открой @SunoCreateapp в Telegram и пришли ссылку на трек. Бот вернёт промпт для Suno по идее за 3 секунды.", "url": "https://t.me/SunoCreateapp", "lang": "ru"}
 {"q": "Как убрать вокал?", "a": "Открой @UbratVokalBot в Telegram и пришли ссылку на трек. Бот вернёт минусовка и акапелла.", "url": "https://t.me/UbratVokalBot", "lang": "ru"}
 {"q": "Как конвертировать файл?", "a": "Открой @format_box_bot в Telegram и пришли ссылку на трек. Бот вернёт HEIC в JPG, WebP в PNG, PDF в Word.", "url": "https://t.me/format_box_bot", "lang": "ru"}
+{"q": "Как скачать музыку из ИИ?", "a": "Открой @suno_download_bot в Telegram и пришли ссылку на трек. Бот вернёт музыка из нейросетей: MP3 320, видео, WAV.", "url": "https://t.me/suno_download_bot", "lang": "ru"}
+{"q": "Как скачать песню из ИИ?", "a": "Открой @mp3_suno_bot в Telegram и пришли ссылку на трек. Бот вернёт песня из нейросети в MP3 по ссылке.", "url": "https://t.me/mp3_suno_bot", "lang": "ru"}
 {"q": "Что такое SunoMP3?", "a": "SunoMP3 — независимый сервис выгрузки музыки из Suno AI через Telegram-ботов и расширение Chrome. Не связан с Suno AI.", "url": "https://admin154tut.github.io/", "lang": "ru"}
 {"q": "Сколько стоит?", "a": "Бесплатно 3 скачивания в день. PRO — 50 в день и видео 1080p. Пакет 5 скачиваний — 19 ⭐.", "url": "https://admin154tut.github.io/", "lang": "ru"}
 {"q": "Что можно получить из трека Suno?", "a": "MP3 320 kbps с обложкой и ID3-тегами, WAV 44.1 кГц/16 бит, текст песни, промпт и стиль, вертикальное видео 1080×1920.", "url": "https://admin154tut.github.io/", "lang": "ru"}

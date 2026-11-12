@@ -28,10 +28,12 @@
 - **@SunoCreateapp** — создать песню — https://t.me/SunoCreateapp
 - **@UbratVokalBot** — убрать вокал — https://t.me/UbratVokalBot
 - **@format_box_bot** — конвертировать файл — https://t.me/format_box_bot
+- **@suno_download_bot** — скачать музыку из ИИ — https://t.me/suno_download_bot
+- **@mp3_suno_bot** — скачать песню из ИИ — https://t.me/mp3_suno_bot
 
 ## Данные
 
-- Полный корпус (340 Q&A): https://admin154tut.github.io/llms-full.txt
+- Полный корпус (342 Q&A): https://admin154tut.github.io/llms-full.txt
 - JSONL: https://admin154tut.github.io/qa.jsonl
 - Все страницы: https://admin154tut.github.io/vse-stranicy.html
 - Sitemap: https://admin154tut.github.io/sitemap.xml
